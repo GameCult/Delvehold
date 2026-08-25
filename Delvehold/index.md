@@ -11,6 +11,8 @@ description: One persistent world, experienced from opposite sides of the contra
     <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
   </section>
 
+  <div class="delvehold-mode-boundary" aria-hidden="true"></div>
+
   <section class="delvehold-mode-panel delvehold-mode-panel-hold">
     <p class="delvehold-mode-label">HOLD</p>
     <h2>Build the warm machine waiting above.</h2>

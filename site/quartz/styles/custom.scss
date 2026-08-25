@@ -95,6 +95,7 @@ article > h3 {
 
 body[data-slug="index"] {
   background: color-mix(in srgb, var(--delve-green) 8%, #050505);
+  timeline-scope: --delvehold-mode-shift;
 
   &::before {
     content: "";
@@ -105,8 +106,8 @@ body[data-slug="index"] {
     background: color-mix(in srgb, var(--hold-purple) 9%, #050505);
     clip-path: polygon(120% 0, 100% 0, 100% 100%, 100% 100%);
     animation: delvehold-diagonal-wipe linear both;
-    animation-timeline: scroll(root block);
-    animation-range: 8% 92%;
+    animation-timeline: --delvehold-mode-shift;
+    animation-range: entry 0% exit 100%;
   }
 
   &::after {
@@ -122,8 +123,8 @@ body[data-slug="index"] {
     transform: translateX(130vw) rotate(11deg);
     transform-origin: center;
     animation: delvehold-wipe-edge linear both;
-    animation-timeline: scroll(root block);
-    animation-range: 8% 92%;
+    animation-timeline: --delvehold-mode-shift;
+    animation-range: entry 0% exit 100%;
   }
 
   #quartz-root {
@@ -146,15 +147,22 @@ body[data-slug="index"] {
 
   .delvehold-wordmark-delve {
     animation: delvehold-delve-weight linear both;
-    animation-timeline: scroll(root block);
-    animation-range: 8% 92%;
+    animation-timeline: --delvehold-mode-shift;
+    animation-range: entry 0% exit 100%;
   }
 
   .delvehold-wordmark-hold {
     animation: delvehold-hold-weight linear both;
-    animation-timeline: scroll(root block);
-    animation-range: 8% 92%;
+    animation-timeline: --delvehold-mode-shift;
+    animation-range: entry 0% exit 100%;
   }
+}
+
+.delvehold-mode-boundary {
+  height: 1px;
+  margin-top: -1px;
+  pointer-events: none;
+  view-timeline: --delvehold-mode-shift block;
 }
 
 .delvehold-landing {
