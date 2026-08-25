@@ -39,6 +39,33 @@ body {
     height: calc(100vh - 8.2rem);
     padding-top: 2rem;
   }
+
+  .page > #quartz-body .explorer-content,
+  .page > #quartz-body .explorer-content > .explorer-ul {
+    scrollbar-color: var(--secondary) transparent;
+    scrollbar-width: thin;
+
+    &::-webkit-scrollbar {
+      width: 5px;
+    }
+
+    &::-webkit-scrollbar-track,
+    &::-webkit-scrollbar-corner {
+      background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      min-height: 2rem;
+      border-radius: 999px;
+      background: var(--secondary);
+    }
+
+    &::-webkit-scrollbar-button {
+      display: none;
+      width: 0;
+      height: 0;
+    }
+  }
 }
 
 .delvehold-masthead {

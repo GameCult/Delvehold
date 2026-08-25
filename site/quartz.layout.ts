@@ -6,7 +6,7 @@ const documentationExplorer = Component.ConditionalRender({
   component: Component.DesktopOnly(
     Component.Explorer({
       title: "Documentation",
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       folderClickBehavior: "link",
       useSavedState: false,
       filterFn: (node) => node.slug.startsWith("Documentation"),
@@ -20,7 +20,7 @@ const gameDesignExplorer = Component.ConditionalRender({
   component: Component.DesktopOnly(
     Component.Explorer({
       title: "Game Design",
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       folderClickBehavior: "link",
       useSavedState: false,
       filterFn: (node) => node.slug.startsWith("Game-Design"),
@@ -34,7 +34,7 @@ const loreExplorer = Component.ConditionalRender({
   component: Component.DesktopOnly(
     Component.Explorer({
       title: "Lore",
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       folderClickBehavior: "link",
       useSavedState: false,
       filterFn: (node) => node.slug.startsWith("Lore"),
@@ -66,10 +66,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: sectionExplorers,
   right: [
-    Component.ConditionalRender({
-      component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
     Component.ConditionalRender({
       component: Component.Backlinks(),
       condition: (page) => page.fileData.slug !== "index",
