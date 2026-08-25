@@ -4,7 +4,7 @@ import DelveholdMasthead from "./quartz/components/DelveholdMasthead"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [DelveholdMasthead(), Component.Spacer(), Component.Search()],
+  header: [DelveholdMasthead()],
   afterBody: [],
   footer: Component.Footer({
     links: {

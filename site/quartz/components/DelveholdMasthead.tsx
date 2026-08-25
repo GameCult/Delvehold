@@ -18,7 +18,9 @@ export default (() => {
     return (
       <section class="delvehold-masthead">
         <a class="delvehold-wordmark" href={resolveRelative(currentSlug, "index" as FullSlug)}>
-          DELVE/HOLD
+          <span class="delvehold-wordmark-delve">DELVE</span>
+          <span class="delvehold-wordmark-slash">/</span>
+          <span class="delvehold-wordmark-hold">HOLD</span>
         </a>
         <nav class="delvehold-nav" aria-label="DELVE/HOLD sections">
           {routes.map((route) => {
