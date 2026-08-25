@@ -20,4 +20,3 @@ The browser client projects the workshop and relevant neighborhood subgraph thro
 A delving contract is the first shared object joining both experiences. Its canonical state includes issuer, objective, offered equipment, reward allocation, target region, accepted expedition, lifecycle status, and outcome references.
 
 Factory and delver interfaces expose different projections of that state. Incomplete knowledge belongs in the projection; canonical state must not be falsified to manufacture mystery.
-

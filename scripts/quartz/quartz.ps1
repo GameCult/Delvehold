@@ -29,4 +29,3 @@ if (-not (Test-Path $buildScript)) {
     --overlayDir site `
     --contentDir Delvehold `
     --outputDir quartz-site/public
-

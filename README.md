@@ -18,4 +18,3 @@ The launcher expects `GameCult-Quartz` beside this repository or at `GAMECULT_QU
 ```
 
 Generated output is written to `quartz-site/public/`.
-

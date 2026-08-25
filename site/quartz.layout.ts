@@ -24,4 +24,3 @@ export const defaultListPageLayout: PageLayout = {
   left: [Component.DesktopOnly(Component.Explorer())],
   right: [],
 }
-

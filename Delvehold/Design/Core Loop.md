@@ -27,4 +27,3 @@ Delvers accept a funded contract, enter a generated dungeon, encounter its curre
 ## The return stroke
 
 A factory decision must alter a later expedition. The expedition's lived outcome must return through CultMesh and materially alter factory play. Both paths use typed intents, receipts, and world-owned state rather than client-owned synchronization.
-

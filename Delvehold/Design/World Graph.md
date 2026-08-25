@@ -16,4 +16,3 @@ The graph contains three initial node kinds:
 Edges carry typed relationships such as mana, materials, contracts, research, dungeon pressure, or visiting workers. They expose capacity, ownership, permission, and provenance. A neighbor may create useful pressure but cannot silently acquire authority inside another player's shard.
 
 Workshop space is scarce. Players specialize, trade, and share infrastructure because no shard can efficiently contain every production chain. Arbitrary neighborhood placement creates local cultures without flattening the world into one global auction house.
-

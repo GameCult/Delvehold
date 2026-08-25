@@ -27,4 +27,3 @@ The factory cannot replace adventurers. It can equip, schedule, measure, abstrac
 - [[Design/Core Loop|Core loop]]
 - [[Design/World Graph|World graph]]
 - [[Design/Authority Map|Authority map]]
-

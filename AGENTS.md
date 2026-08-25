@@ -21,4 +21,3 @@
 - `site/` contains only Delvehold-specific Quartz configuration and presentation.
 - Shared Quartz machinery remains owned by `GameCult/GameCult-Quartz`; do not vendor it here.
 - Generated output under `quartz-site/public/` is disposable and must not become source truth.
-
