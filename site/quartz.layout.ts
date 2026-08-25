@@ -3,43 +3,37 @@ import * as Component from "./quartz/components"
 import DelveholdMasthead from "./quartz/components/DelveholdMasthead"
 
 const documentationExplorer = Component.ConditionalRender({
-  component: Component.DesktopOnly(
-    Component.Explorer({
-      title: "Documentation",
-      folderDefaultState: "collapsed",
-      folderClickBehavior: "link",
-      useSavedState: false,
-      filterFn: (node) => node.slug.startsWith("Documentation"),
-    }),
-  ),
+  component: Component.Explorer({
+    title: "Documentation",
+    folderDefaultState: "collapsed",
+    folderClickBehavior: "link",
+    useSavedState: false,
+    filterFn: (node) => node.slug.startsWith("Documentation"),
+  }),
   condition: (page) =>
     page.fileData.slug === "Documentation" || page.fileData.slug?.startsWith("Documentation/"),
 })
 
 const gameDesignExplorer = Component.ConditionalRender({
-  component: Component.DesktopOnly(
-    Component.Explorer({
-      title: "Game Design",
-      folderDefaultState: "collapsed",
-      folderClickBehavior: "link",
-      useSavedState: false,
-      filterFn: (node) => node.slug.startsWith("Game-Design"),
-    }),
-  ),
+  component: Component.Explorer({
+    title: "Game Design",
+    folderDefaultState: "collapsed",
+    folderClickBehavior: "link",
+    useSavedState: false,
+    filterFn: (node) => node.slug.startsWith("Game-Design"),
+  }),
   condition: (page) =>
     page.fileData.slug === "Game-Design" || page.fileData.slug?.startsWith("Game-Design/"),
 })
 
 const loreExplorer = Component.ConditionalRender({
-  component: Component.DesktopOnly(
-    Component.Explorer({
-      title: "Lore",
-      folderDefaultState: "collapsed",
-      folderClickBehavior: "link",
-      useSavedState: false,
-      filterFn: (node) => node.slug.startsWith("Lore"),
-    }),
-  ),
+  component: Component.Explorer({
+    title: "Lore",
+    folderDefaultState: "collapsed",
+    folderClickBehavior: "link",
+    useSavedState: false,
+    filterFn: (node) => node.slug.startsWith("Lore"),
+  }),
   condition: (page) => page.fileData.slug === "Lore" || page.fileData.slug?.startsWith("Lore/"),
 })
 

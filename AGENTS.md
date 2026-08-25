@@ -20,5 +20,6 @@
 
 - `Delvehold/` contains the published Markdown source.
 - `site/` contains only Delvehold-specific Quartz configuration and presentation.
+- The masthead owns global section routes. Desktop and mobile within-section navigation are projections of the same Quartz content tree and active-section filters; do not maintain separate route lists.
 - Shared Quartz machinery remains owned by `GameCult/GameCult-Quartz`; do not vendor it here.
 - Generated output under `quartz-site/public/` is disposable and must not become source truth.
