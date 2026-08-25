@@ -35,4 +35,4 @@ Traditional smiths lose status to mechanized production. Factory and mine worker
 
 Millions now rely on cheap magical power. Closing farms means shortages; limiting mines means unemployment; restricting engines threatens food and heat; abandoning deep infrastructure may make whole cities uninhabitable.
 
-The machinery becomes morally intolerable after society has made it materially indispensable. This is the industrial state's strongest defence and its most damning confession.
+The machinery becomes morally intolerable after society has made it materially indispensable. This is the industrial order's strongest defence and its most damning confession.

@@ -7,6 +7,8 @@ The Greathold is not a city built beneath a mountain range. It is the inhabited 
 
 Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where its districts, subsidiary holds, and frontier galleries possess their own governments and identities.
 
+Those governments are local first. Workshop moots, hearth assemblies, infrastructure cooperatives, gate circles, craft associations, and subsidiary holds decide matters where their consequences live. Greathold-wide commitments are assembled from those bodies rather than issued by a permanent sovereign centre. The [[Mastership and Citizenship|workshop franchise]] supplies their characteristic civic unit.
+
 ## Built by delving
 
 The Greathold was not conquered in one legendary campaign. Each generation pushed into new chambers, answered the dungeon's resistance, stabilized what it could hold, and inherited routes that still required clearing after settlement.
@@ -46,4 +48,3 @@ The Greathold is an extension of the world-dungeon and a work of dwarven civiliz
 Engineers describe captured natural infrastructure. Traditionalists describe a covenant embodied in stone. Elven critics call it scar tissue or a graft. The deeper ontology permits all three: the Greathold is a dwarven social organism nested within, shaping, and increasingly shaped by a regional dungeon organism.
 
 This makes the [[Machine-Dungeon|machine-dungeon]] question older than the machines. Industry may not be turning an ordinary city into a dungeon. It may be giving an ancient dwarf-and-mountain hybrid enough integration, memory, and feedback to recognize itself.
-

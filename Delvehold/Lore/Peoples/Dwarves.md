@@ -13,6 +13,12 @@ The Greathold's deep gates made dwarven territory the world's principal adventur
 
 Industrialization brings extraordinary gains. Safer mines, warm homes, reliable water, cheap light, preserved food, mass transport, and accessible magic allow the Greathold to support millions. Those lives are not propaganda. They are why retreat cannot be morally simple.
 
+## Mastership
+
+Dwarven civic adulthood is earned through [[Mastership and Citizenship|Mastership]], not granted by age or ancestry alone. An apprentice becomes a full citizen by producing a Masterwork, founding an independent workshop, and accepting responsibility for its civic seal.
+
+The institution is open to every people. A recognized non-dwarven Master is fully admitted to the Greathold's workshop franchise, while a dwarf who has not completed the passage is not yet a voting citizen. This makes dwarven society culturally demanding without making it an ethnostate.
+
 ## Internal divisions
 
 Great Houses, consortium owners, college engineers, traditional smiths, miners, factory workers, priests, and settlement operators experience the crisis differently. A labour organizer demanding safer core farms is not interchangeable with the company suppressing cognition research. A household dependent on district heating is not responsible for designing the extraction regime that supplies it.
