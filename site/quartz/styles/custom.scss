@@ -1,17 +1,102 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-body {
-  background-image:
-    radial-gradient(circle at 18% 8%, rgba(143, 189, 145, 0.08), transparent 30rem),
-    radial-gradient(circle at 82% 18%, rgba(224, 149, 85, 0.08), transparent 34rem);
+@property --mode-accent {
+  syntax: "<color>";
+  inherits: true;
+  initial-value: #2f9663;
 }
 
-.page-title a {
-  letter-spacing: 0.04em;
+:root {
+  --delve-green: #2f9663;
+  --hold-purple: #996de3;
+  --mode-accent: var(--delve-green);
+}
+
+body {
+  background: #050505;
+}
+
+.delvehold-masthead {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: baseline;
+  gap: 2rem;
+  min-width: 0;
+}
+
+.delvehold-wordmark {
+  color: var(--mode-accent);
+  font-family: var(--titleFont);
+  font-size: 1.75rem;
+  font-weight: 100;
+  letter-spacing: 0.055em;
+  white-space: nowrap;
+}
+
+.article-title,
+article > h1,
+article > h2,
+article > h3 {
+  font-family: var(--titleFont);
+  font-weight: 100;
+  letter-spacing: 0.025em;
+}
+
+.delvehold-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+
+  a {
+    color: var(--darkgray);
+    font-family: var(--headerFont);
+    font-size: 0.92rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  a:hover,
+  a.active {
+    color: var(--mode-accent);
+  }
+}
+
+@media (max-width: 800px) {
+  .delvehold-masthead {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
 }
 
 body[data-slug="index"] {
+  --secondary: var(--mode-accent);
+  --tertiary: var(--mode-accent);
+  --highlight: color-mix(in srgb, var(--mode-accent) 15%, transparent);
+  --textHighlight: color-mix(in srgb, var(--mode-accent) 34%, transparent);
+  animation: delvehold-mode-color linear both;
+  animation-timeline: scroll(root block);
+  animation-range: 10% 90%;
+
+  &::before {
+    content: "";
+    position: fixed;
+    z-index: 0;
+    inset: -35vmax;
+    pointer-events: none;
+    background: color-mix(in srgb, var(--hold-purple) 9%, transparent);
+    clip-path: polygon(100% 0, 100% 0, 100% 0);
+    animation: delvehold-diagonal-wipe linear both;
+    animation-timeline: scroll(root block);
+    animation-range: 20% 80%;
+  }
+
+  #quartz-root {
+    position: relative;
+    z-index: 1;
+  }
+
   .page > #quartz-body {
     grid-template:
       "grid-header"
@@ -23,5 +108,82 @@ body[data-slug="index"] {
 
   .sidebar {
     display: none !important;
+  }
+}
+
+.delvehold-landing {
+  color: #fff;
+}
+
+.delvehold-mode-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 72vh;
+  padding: 5rem 0;
+
+  h1,
+  h2 {
+    max-width: 13ch;
+    margin: 0 0 2rem;
+    color: #fff;
+    font-size: clamp(2.8rem, 7vw, 6rem);
+    font-weight: 100;
+    line-height: 0.96;
+  }
+
+  p:not(.delvehold-mode-label) {
+    max-width: 42rem;
+    color: #fff;
+    font-size: clamp(1rem, 1.5vw, 1.2rem);
+  }
+}
+
+.delvehold-mode-label {
+  margin: 0 0 1.2rem;
+  color: var(--mode-accent);
+  font-family: var(--titleFont);
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+}
+
+.delvehold-landing-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 3rem 0 8rem;
+
+  a {
+    color: var(--mode-accent);
+  }
+}
+
+@keyframes delvehold-mode-color {
+  0%,
+  38% {
+    --mode-accent: var(--delve-green);
+  }
+
+  62%,
+  100% {
+    --mode-accent: var(--hold-purple);
+  }
+}
+
+@keyframes delvehold-diagonal-wipe {
+  from {
+    clip-path: polygon(100% 0, 100% 0, 100% 0);
+  }
+
+  to {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body[data-slug="index"],
+  body[data-slug="index"]::before {
+    animation: none;
   }
 }

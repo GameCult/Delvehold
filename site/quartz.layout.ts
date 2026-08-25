@@ -1,9 +1,10 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import DelveholdMasthead from "./quartz/components/DelveholdMasthead"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.PageTitle(), Component.Spacer(), Component.Search(), Component.Darkmode()],
+  header: [DelveholdMasthead(), Component.Spacer(), Component.Search()],
   afterBody: [],
   footer: Component.Footer({
     links: {

@@ -3,8 +3,6 @@ title: Authority map
 description: The owners and projections of the first persistent-world slice.
 ---
 
-# Authority map
-
 ## World authority
 
 A world organ owns persistent workshops, graph edges, dungeon lifecycle pressure, contracts, expeditions, resources, and consequences. It accepts typed intents and emits typed receipts plus updated documents through CultMesh.

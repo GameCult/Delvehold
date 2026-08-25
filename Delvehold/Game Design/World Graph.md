@@ -3,8 +3,6 @@ title: World graph
 description: Private workshop shards joined by scarce, social infrastructure.
 ---
 
-# World graph
-
 Every factory player owns a private workshop shard. Shards are arranged as nodes in a persistent neighborhood graph rather than literal adjacent rooms in one Euclidean factory.
 
 The graph contains three initial node kinds:

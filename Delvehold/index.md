@@ -3,25 +3,24 @@ title: DELVE/HOLD
 description: One persistent world, experienced from opposite sides of the contract.
 ---
 
-**DELVE/HOLD** is a small persistent-world experiment about the relationship between living dungeons, the people who enter them, and the workshops that turn their spoils into an industrial civilization.
+<div class="delvehold-landing">
+  <section class="delvehold-mode-panel delvehold-mode-panel-delve">
+    <p class="delvehold-mode-label">DELVE</p>
+    <h1>Enter a world that needs you to trespass.</h1>
+    <p>Delve with friends into procedurally generated living dungeons. Accept contracts, survive ecologies that learn from intrusion, and decide how much of the promised extraction is worth attempting.</p>
+    <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
+  </section>
 
-The title changes emphasis with the player's perspective:
+  <section class="delvehold-mode-panel delvehold-mode-panel-hold">
+    <p class="delvehold-mode-label">HOLD</p>
+    <h2>Build the warm machine waiting above.</h2>
+    <p>Begin with one mage doing every useful task by hand. Encode those gestures into runes, compose them into spell engines, and grow a cozy workshop into a shared magical factory.</p>
+    <p>Your workshop is one shard in a neighborhood graph. Trade with the players packed around you, share scarce infrastructure, and issue the contracts that become somebody else's night underground.</p>
+  </section>
 
-- **DELVE** is a cooperative dungeon RPG. Delvers accept contracts, enter procedurally generated cores, survive their ecologies, and bring home materials and knowledge.
-- **HOLD** is a cozy social incremental. A single mage performs useful work by hand, encodes those actions into runes, and gradually grows a workshop into a magical factory shared with a graph of neighboring players.
-
-They are not separate worlds. CultMesh carries one typed world into two deliberately incomplete projections.
-
-## The old bargain
-
-Dungeon cores need to be delved. Intrusion is part of their lifecycle: it exercises defenses, circulates mana and matter, exposes mature growths, and gives the core the contest through which it learns and renews itself.
-
-Industrial extraction must therefore remain legible to dungeon instinct as traditional delving. A drill driven directly into a crystal chamber reads as injury. Delvers entering through recognized boundaries, accepting danger, overcoming resistance, taking bounded rewards, and leaving again satisfy the older metabolic grammar.
-
-The factory cannot replace adventurers. It can equip, schedule, measure, abstract, and increasingly misunderstand them.
-
-## Start here
-
-- [[Design/Core Loop|Core loop]]
-- [[Design/World Graph|World graph]]
-- [[Design/Authority Map|Authority map]]
+  <nav class="delvehold-landing-links" aria-label="Explore DELVE/HOLD">
+    <a href="./Documentation/">Documentation</a>
+    <a href="./Game-Design/">Game Design</a>
+    <a href="./Lore/">Lore</a>
+  </nav>
+</div>
