@@ -3,8 +3,6 @@ title: DELVE/HOLD
 description: One persistent world, experienced from opposite sides of the contract.
 ---
 
-# DELVE/HOLD
-
 **DELVE/HOLD** is a small persistent-world experiment about the relationship between living dungeons, the people who enter them, and the workshops that turn their spoils into an industrial civilization.
 
 The title changes emphasis with the player's perspective:

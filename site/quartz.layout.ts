@@ -14,7 +14,20 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs({ rootName: "DELVE/HOLD" }), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs({ rootName: "DELVE/HOLD" }),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+  ],
   left: [Component.DesktopOnly(Component.Explorer())],
   right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
