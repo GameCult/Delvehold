@@ -14,8 +14,11 @@ body {
   position: sticky;
   z-index: 20;
   top: 0;
+  width: 100vw;
   margin-top: 0;
-  padding: 1.35rem 0;
+  margin-left: calc(50% - 50vw);
+  box-sizing: border-box;
+  padding: 1.35rem max(1rem, env(safe-area-inset-left));
   background: rgba(5, 5, 5, 0.92);
   backdrop-filter: blur(12px);
 }
@@ -26,14 +29,16 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 0.8rem;
+  width: 100%;
   min-width: 0;
   text-align: center;
 }
 
 .delvehold-wordmark {
   font-family: var(--titleFont);
-  font-size: 1.75rem;
+  font-size: clamp(2.4rem, 7vw, 3.5rem);
   letter-spacing: 0.055em;
+  line-height: 1;
   white-space: nowrap;
 }
 
@@ -83,7 +88,7 @@ article > h3 {
 @media (max-width: 800px) {
   .delvehold-masthead {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 0.75rem;
   }
 }
@@ -209,7 +214,7 @@ body[data-slug="index"] {
 
 @keyframes delvehold-delve-weight {
   0%, 42% {
-    font-weight: 400;
+    font-weight: 800;
   }
 
   58%, 100% {
@@ -223,7 +228,7 @@ body[data-slug="index"] {
   }
 
   58%, 100% {
-    font-weight: 400;
+    font-weight: 800;
   }
 }
 

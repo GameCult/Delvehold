@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: { name: "Montserrat", weights: [100, 200, 300, 400, 600] },
-        title: { name: "Montserrat", weights: [100, 200, 300, 400, 600] },
+        header: { name: "Montserrat", weights: [100, 200, 300, 400, 600, 800] },
+        title: { name: "Montserrat", weights: [100, 200, 300, 400, 600, 800] },
         body: { name: "Ubuntu", weights: [300, 400, 500, 700], includeItalic: true },
         code: "IBM Plex Mono",
       },
