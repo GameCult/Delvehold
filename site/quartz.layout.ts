@@ -60,15 +60,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs({ rootName: "DELVE/HOLD" }),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ConditionalRender({
-      component: Component.ContentMeta(),
       condition: (page) => page.fileData.slug !== "index",
     }),
   ],
@@ -86,7 +78,7 @@ export const defaultContentPageLayout: PageLayout = {
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs({ rootName: "DELVE/HOLD" }), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.ArticleTitle()],
   left: sectionExplorers,
   right: [],
 }

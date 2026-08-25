@@ -11,16 +11,34 @@ body {
 }
 
 .page > #quartz-body .page-header {
+  display: contents;
+}
+
+.page > #quartz-body .page-header > header {
   position: sticky;
   z-index: 20;
   top: 0;
   width: 100vw;
-  margin-top: 0;
-  margin-left: calc(50% - 50vw);
   box-sizing: border-box;
+  margin: 0 0 2.5rem calc(50% - 50vw);
   padding: 1.35rem max(1rem, env(safe-area-inset-left));
-  background: rgba(5, 5, 5, 0.92);
-  backdrop-filter: blur(12px);
+  background: #050505;
+}
+
+.page > #quartz-body .page-header > .popover-hint {
+  margin-bottom: 1rem;
+
+  &:empty {
+    display: none;
+  }
+}
+
+@media all and ($desktop) {
+  .page > #quartz-body .sidebar {
+    top: 8.2rem;
+    height: calc(100vh - 8.2rem);
+    padding-top: 2rem;
+  }
 }
 
 .delvehold-masthead {
