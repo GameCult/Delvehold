@@ -28,8 +28,22 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
   ],
-  left: [Component.DesktopOnly(Component.Explorer())],
-  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
+  left: [
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.Explorer()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+  ],
+  right: [
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+  ],
 }
 
 export const defaultListPageLayout: PageLayout = {

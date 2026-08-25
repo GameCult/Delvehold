@@ -10,3 +10,18 @@ body {
 .page-title a {
   letter-spacing: 0.04em;
 }
+
+body[data-slug="index"] {
+  .page > #quartz-body {
+    grid-template:
+      "grid-header"
+      "grid-center"
+      "grid-footer" / minmax(0, 1fr);
+    max-width: 52rem;
+    margin: 0 auto;
+  }
+
+  .sidebar {
+    display: none !important;
+  }
+}
