@@ -5,7 +5,13 @@ description: The people at the centre of the runic industrial transformation.
 
 Dwarven societies prize durable work: mining, metallurgy, architecture, precision, archives, oath, and infrastructure expected to outlive its maker. Iterative runes did not arrive as an alien modernity. They joined values already embedded in the culture.
 
-Industrialization brings extraordinary gains. Safer mines, warm homes, reliable water, cheap light, preserved food, mass transport, and accessible magic allow underground cities to support millions. Those lives are not propaganda. They are why retreat cannot be morally simple.
+## The Greathold
+
+Most dwarves live along [[The Greathold]], an inhabited chain cleared through the dungeon-spine of their mountain range. Their homeland is not architecture placed inside inert geology. It remains part of the Deep World they have been delving, maintaining, and domesticating for generations.
+
+The Greathold's deep gates made dwarven territory the world's principal adventuring threshold long before industrialization. Clearing chambers, securing routes, recording dungeon behaviour, and contracting foreign delvers were ordinary civic capacities before they became industrial advantages.
+
+Industrialization brings extraordinary gains. Safer mines, warm homes, reliable water, cheap light, preserved food, mass transport, and accessible magic allow the Greathold to support millions. Those lives are not propaganda. They are why retreat cannot be morally simple.
 
 ## Internal divisions
 
@@ -20,4 +26,3 @@ Old prayers speak of listening to mountains, asking before deep excavation, seal
 Foreign critics often speak as though dwarves can simply stop. Dwarves hear a demand to freeze homes, close cities, abandon workers, restore magical privilege, and accept strategic dependence on hostile neighbours. That fear is politically useful because it is also substantially real.
 
 See [[Dwarven Industry]] for the institutions turning that fear into policy.
-

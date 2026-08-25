@@ -14,6 +14,7 @@
 - Commands cross authority boundaries as typed intents and produce typed receipts.
 - Workshop shards are nodes in a persistent neighborhood graph. Shared edges require explicit ownership, capacity, provenance, and consent.
 - Dungeon delving is part of a core's lifecycle. Industrial systems must remain legible to dungeon instinct as bounded, contested delving rather than direct tissue damage.
+- Greathold canon is owned by `Delvehold/Lore/The Greathold.md`: it is a multigenerationally cleared extension of the world-dungeon along the dwarven mountain spine. Its inherited deep routes and institutions created the global adventurer economy and enabled later industrial exploitation; industry did not discover dwarven deep access.
 
 ## Documentation
 

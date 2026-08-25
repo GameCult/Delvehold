@@ -5,6 +5,8 @@ description: Industrial excavation into connected dungeon systems larger than an
 
 Core farming expands mana supply. Spell engines expand demand faster.
 
+The Greathold makes the next step appear deceptively incremental. Its oldest gates already descend along the spine of the mountain-range dungeon, and generations of adventurers have returned evidence of richer systems below. Deep Companies begin by extending known routes, replacing expedition logistics with continuous industrial throughput.
+
 Deep Companies follow richer crystal pressures below ordinary dungeon strata and discover structures no local core could plausibly have built: geometric tunnels hundreds of miles long, chambers that regenerate after destruction, species appearing simultaneously in distant workings, and survey patterns resembling nerve impulses.
 
 The mines have entered [[Nested Dungeons|larger organisms]].
@@ -24,4 +26,3 @@ The first coordinated [[Ecological Responses|responses]] appear across mines sep
 ## Political lock-in
 
 By the time the implication is legible, deep power feeds cities and weapons, and the installed machinery cannot run on shallow supply. Stopping is no longer an isolated business decision. It is a forced reorganization of dwarven society under pressure from a world already answering back.
-

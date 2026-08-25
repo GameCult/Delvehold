@@ -9,6 +9,8 @@ What surface cultures call a **dungeon** is a local expression of a much larger 
 
 Dwarven industrialization has discovered how to make magic iterative. [[Runic Engineering|Spell engines]] turn crystallized mana into heat, light, transport, fabrication, and safe underground cities. The same achievement has made civilization dependent upon harvesting the living systems beneath it.
 
+At the centre of that history is [[The Greathold]], the dwarven homeland cleared over generations through the living spine of a mountain-range dungeon. Its deep gates made it the world's great adventuring threshold; its inherited delving infrastructure made dwarven industry possible.
+
 ## Reference shelves
 
 - **[[Lore/Ontology/index|Ontology]]** — mana, cores, nested identity, gods, and the World-Spirit.
