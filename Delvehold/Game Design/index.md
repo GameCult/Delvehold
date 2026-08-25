@@ -9,3 +9,4 @@ DELVE/HOLD is one persistent game presented through two modes. This section owns
 - [[Extraction Play|Extraction play]]
 - [[Revelation Structure|Revelation structure]]
 - [[World Graph|World graph]]
+- [[World Signals|World signals]]
