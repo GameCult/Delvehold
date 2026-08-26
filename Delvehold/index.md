@@ -5,7 +5,7 @@ description: One persistent world, experienced from opposite sides of the contra
 
 <div class="delvehold-landing">
   <header class="delvehold-intro">
-    <p>Delvehold is a social MMO about living on both sides of magical industry. Descend with friends into living dungeons to fulfill material contracts, then build the workshops, spell engines, and civic infrastructure that equip the next expedition. DELVE and HOLD are two ways of inhabiting the same persistent world: what comes out of the dungeon changes the society above, and what that society promises sends people back below.</p>
+    <p>Delvehold is an AI-native social MMO about living in a fantasy world that remembers and reacts. Beyond the Greathold, simulated institutions, populations, and rival powers form relationships, pursue goals, and answer what players build, trade, and promise. Beneath it, the world-dungeon itself learns from every expedition sent to harvest what its living body grows and sheds. DELVE and HOLD are two ways of inhabiting that same persistent world.</p>
   </header>
 
   <section class="delvehold-mode-panel delvehold-mode-panel-delve">
