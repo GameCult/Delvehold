@@ -7,7 +7,7 @@ description: One persistent world, experienced from opposite sides of the contra
   <section class="delvehold-mode-panel delvehold-mode-panel-delve">
     <p class="delvehold-mode-label">DELVE</p>
     <h1>Enter a world that needs you to trespass.</h1>
-    <p>Delvehold is a cooperative persistent-world game lived from both sides of magical industry: descend with friends into living dungeons to fulfill material contracts, then build the workshops, spell engines, and civic infrastructure that issue the next expedition. DELVE and HOLD are two modes of the same world, so every dangerous extraction feeds the society above and every promise made above becomes somebody else's night underground.</p>
+    <p>Delvehold is a cooperative persistent-world game lived from both sides of magical industry: descend with friends into living dungeons to fulfill material contracts, then build the workshops, spell engines, and civic infrastructure that issue the next expedition. DELVE and HOLD are two modes of the same world, so every dangerous extraction feeds the society above and every promise made above sends an expedition below.</p>
     <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
   </section>
 
