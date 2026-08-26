@@ -4,10 +4,14 @@ description: One persistent world, experienced from opposite sides of the contra
 ---
 
 <div class="delvehold-landing">
+  <header class="delvehold-intro">
+    <p>Delvehold is a social MMO about living on both sides of magical industry. Descend with friends into living dungeons to fulfill material contracts, then build the workshops, spell engines, and civic infrastructure that equip the next expedition. DELVE and HOLD are two ways of inhabiting the same persistent world: what comes out of the dungeon changes the society above, and what that society promises sends people back below.</p>
+  </header>
+
   <section class="delvehold-mode-panel delvehold-mode-panel-delve">
     <p class="delvehold-mode-label">DELVE</p>
     <h1>Enter a world that needs you to trespass.</h1>
-    <p>Delvehold is a cooperative persistent-world game lived from both sides of magical industry: descend with friends into living dungeons to fulfill material contracts, then build the workshops, spell engines, and civic infrastructure that issue the next expedition. DELVE and HOLD are two modes of the same world, so every dangerous extraction feeds the society above and every promise made above sends an expedition below.</p>
+    <p>Delve with friends into procedurally generated living dungeons. Accept contracts, survive ecologies that learn from intrusion, and decide how much of the promised extraction is worth attempting.</p>
     <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
   </section>
 

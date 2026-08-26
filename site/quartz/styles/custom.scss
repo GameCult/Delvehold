@@ -218,6 +218,18 @@ body[data-slug="index"] {
   color: #fff;
 }
 
+.delvehold-intro {
+  padding: 5rem 0 1rem;
+
+  p {
+    max-width: 48rem;
+    margin: 0;
+    color: #fff;
+    font-size: clamp(1.15rem, 2vw, 1.5rem);
+    line-height: 1.55;
+  }
+}
+
 .delvehold-mode-panel {
   display: flex;
   flex-direction: column;
