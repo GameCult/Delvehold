@@ -9,8 +9,11 @@
 ## Architecture
 
 - CultMesh is the typed world-state and capability surface.
-- Shared state belongs to world organs, not the Unity client, browser client, or documentation site.
-- Unity projects dungeon expeditions. The browser projects cozy workshop and neighborhood play through Eve/CultUI.
+- Shared state belongs to world organs, not the Godot client or documentation site.
+- One Godot C# client contains both DELVE and HOLD. Mode changes select different projections and interactions over the same persistent world; they do not cross a client boundary.
+- One central C# world host owns Delvehold canonical state through explicitly separated internal organs.
+- The Godot client and world host communicate through typed CultMesh commands, projections, capabilities, and receipts. Client-local prediction and presentation cannot commit shared truth.
+- Authoritative dungeon generation runs in the world host using GameCult.Math (CultMath), including `CultMath.Random`. CultGeometry (`GameCult.Geometry`) owns reusable isosurface extraction and neutral mesh artifacts; Godot only adapts committed results into engine objects.
 - Commands cross authority boundaries as typed intents and produce typed receipts.
 - Workshop shards are nodes in a persistent neighborhood graph. Shared edges require explicit ownership, capacity, provenance, and consent.
 - Dungeon delving is part of a core's lifecycle. Industrial systems must remain legible to dungeon instinct as bounded, contested delving rather than direct tissue damage.

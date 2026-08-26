@@ -16,10 +16,15 @@ DELVE/HOLD canonical state is typed CultCache state published through CultMesh. 
 | Dungeon ecology | cores, lifecycle pressure, populations, adaptations, memory, topology, hazards, responses and extraction provenance |
 | Civic life | assemblies, proposals, seals, testimony, ratified mandates, capacity commitments, withdrawals and institutional actions |
 | Information | facts, observations, reports, rumours, sources, confidence, disclosure and knower scope |
-| Continuity | world time, revisions, events, commands, receipts, causal references and schema versions |
+| Continuity | world time, revisions, events, commands, receipts, causal references, schema versions, generation seeds, generator versions, input and output digests |
 
 ## Derived state
 
 Scenes, dashboards, prices, digests, forecasts, generated dungeon rooms, news layouts, active navigation, and the aggregate Greathold boundary are projections. They may be rebuilt from canonical state and cannot repair it.
+
+The world host commits each dungeon generation record and its provenance.
+CultGeometry mesh artifacts are deterministic outputs of that record. Godot
+resources are disposable adaptations of the artifacts, not another persistence
+layer.
 
 Quantities, conservation, recipes, orders, contracts, and production capacity remain Delvehold authority. Ghostlight's current strategic resource handles are not a substitute for the HOLD economic model.

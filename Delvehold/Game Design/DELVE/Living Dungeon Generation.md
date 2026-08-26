@@ -7,6 +7,18 @@ Procedural generation projects a persistent dungeon state into playable expediti
 
 The generator receives the target region, core lifecycle, known topology, ecological populations, stored matter, active pressures, remembered intrusions, adaptations, discoveries, and contract-relevant affordances. It emits a bounded route network, chambers, encounters, hazards, resources, evidence, and extraction paths together with provenance back to those inputs.
 
+The central C# world host owns this decision. Authoritative choices use
+GameCult.Math (CultMath), including its deterministic `CultMath.Random`; they do
+not use Godot, `System.Random`, or a project-local random stream. CultGeometry
+(`GameCult.Geometry`) owns engine-neutral isosurface extraction and typed mesh
+artifacts. The Godot client converts those artifacts into render meshes,
+colliders, materials, and scene nodes without earning a reroll.
+
+Each committed projection records its seed, generator version, canonical input
+digest, output digest, and generation receipt. The same accepted inputs, seed,
+and version reproduce the same projection. A changed dungeon state is a changed
+input, not permission to reroll an unchanged expedition.
+
 ## Continuity
 
 - Stable landmarks and discovered routes can recur.

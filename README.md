@@ -1,11 +1,14 @@
 # DELVE/HOLD
 
-`DELVE/HOLD` is a tiny persistent-world experiment built as a proving ground for CultMesh and the broader Aetheria architecture.
+`DELVE/HOLD` is a persistent-world game designed as a proving ground for CultMesh and the broader Aetheria architecture.
 
 One shared world is projected through two modes:
 
-- **DELVE** — a cooperative Unity RPG in which players enter procedurally generated living dungeons.
-- **HOLD** — a cozy browser incremental about a mage's workshop growing into a networked magical factory.
+- **DELVE** — cooperative expeditions into procedurally generated living dungeons.
+- **HOLD** — cozy workshop play about manual magic growing into a networked magical factory.
+
+One Godot C# client contains both modes. One central C# world host owns the
+canonical simulation, and the two processes communicate through CultMesh.
 
 The published project notes live in `Delvehold/`. The site is a thin consumer of the shared [`GameCult-Quartz`](https://github.com/GameCult/GameCult-Quartz) engine and deploys to [delvehold.gamecult.org](https://delvehold.gamecult.org).
 

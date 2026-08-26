@@ -17,7 +17,7 @@ The same disturbance reaches DELVE as altered contract volume, equipment shortag
 
 > diplomatic rupture → trade shock → workshop response → contract market → delver experience
 
-Ghostlight owns the foreign decision and external event. Delvehold owns the resulting quantitative trade, capacity, contract, and expedition consequences after admitting the typed response. Neither client invents a parallel explanation, and neither simulation rewrites the other's decision.
+Ghostlight owns the foreign decision and external event. Delvehold owns the resulting quantitative trade, capacity, contract, and expedition consequences after admitting the typed response. The game client invents no parallel explanation, and neither simulation rewrites the other's decision.
 
 ## The news feed
 

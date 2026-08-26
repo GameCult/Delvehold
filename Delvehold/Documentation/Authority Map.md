@@ -19,11 +19,18 @@ CultMesh carries two directions of typed exchange. Delvehold publishes a derived
 
 `greathold` is no longer an owner; it is derived from Delvehold state. It receives no Ghostlight Persona or strategic turn. The bridge is no longer an owner; it transports documents and receipts. Neither side can mutate the other's canonical domain or use reconciliation to disguise a rejected effect.
 
-## Client projections
+## Game client projection
 
-The Unity client projects an expedition. It may predict movement and presentation, but it does not own shared economic or dungeon-lifecycle truth.
+One Godot C# client projects both DELVE and HOLD. DELVE scenes present embodied
+expeditions; HOLD scenes present workshops, neighborhoods, contracts, news, and
+civic play. The client's shared session owns its CultMesh connection, local
+projections, prediction, controls, animation, and presentation. It does not own
+economic, dungeon-lifecycle, or civic truth.
 
-The browser client projects the workshop and relevant neighborhood subgraph through Eve/CultUI. It does not own the world simply because bounded work can continue while a player is absent.
+One central C# world host contains the canonical Delvehold organs. Every
+client-originated action crosses CultMesh as a typed intent and returns a typed
+receipt. Switching modes changes the active projection and interaction set; it
+does not synchronize two clients or transfer authority.
 
 ## Contract handoff
 
@@ -37,6 +44,6 @@ Factory and delver interfaces expose different projections of that state. Incomp
 
 Each franchised workshop owns its seal and the intents it submits: vote, petition, amendment, capacity pledge, refusal, or withdrawal. The Delvehold world organ owns the resulting assembly state, jurisdiction derived from the world graph, ratified common commitments, and institutional consequences.
 
-A ballot cannot directly mutate a mine, contract market, or military order. The ratified mandate is the input through which the responsible institutions act, and those actions update the same typed world state seen by both clients.
+A ballot cannot directly mutate a mine, contract market, or military order. The ratified mandate is the input through which the responsible institutions act, and those actions update the same typed world state seen through both modes.
 
 See [[Simulation Architecture]] and [[Ghostlight Boundary]] for the complete exchange contract.

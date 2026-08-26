@@ -14,6 +14,11 @@ The slice is complete only when:
 5. the dungeon responds to the actual methods used;
 6. the party returns with material, evidence, injury, loss, or some combination;
 7. the outcome changes workshop decisions and the next expedition;
-8. the history remains after both clients disconnect and reload.
+8. the history remains after the game client reconnects and the world host restarts.
 
 One institutional contract keeps DELVE playable without a workshop manager online. One public need keeps HOLD meaningful without requiring a delver to accept a personal order immediately. The slice does not need a broad item catalogue, global war, or complete combat metagame. It needs one honest return stroke.
+
+Its dungeon projection is generated authoritatively by the world host from the
+committed dungeon state and a CultMath seed. CultGeometry extracts the neutral
+isosurface mesh. Reconnect and restart reproduce the same committed projection
+unless canonical dungeon inputs advance.

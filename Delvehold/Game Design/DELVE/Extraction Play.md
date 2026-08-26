@@ -20,7 +20,7 @@ During a run, the party repeatedly chooses among:
 - recovering a fallen delver or lost equipment;
 - preserving scarce supplies;
 - retreating before the dungeon's response escalates;
-- pressing deeper for a return that may transform both clients.
+- pressing deeper for a return that may transform both modes.
 
 Extraction is successful when something meaningful returns, not only when the original number is met. Injuries, maps, creature observations, evidence of core behaviour, broken equipment, and expedition history are persistent outputs alongside material.
 

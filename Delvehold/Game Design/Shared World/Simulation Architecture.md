@@ -7,11 +7,16 @@ The game uses two canonical simulation domains joined by typed exchange.
 
 ## Owners
 
-The **Delvehold world organ** owns the Greathold: players, workshops, parties, contracts, expeditions, dungeons, civic state, quantitative goods, production, prices, orders, and local consequences.
+One central C# **Delvehold world host** contains the Greathold organs and owns players, workshops, parties, contracts, expeditions, dungeons, civic state, quantitative goods, production, prices, orders, and local consequences. Process containment does not collapse their internal authority boundaries.
 
 One persistent **Ghostlight WorldKernel** owns the world outside the Greathold: foreign regions, actors, institutions, population Gestalts, their knowledge, relationships, goals, posture, pressure, strategic decisions, external events, and news.
 
 The CultMesh bridge carries documents. It schedules no independent truth and earns no right to repair either side.
+
+One Godot C# client contains the DELVE and HOLD projections. It submits typed
+commands and renders typed projections and receipts over CultMesh. Client-local
+prediction, navigation presentation, camera state, and animation are derived;
+they cannot commit canonical state.
 
 ```text
 Delvehold committed state

@@ -41,4 +41,4 @@ Workshop contracts should remain more personal and expressive: unusual equipment
 
 A canonical contract records issuer class, objective, offered equipment, reward allocation, target region, accepted party, lifecycle status, outcome references, and the authority under which it was published.
 
-Extraction, retreat, discovery, injury, loss, breach, rescue, and returned materials update the same world state. Outcomes alter both institutional demand and workshop plans; neither client owns a private version of what happened.
+Extraction, retreat, discovery, injury, loss, breach, rescue, and returned materials update the same world state. Outcomes alter both institutional demand and workshop plans; the client owns no private version of what happened.

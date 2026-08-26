@@ -28,3 +28,11 @@ The design is proven by visible paths, not by the existence of schemas.
 - Private beliefs do not become public news or canonical fact automatically.
 - Catch-up is bounded, names the interval it summarizes, and never puppets an absent player.
 - The visible news, price, contract, expedition, and workshop changes can be traced to typed events and receipts at the layer where players experience them.
+
+## Procedural dungeon proof
+
+- Identical canonical input, CultMath seed, and generator version reproduce the same dungeon projection after host restart.
+- Reconnecting the Godot client does not reroll routes, chambers, hazards, resources, or encounters.
+- A pinned generation fixture proves version-bound output and records its input and output digests.
+- The world host rejects client-supplied canonical rooms, random choices, and mesh results.
+- CultGeometry emits engine-neutral geometry; no Unity, Godot, `System.Random`, or duplicate project-local mesher decides canonical generation.
