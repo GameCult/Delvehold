@@ -11,6 +11,9 @@ if (-not (Test-Path -LiteralPath $godot)) {
     throw "Godot 4.7.2 Mono console was not found at '$godot'."
 }
 
+& (Join-Path $PSScriptRoot 'control-flow.ps1') validate -CultLibRoot $CultLibRoot
+if ($LASTEXITCODE -ne 0) { throw 'The typed control-flow map is stale or invalid.' }
+
 dotnet build (Join-Path $repoRoot 'Delvehold.sln') -p:CultLibRoot=$CultLibRoot
 if ($LASTEXITCODE -ne 0) { throw 'The focused .NET/Godot build failed.' }
 
