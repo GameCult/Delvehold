@@ -11,7 +11,7 @@ if (-not (Test-Path -LiteralPath $godot)) {
     throw "Godot 4.7.2 Mono console was not found at '$godot'."
 }
 
-dotnet build (Join-Path $repoRoot 'Delvehold.slnx') -p:CultLibRoot=$CultLibRoot
+dotnet build (Join-Path $repoRoot 'Delvehold.sln') -p:CultLibRoot=$CultLibRoot
 if ($LASTEXITCODE -ne 0) { throw 'The focused .NET/Godot build failed.' }
 
 $smokeRoot = Join-Path $repoRoot ('artifacts\runtime-smoke\' + [guid]::NewGuid().ToString('N'))

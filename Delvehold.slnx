@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Delvehold.Protocol/Delvehold.Protocol.csproj" />
-    <Project Path="src/Delvehold.WorldHost/Delvehold.WorldHost.csproj" />
-  </Folder>
-  <Folder Name="/client/">
-    <Project Path="client/Delvehold.Client.csproj" />
-  </Folder>
-</Solution>

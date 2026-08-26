@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>latest</LangVersion>
     <CultLibRoot Condition="'$(CultLibRoot)' == '' and '$(CULTLIB_ROOT)' != ''">$(CULTLIB_ROOT)</CultLibRoot>
+    <CultLibRoot Condition="'$(CultLibRoot)' == '' and Exists('$(MSBuildThisFileDirectory)..\CultLib-aetheria-authority\src\GameCult.Mesh\GameCult.Mesh.csproj')">$(MSBuildThisFileDirectory)..\CultLib-aetheria-authority</CultLibRoot>
     <CultLibRoot Condition="'$(CultLibRoot)' == ''">$(MSBuildThisFileDirectory)..\CultLib</CultLibRoot>
     <CultLibRevision>334e60f1928b4212a29dd8b0d19b2c099fe6365e</CultLibRevision>
     <GitExecutable Condition="'$(GitExecutable)' == '' and Exists('C:\Program Files\Git\cmd\git.exe')">C:\Program Files\Git\cmd\git.exe</GitExecutable>
