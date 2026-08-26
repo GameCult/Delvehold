@@ -94,7 +94,7 @@ body {
 
 .delvehold-wordmark-hold {
   color: var(--hold-purple);
-  font-weight: 100;
+  font-weight: 800;
 }
 
 .delvehold-wordmark-slash {
@@ -126,7 +126,7 @@ article > h3 {
 
   a:hover,
   a.active {
-    color: var(--delve-green);
+    color: var(--hold-purple);
   }
 }
 
@@ -143,37 +143,30 @@ article > h3 {
 }
 
 body[data-slug="index"] {
-  background: color-mix(in srgb, var(--delve-green) 8%, #050505);
-  timeline-scope: --delvehold-mode-shift;
+  background: color-mix(in srgb, var(--hold-purple) 9%, #050505);
+  timeline-scope: --delvehold-enter-delve, --delvehold-enter-hold;
 
-  &::before {
+  &::before,
+  &::after {
     content: "";
     position: fixed;
     z-index: 0;
     inset: -35vmax;
     pointer-events: none;
-    background: color-mix(in srgb, var(--hold-purple) 9%, #050505);
     clip-path: polygon(120% 0, 100% 0, 100% 100%, 100% 100%);
+    filter: drop-shadow(-2px 0 rgba(255, 255, 255, 0.58));
     animation: delvehold-diagonal-wipe linear both;
-    animation-timeline: --delvehold-mode-shift;
-    animation-range: entry 0% exit 100%;
+    animation-range: entry 0% cover 50%;
+  }
+
+  &::before {
+    background: color-mix(in srgb, var(--delve-green) 8%, #050505);
+    animation-timeline: --delvehold-enter-delve;
   }
 
   &::after {
-    content: "";
-    position: fixed;
-    z-index: 0;
-    top: -20vh;
-    left: 0;
-    width: 2px;
-    height: 140vh;
-    pointer-events: none;
-    background: rgba(255, 255, 255, 0.58);
-    transform: translateX(130vw) rotate(11deg);
-    transform-origin: center;
-    animation: delvehold-wipe-edge linear both;
-    animation-timeline: --delvehold-mode-shift;
-    animation-range: entry 0% exit 100%;
+    background: color-mix(in srgb, var(--hold-purple) 9%, #050505);
+    animation-timeline: --delvehold-enter-hold;
   }
 
   #quartz-root {
@@ -195,15 +188,20 @@ body[data-slug="index"] {
   }
 
   .delvehold-wordmark-delve {
-    animation: delvehold-delve-weight linear both;
-    animation-timeline: --delvehold-mode-shift;
-    animation-range: entry 0% exit 100%;
+    --delvehold-delve-gain: 0;
+    --delvehold-delve-loss: 0;
+    font-weight: calc(100 + var(--delvehold-delve-gain) - var(--delvehold-delve-loss));
+    animation: delvehold-delve-gain linear both, delvehold-delve-loss linear both;
+    animation-timeline: --delvehold-enter-delve, --delvehold-enter-hold;
+    animation-range: entry 0% cover 50%, entry 0% cover 50%;
   }
 
   .delvehold-wordmark-hold {
-    animation: delvehold-hold-weight linear both;
-    animation-timeline: --delvehold-mode-shift;
-    animation-range: entry 0% exit 100%;
+    --delvehold-hold-gain: 0;
+    font-weight: calc(100 + var(--delvehold-hold-gain));
+    animation: delvehold-hold-gain linear both;
+    animation-timeline: --delvehold-enter-hold;
+    animation-range: entry 0% cover 50%;
   }
 }
 
@@ -211,7 +209,14 @@ body[data-slug="index"] {
   height: 1px;
   margin-top: -1px;
   pointer-events: none;
-  view-timeline: --delvehold-mode-shift block;
+}
+
+.delvehold-mode-boundary-delve {
+  view-timeline: --delvehold-enter-delve block;
+}
+
+.delvehold-mode-boundary-hold {
+  view-timeline: --delvehold-enter-hold block;
 }
 
 .delvehold-landing {
@@ -219,7 +224,10 @@ body[data-slug="index"] {
 }
 
 .delvehold-intro {
-  padding: 5rem 0 1rem;
+  display: flex;
+  align-items: center;
+  min-height: 72vh;
+  padding: 5rem 0;
 
   p {
     max-width: 48rem;
@@ -281,23 +289,51 @@ body[data-slug="index"] {
   }
 }
 
-@keyframes delvehold-delve-weight {
-  0%, 42% {
-    font-weight: 800;
+@property --delvehold-delve-gain {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --delvehold-delve-loss {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --delvehold-hold-gain {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes delvehold-delve-gain {
+  from {
+    --delvehold-delve-gain: 0;
   }
 
-  58%, 100% {
-    font-weight: 100;
+  to {
+    --delvehold-delve-gain: 700;
   }
 }
 
-@keyframes delvehold-hold-weight {
-  0%, 42% {
-    font-weight: 100;
+@keyframes delvehold-delve-loss {
+  from {
+    --delvehold-delve-loss: 0;
   }
 
-  58%, 100% {
-    font-weight: 800;
+  to {
+    --delvehold-delve-loss: 700;
+  }
+}
+
+@keyframes delvehold-hold-gain {
+  from {
+    --delvehold-hold-gain: 0;
+  }
+
+  to {
+    --delvehold-hold-gain: 700;
   }
 }
 
@@ -311,18 +347,7 @@ body[data-slug="index"] {
   }
 }
 
-@keyframes delvehold-wipe-edge {
-  from {
-    transform: translateX(130vw) rotate(11deg);
-  }
-
-  to {
-    transform: translateX(-30vw) rotate(11deg);
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
-  body[data-slug="index"],
   body[data-slug="index"]::before,
   body[data-slug="index"]::after,
   body[data-slug="index"] .delvehold-wordmark-delve,
