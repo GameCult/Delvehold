@@ -13,9 +13,7 @@ The mines have entered [[Nested Dungeons|larger organisms]].
 
 ## The engineering interpretation
 
-Industrial institutions initially treat each discovery as a harder version of a familiar problem. Unknown geometry requires better surveys. Regeneration requires stronger excavation. Coordinated fauna requires security. Shifting veins require faster extraction.
-
-Every diagnosis writes the next purchase order. Better surveys, stronger cutters, more guards, and faster pumps keep the mine open while the evidence against it accumulates.
+Industrial institutions treat each discovery as a harder version of a familiar problem. Surveyors redraw the unknown geometry. Regrown stone sends the cutters back with heavier heads; coordinated fauna brings guards; a retreating vein shortens the extraction schedule. The budget turns every discovery into another purchase order.
 
 ## Distributed injury
 
@@ -25,4 +23,4 @@ The first coordinated [[Ecological Responses|responses]] appear across mines hun
 
 ## Political lock-in
 
-By the time the pattern survives official doubt, deep power feeds cities and weapons. Shallow crystal cannot run the installed machinery. A mine closure now reorganizes dwarven life while the world below is already answering.
+By the time the pattern survives official doubt, shallow crystal can no longer run the installed machinery. A closure order cuts power from pumps, trains, furnaces, and weapons before it stops the drill.

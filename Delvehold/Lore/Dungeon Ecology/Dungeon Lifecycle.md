@@ -17,13 +17,13 @@ A traditional delve gives the dungeon:
 - selective pressure on traps, chambers, and creatures;
 - a bounded expenditure that turns stored reserves back into active ecology.
 
-Successful delvers remove crystals, monster products, artefacts, and dangerous population excess. The core loses material but gains circulation, information, and renewal. Death is possible on both sides. Neither participant needs to understand the relationship for it to function.
+Successful delvers remove crystals, monster products, artefacts, and dangerous population excess. Their intrusion spends old reserves, carries new patterns inside, and forces the core to change. Death is possible on both sides, whether or not either understands the exchange.
 
 ## Bounded contest
 
 The core encounters a traditional delve through its own chambers. Intruders cross a threshold, trigger defences, choose under pressure, and withdraw or are absorbed. The core can raise the danger, divert them, hide a reserve, and remember what worked.
 
-A bore punches into the reserve without crossing a chamber. A pipe drains mana beyond the reach of the core's defenders. A containment rig pins every response in place. The dungeon experiences no contest through which it can answer, only damage.
+A bore crosses no chamber before it reaches the reserve. Mana then leaves through a pipe beyond the defenders' reach, while the containment rig pins the response in place. Nothing in that sequence allows the core to divert the intruder or raise the price.
 
 ## Industrial delving
 
@@ -33,4 +33,4 @@ A staged skirmish wrapped around a drainage pipe fools only a young core, and on
 
 ## Failure modes
 
-A dungeon deprived of delving may stagnate, bloom unpredictably, provoke encounters, or force material outward until something answers. A dungeon subjected to unbounded extraction develops [[Ecological Responses|immune responses]]. At depth, both failures can propagate into [[Nested Dungeons|larger systems]].
+Without delving, stored matter and specialized defences can stagnate until the dungeon blooms or forces an encounter outward. Unbounded extraction produces [[Ecological Responses|immune responses]] instead. At depth, either disruption can propagate into [[Nested Dungeons|larger systems]].

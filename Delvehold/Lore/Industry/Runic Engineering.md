@@ -11,19 +11,17 @@ A rune could trigger another rune. A second could test a condition. A third coul
 
 A spell engine is an interconnected runic system that repeatedly executes magical operations. Primitive engines pump water or hold a furnace at temperature. Mature systems separate ore, maintain mine pressure, propel locomotives, illuminate districts, coordinate wards, fabricate simple objects, and sustain agricultural enchantments.
 
-The limiting factors of magic therefore change from trained attention to fuel, machinery, logistics, maintenance, capital, and access to [[Mana and Pattern|mana crystals]].
+Fuel, machinery, logistics, maintenance, capital, and access to [[Mana and Pattern|mana crystals]] replace trained attention as the limits on scale.
 
 ## The manual origin
 
 Every reliable engine begins as a gesture somebody knows how to perform. A mage gathers mana, shapes a transformation, observes failure, and repeats. Engineers encode those operations into runes, then compose the runes into systems.
 
-The practitioner leaves the production line but remains in the engine's ancestry. Their work moves into design, diagnosis, exceptions, and the hard business of teaching a machine what success looks like.
+Encoding moves the practitioner's work. Instead of repeating the gesture at every furnace or pump, they define its successful result, diagnose failures, and revise the runes when the machine encounters a case the original lesson missed.
 
 ## Displacement
 
-Economic institutions rarely preserve that dignity by themselves. Utility wizards lose municipal work. Rune technicians replace broad apprenticeships with narrow maintenance. Factories displace enchanted workshops, and mining consortiums displace independent prospectors.
-
-A spell engine does not tire, demand wages, refuse unsafe work, or join a guild. Those properties are advertised as technical virtues by the people who own the engine.
+A municipality that replaces utility wizards with one pumping engine still needs rune technicians, but trains them to service that model instead of mastering the wider craft. The old workshop loses its contract; the engine's owner gains a workforce whose knowledge travels poorly. Sales catalogues list continuous operation beside output and fuel cost. Wages, refusal, and guild membership disappear from the calculation.
 
 ## The awakening risk
 

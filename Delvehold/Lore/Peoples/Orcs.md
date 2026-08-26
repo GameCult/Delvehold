@@ -9,6 +9,6 @@ A clan may hunt one species only after its breeding season, leave particular rem
 
 ## Broken obligations
 
-Industrial expansion ignores agreements it did not sign and cannot price. Deep disturbance drives creatures into ancestral lands, destabilizes sacred sites, and makes old treaties impossible to fulfil. Many clans hold the dwarven state responsible for breaking obligations that bound all surface peoples, whether or not dwarves knew the terms.
+Industrial expansion crosses agreements absent from its contracts and maps. When deep disturbance drives a protected species into ancestral hunting land, the clan can no longer keep its side of the treaty. Many hold Greathold institutions responsible for breaking obligations that bound surface peoples whether dwarven surveyors knew the terms or not.
 
-Responses range from demands for reparations and renewed treaty councils to raids, sabotage, and alliances with awakened cores. Some resistance commits atrocities. Dwarven papers increasingly label all of it terrorism directed by elven interests, which saves the state from learning why independent clans reached similar conclusions.
+Responses range from demands for reparations and renewed treaty councils to raids, sabotage, and alliances with awakened cores. Some resistance commits atrocities. Dwarven papers bundle independent clans together as terrorists directed by elven interests, obscuring the separate treaties each says was broken.

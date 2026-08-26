@@ -15,5 +15,4 @@ Core farms erase or enclose goblin habitat. Deep Companies treat occupied chambe
 
 Generations underground produce exceptional knowledge of core moods, safe routes, mana cycles, monster migration, structural warning signs, and architectural intent. Goblin observers often know a dungeon is changing long before a runic survey produces a report.
 
-That knowledge makes later sabotage precise. Some networks feed information to dungeon defenders, redirect monsters through industrial sites, or teach cores how standardized machinery fails. What authorities call coordinated monster attacks may include goblin logistics and deliberate targeting.
-
+That knowledge makes later sabotage precise. Some networks feed information to dungeon defenders, redirect monsters through industrial sites, or teach cores how standardized machinery fails. Company reports describe the result as coordinated monster attack and omit the goblin logistics that selected the targets.

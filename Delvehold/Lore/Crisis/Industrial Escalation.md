@@ -14,16 +14,14 @@ The loop is simple:
 5. defence consumes more industrial output and mana;
 6. the larger system requires still deeper supply.
 
-No blunder is needed. A successful pump opens a deeper seam; the larger seam justifies a stronger rail; the rail makes the next pump profitable. Competence drives the cutting face downward.
+A pump makes a deeper seam workable. The new output pays for rail, and rail makes the next seam profitable.
 
 ## Institutional reinforcement
 
-The engineer is handed a failed ward and designs a better ward. The general sees creatures strike a substation and assigns guards. A company answers shortage with a new site; a minister sees the jobs that site promises. Their reports meet only after the decisions are underway.
+A failed ward produces an order for a stronger one. The order drains crystal stock; procurement opens another site; guards follow when creatures strike its supply line. By the time the cabinet reads the reports together, contracts are signed and crews are below.
 
-No conspiracy is required for suppression, though conspiracies certainly occur. Shared dependency aligns thousands of ordinary decisions around continued extraction.
+Surveys are falsified and findings buried. Honest reports still begin from the premise that the pumps must remain on.
 
 ## The transition
 
-At first the loop can plausibly be managed through safer sites and better contracts. Later, industrial civilization and dungeon ecology begin adapting to one another as rival systems. [[Machine-Dungeon|The city]] and the [[World-Spirit|world]] each gather energy, transform territory, deploy specialized agents, and defend continuity.
-
-The industrial crisis becomes an encounter between forms of life.
+At first the loop can plausibly be managed through safer sites and better contracts. Later, industrial civilization and dungeon ecology adapt directly to one another. [[Machine-Dungeon|The city]] changes its casings and patrols; the [[World-Spirit|world]] answers with new burrowers before the machinery's loan is repaid.

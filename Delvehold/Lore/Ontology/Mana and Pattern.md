@@ -20,7 +20,7 @@ A rune holds the structure without a conscious mind maintaining it. An arrangeme
 
 ## Mana crystals
 
-Under sustained magical pressure, mana precipitates into stable crystalline form. Mana crystals are simultaneously:
+Under sustained magical pressure, mana precipitates into stable crystalline form. Mana crystals serve as:
 
 - fuel and battery;
 - magical reagent;
@@ -28,11 +28,10 @@ Under sustained magical pressure, mana precipitates into stable crystalline form
 - strategic reserve;
 - ecological nutrient.
 
-Industrial accounts emphasize the first four. Dungeon ecology cannot omit the fifth. A core uses crystal reserves as stored capacity: something between fat, mineral reserve, seed bank, and groundwater. Removing a small amount may be part of ordinary circulation. Removing centuries of accumulation in weeks is organ damage wearing an invoice.
+Industrial ledgers value a crystal as fuel, reagent, commodity, and reserve. In a dungeon it may also feed dormant organisms, hold mana through a lean cycle, or seed growth after damage. Traditional delving removes part of that store. Deep machinery can empty in weeks what the surrounding ecology accumulated over centuries.
 
 ## The threshold of life
 
-No single quantity of mana guarantees awakening. Agency appears to require a conjunction of durable organization, continuity through time, environmental feedback, retained encounter history, and enough complexity to model self and other.
+No measured quantity of mana guarantees awakening. The known cases combine durable organization with memory, feedback from their surroundings, and enough complexity to distinguish self from other.
 
-This is why a spell expires, a rune persists, a spell engine adapts only when given feedback, and a [[Dungeon Cores|mature core]] may eventually understand itself.
-
+A spell usually expires when its caster releases the pattern. A rune continues it; feedback lets a spell engine alter its response; retained encounters may eventually let a [[Dungeon Cores|mature core]] distinguish itself from an intruder.

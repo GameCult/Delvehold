@@ -3,9 +3,9 @@ title: Adventurers
 description: Delvers as ecological participants, economic actors, and embodied interfaces between dungeon and industry.
 ---
 
-Before industrialization, adventurers formed a dangerous but durable exchange between civilization and dungeon ecology. They entered accumulated danger, spent blood and equipment, and removed concentrated resources. Dungeons received matter, mana, foreign patterns, and encounter history. Civilization received crystals, monster products, artefacts, and temporary control of territory.
+Before industrialization, adventurers formed a dangerous but durable exchange between civilization and dungeon ecology. A party entered accumulated danger and left blood, equipment, mana, and new behaviour behind. Survivors carried out crystals, monster products, artefacts, and temporary control of territory.
 
-Guild ledgers called this salvage, never symbiosis. The exchange continued regardless of its name.
+Guild ledgers recorded only the salvage side of an exchange that also fed and changed the dungeon.
 
 ## The Greathold threshold
 

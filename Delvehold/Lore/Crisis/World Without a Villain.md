@@ -3,16 +3,14 @@ title: A world without a villain
 description: The setting's moral structure resists collapsing systemic conflict into one hidden evil.
 ---
 
-Life below brings appetite, fear, predation, and power with it.
+The Deep World contains predators with centuries to plan. Ancient cores cultivate settlements as prey; monster migrations cross villages that have never seen an industrial tool. Powers opposing extraction bring older ambitions with them, and the emergency gives old feuds fresh targets.
 
-An ancient core may cultivate villages as prey. Monster migrations kill people who have never seen an industrial tool. An elven court may praise a spirit whose seasonal hunger falls on shorter-lived neighbours. Orcish raiders, human ministries, and goblin saboteurs all find old enemies inside the new crisis.
-
-Dwarven companies suppress cognition research and prune young cores while their engines keep grain cold and city water moving. A family at the district boiler cannot be subtracted from the problem because the consortium uses them in a speech.
+Dwarven companies suppress cognition research and prune young cores. Their contracts route the harvested crystals into grain refrigeration and city pumps. Closing a farm without another supply cuts those services along with company revenue.
 
 ## The actual conflict
 
-An emerging industrial life is colliding with an older planetary one. Smaller lives inhabit both bodies and get crushed at either scale.
+An emerging industrial life is colliding with an older planetary one. People live inside the first; cores, creatures, and whole ecologies live inside the second.
 
-The [[World-Spirit]] can heal over centuries that contain whole mortal civilizations. A city must keep water flowing tonight. A collapsing neighbourhood does not care that the core acted like an immune system; a drained reserve does not care that the mine called the wound energy security.
+The [[World-Spirit]] can heal over centuries that contain whole mortal civilizations. A city must keep water flowing tonight. During a core attack, the city diverts more power to its pumps and deepens the injury that provoked the attack.
 
-Civilization discovers that its resource base is an organism after millions of lives have been rebuilt around consuming it. Killing one minister, core, monarch, or company director will leave the pumps running and the wound open.
+Civilization discovers that its resource base is an organism after millions of lives have been rebuilt around consuming it. Remove one minister, core, monarch, or company director and the next shift still reports to the pumps.

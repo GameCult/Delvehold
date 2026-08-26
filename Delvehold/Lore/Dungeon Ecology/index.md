@@ -12,4 +12,4 @@ A dungeon is an ecology organized strongly enough to act. Its chambers regulate 
 - [[Adventurers]]
 - [[Ecological Responses]]
 
-Danger is not an incidental obstacle wrapped around useful material. Contest is one of the processes through which a dungeon spends reserves, tests structures, circulates matter, and learns. That makes delving necessary without making the dungeon friendly to delvers.
+Through contest, a dungeon spends reserves, tests structures, circulates matter, and learns from intrusion. Delvers enter a process the ecology needs and may still be killed by it.

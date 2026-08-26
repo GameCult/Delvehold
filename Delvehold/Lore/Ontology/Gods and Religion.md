@@ -13,7 +13,7 @@ Churches teach that their gods precede worship. The possibility that worship sta
 
 ## Chthonic gods
 
-Mountain, river, forest, sea, cavern, and volcano spirits are often awakened ecological systems interpreted through religious relationship. Elven theologians consider this unsurprising. Dwarven theologians consider the reduction of an honoured god to “a dungeon” both crude and backwards: the ontology may instead be expanding the category of person.
+Mountain, river, forest, sea, cavern, and volcano spirits are often awakened ecological systems known through religious relationship. Elven theology has long allowed for such minds. Dwarven priests object when scholars use “dungeon” to shrink an honoured god into a specimen; to them, the discovery enlarges the category of person.
 
 ## Ascended gods
 
@@ -23,8 +23,8 @@ Saints, ancestral rulers, heroes, archmages, and great monsters occasionally est
 
 Most people are practical pluralists. A farmer leaves grain at the river shrine, asks a weather saint for dry skies, and still pays the funeral priest when a child dies. Soldiers collect survival charms; merchants invoke honest scales before attempting profitable dishonesty. Few feel obliged to reconcile the whole pantheon first.
 
-Engineers, scholars, priests, and political elites argue first over the ontology. The miner waiting below wants to know whether the tunnel will stay above their head.
+Arguments over divine ontology fill colleges and synods. At a mine shrine, the immediate question is whether the old prayer still keeps the roof up.
 
 ## Divine politics
 
-Industrialization divides revelation. Earth cults report pain under the mountains. Forge priests dream of dark furnaces. Gods of commerce favour abundant power; wilderness gods demand restraint; war gods prosper as the dispute militarizes. Divine institutions have interests, dependencies, and partial knowledge. No revelation ends the argument cleanly.
+Reports of pain under the mountains split Forge temples over dreams of dark furnaces. Commerce cults fund the industrial reading as cheaper power fills their treasuries. Protest, repression, and border fighting then send offerings to the war gods. Revelation enters politics through the priesthood that publishes it.

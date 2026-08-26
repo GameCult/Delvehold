@@ -17,18 +17,18 @@ Industrialization drains dangerous mines, heats homes, keeps food through winter
 
 Dwarven civic adulthood is earned through [[Mastership and Citizenship|Mastership]], not granted by age or ancestry alone. An apprentice becomes a full citizen by producing a Masterwork, founding an independent workshop, and accepting responsibility for its civic seal.
 
-An elf or goblin whose Masterwork is accepted receives the same civic seal as a dwarf. A dwarf without one cannot vote. The passage demands adoption into a civic practice, not dwarven ancestry.
+An accepted Masterwork carries the same civic seal whether its maker is an elf, goblin, or dwarf. Dwarven birth by itself carries none.
 
 ## Internal divisions
 
-A college engineer may leak cognition measurements to a mine union while her dean buries them. A traditional smith can despise consortium engines and still vote to keep the district furnaces supplied. In the same week, a House may finance safer core farms and send guards against the workers demanding them.
+Cognition measurements leave the Rune Colleges through union newspapers after college authorities delay publication. Mine organizers use them to challenge farm conditions without agreeing that extraction should end. Traditional workshops reprint the evidence against consortiums whose district furnaces they still need through winter.
 
 ## Religious inheritance
 
-Old prayers instruct miners to listen before cutting, seal an exhausted gallery, and leave payment in abandoned workings. Industrial theologians call this superstition or cite the primordial smith's hammer as permission. Traditionalists point to the offering in his other hand.
+Old prayers instruct miners to listen before cutting, seal an exhausted gallery, and leave payment in abandoned workings. Industrial theologians cite the primordial smith's hammer as permission to reshape stone. Older carvings show him leaving an offering when the work is done.
 
 ## The dwarven fear
 
-Foreign calls to stop extraction arrive in districts whose heat, water, and food now run on deep power. Consortium speeches exploit that fear expertly. Winter keeps supplying the speeches with facts.
+Foreign calls to stop extraction arrive in districts whose heat, water, and food run on deep power. Consortiums turn that dependence into permission for expansion, while every winter makes abrupt closure harder to advocate.
 
 See [[Dwarven Industry]] for the institutions turning that fear into policy.

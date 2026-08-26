@@ -19,8 +19,8 @@ Recorded surface symptoms include:
 
 No single symptom proves a planetary system. Climate, magic, geology, local cores, sabotage, and ordinary variance remain plausible causes for individual events. The case emerges from timing, distribution, repeated functional targeting, and correlated mana changes.
 
-Elven seers recognize the pattern because their maps already join roots to underground ecologies. Dwarven ministries wait for instruments. Then halfling field books show the same dates as goblin route closures, and the official models begin shedding their convenient exceptions.
+Elven maps predict that surface effects will follow deep mana currents. Years later, halfling field books place crop failures on those lines and goblin route logs date the first underground changes to the same weeks. Dwarven models can dismiss any one archive. The overlap is harder to file away.
 
 ## Political consequence
 
-Once damage crosses a border, a dwarven mine becomes foreign policy. Villages downstream cannot vote on its machinery. Their ruined harvests enter tariff debates, military briefings, and speeches already preparing the public for war.
+Once damage crosses a border, a dwarven mine becomes foreign policy. Downstream councils send ruined seed and veterinary reports to capitals that cannot vote on the machinery responsible. The evidence returns as tariffs, military estimates, and speeches preparing the public for war.

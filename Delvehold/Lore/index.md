@@ -29,4 +29,4 @@ The distinctions between machine, organism, spirit, dungeon, god, and civilizati
 
 ## What the world knows
 
-This reference states the setting's underlying ontology while preserving uncertainty inside the world. Most inhabitants know only their local evidence. Dwarven engineers speak of adaptive geomantic feedback; elves speak of injured spirits; orcs speak of broken obligations; goblins notice that the tunnels are in a mood. Several descriptions can be true at once without any faction owning the whole truth.
+No equivalent reference exists inside the world. A mine report describing adaptive geomantic feedback may reach an elven archive as evidence of injury and an orcish council as evidence of a broken treaty. Goblin guides may have stopped using the tunnel weeks before the report was written because it was “in a mood.” They share an event without sharing its explanation.

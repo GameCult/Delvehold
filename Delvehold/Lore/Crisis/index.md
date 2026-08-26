@@ -12,4 +12,4 @@ The deep crisis begins in scattered mine failures and closes into a feedback loo
 - [[International Crisis]]
 - [[World Without a Villain]]
 
-The crisis becomes visible slowly enough for every institution to explain away its early evidence and quickly enough that, once admitted, no painless response remains.
+Mine failures are investigated separately until the same adaptations appear across borders. By then, deep power is embedded in heating, transport, food, and defence.

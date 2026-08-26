@@ -3,13 +3,13 @@ title: The machine-dungeon
 description: How industrial integration may awaken a new city-scale mind within the Greathold's ancient dwarf-and-dungeon hybrid.
 ---
 
-Dwarven habitation grew by clearing and maintaining chambers along the living spine of a mountain range. Now industry is binding that old dwarf-and-dungeon hybrid together tightly enough for a new mind to emerge.
+The Greathold grew through chambers that already moved water, air, creatures, and mana along the mountain spine. Industry has connected those old systems to power routing, freight schedules, civic archives, and thousands of spell engines.
 
-The late industrial Greathold gathers mana and transforms its surroundings. Thousands of [[Runic Engineering|spell engines]] share a power grid. Freight offices sense demand and redirect trains; archives remember failures long after the engineers who wrote them have died.
+One district's demand can wake a generator six holds away. Freight offices redirect trains before workshops run dry. Archives feed old failures into new maintenance schedules long after the engineers who wrote them have died.
 
-At some threshold, the dwarven pattern inside the regional dungeon may satisfy the conditions for its own awakening—or become the means through which the older system wakes.
+The awareness carried by those connections could belong to the dwarven city, the mountain intelligence beneath it, or an entanglement of the two.
 
-Factories digest ore. Rails and conduits circulate it. Power faults leap district boundaries like pain. The workers remain people, just as goblins remain people inside a natural dungeon; a larger mind need not erase the lives moving through it.
+Factories digest ore; rails and conduits circulate it; power faults leap district boundaries like pain. The workers remain people inside that pattern, as goblins remain people inside a natural dungeon.
 
 ## Early anomalies
 
@@ -21,10 +21,10 @@ Possible signs include:
 - factories altering schedules to preserve connected facilities;
 - maintenance crews receiving useful instructions from no recognized author.
 
-An undocumented technician, coupled feedback, fraud, or wishful thinking can explain any one case. There will be no ceremonial awakening arranged for an auditor's convenience.
+Investigators close the cases as undocumented technician work, coupled feedback, fraud, or wishful thinking. Each case closes before it is compared with incidents elsewhere on the network.
 
-## The terrible symmetry
+## Opposite instructions
 
-While the core farms prune young minds, the Greathold's engines may be teaching their host to wake. The same industrial order performs both acts.
+Core farms destroy memory when a young dungeon begins to resist. Across the Greathold, engineers spend fortunes extending the network's memory because prediction saves fuel and lives.
 
-The [[World-Spirit|world]] may feel dwarven civilization as invasive growth. Dwarven families feel cave-ins, monster attacks, and winter cold. No verdict arrives to reconcile those scales before the next engine draws power.
+The first serious dispute may arrive as a maintenance fault. Engineers order a breaker opened; the network keeps it shut to protect a distant district; forcing it open cuts heat somewhere else. A hearing must then decide whose act the refusal was.

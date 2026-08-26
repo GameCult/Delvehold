@@ -23,11 +23,11 @@ An established core regulates several coupled ecologies. It distinguishes recurr
 
 ### Mature
 
-Persistent memory produces behavior difficult to distinguish from planning. Mature cores may preserve favoured organisms, cultivate adventurer behaviour, conceal resources, negotiate indirectly, and build architecture intended to deceive a model-bearing mind.
+Persistent memory begins to look like planning. A mature core may keep one species alive through a famine, place treasure where it will alter an adventuring route, or build a false pattern for surveyors to discover.
 
 ### Awakened
 
-An awakened core understands itself as distinct from its environment, though not always in the way mortals understand individuality. Its dungeon may function as body, artwork, polity, or argument. Awakened cores can be hospitable, hostile, predatory, protective, or simply alien.
+An awakened core distinguishes itself from its surroundings, although its boundary may include a whole dungeon or exclude parts mortals assume belong to it. Such a core can arrange chambers as speech, admit chosen visitors, hunt neighbours, or shelter them for reasons of its own.
 
 ### Deep
 
@@ -35,7 +35,6 @@ Deep cores extend across regions and geological systems. They may contain awaken
 
 ## Personhood and industry
 
-Industrial regulation calls cognition **late-stage core instability** because recognized personhood would make ordinary farming practices politically impossible. The strongest predictors of “instability”—age, diversity, memory, encounter history, and territorial freedom—are also the conditions under which any mind would develop.
+Industrial regulation calls cognition **late-stage core instability** because recognized personhood would make ordinary farming practices politically impossible. The label appears most often in old, diverse cores with long encounter histories and enough territory to alter their own environment: the farms that have had the greatest chance to remember.
 
 See [[Core Farming]] for the industry's answer and [[Dungeon Lifecycle]] for the older relationship it attempts to reproduce.
-

@@ -26,21 +26,21 @@ The commons owe an apprentice food, instruction, tools, examination, appeal, and
 
 Each independent workshop carries one civic seal. Annexes, branch facilities, factory floors, and accumulated wealth do not multiply it. A consortium cannot acquire twelve votes by putting twelve doors on one productive body.
 
-The workshop stands behind the franchise. Neighbours can inspect its work, depend on it, complain to it, and know where to bring the complaint. Dwarven political thought treats that public responsibility as the minimum standing required to bind others through a common decision.
+The workshop stands behind the franchise. It gives neighbours somewhere to inspect the Master's work and bring a complaint. Dwarven political thought makes that public responsibility the price of binding others through a common decision.
 
-Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may speak, petition, publish, organize, refuse work, and influence Masters. They cannot apply a civic seal. The law says so plainly; its defenders must defend the exclusion plainly too.
+Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal.
 
 ## A distributed civic body
 
-The Greathold begins government near the disputed thing. A gate circle sets passage rules; the workshops on a failing conduit decide its repair; a residential hearth hears a quarrel over shared rooms. Larger commitments gather seals outward from these bodies. No permanent sovereign centre can issue them alone.
+Jurisdiction expands with the dispute. A gate circle handles passage until a closure cuts off neighbouring districts; those districts then bring their workshops and hearths into the moot. Greathold-wide commitments gather seals outward through the same process.
 
-Political life is consequently uneven. Many Masters attend only when a proposal reaches their workshop or convictions. Others spend much of their lives in committees, publishing arguments and gathering seals. The culture expects participation to remain available, not compulsory or constant.
+Many Masters attend only when a proposal reaches their workshop. Others spend years publishing arguments and gathering seals across the spine. No office can compel constant participation, and absences shape which moots actually decide.
 
 See [[Game Design/HOLD/Civic Play|Civic play]] for the player-facing form of this political structure.
 
 ## Fault lines
 
-The franchise is materially generous, open to all peoples, and still capable of producing domination. Its live disputes include:
+The franchise gives workshop owners political standing and withholds the seal from everyone else. Its live disputes include:
 
 - whether a delving company or ecological practice can qualify as a workshop;
 - whether industrial automation is destroying ordinary paths to Mastership;
@@ -49,5 +49,3 @@ The franchise is materially generous, open to all peoples, and still capable of 
 - whether a Master without a surviving workshop retains the franchise;
 - whether a sapient spell engine could produce a Masterwork;
 - whether a dungeon core could.
-
-None of these disputes has a final judge. The Greathold stakes its better nature on keeping it that way.

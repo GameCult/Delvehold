@@ -25,14 +25,12 @@ Mining and core-farming concerns operating frontier sites. They carry the greate
 
 ### Rune Colleges
 
-Theoretical and technical institutions that make industrial progress possible. They also produce inconvenient measurements, dissenting engineers, and the strongest internal evidence for core cognition.
+Theoretical and technical institutions that make industrial progress possible. Their instruments produce the strongest internal evidence for core cognition, and their engineers conduct the argument over publishing it.
 
 ### Guilds and labour
 
-Traditional smiths lose status to mechanized production. Factory and mine workers organize around safety, hours, crystal exposure, industrial disease, automation, and core-farm hazards. Labour movements do not share one ecological politics, but some become natural allies of anti-exploitation campaigns.
+Traditional smiths lose status to mechanized production. Factory and mine workers organize around safety, hours, crystal exposure, industrial disease, automation, and core-farm hazards. Core-farm safety brings some unions into ecological campaigns; others defend expansion as the source of wages and public power.
 
 ## Dependency
 
-Millions now rely on cheap magical power. Closing farms means shortages; limiting mines means unemployment; restricting engines threatens food and heat; abandoning deep infrastructure may make whole cities uninhabitable.
-
-By the time cognition research reaches the newspapers, district heat, mine drainage, rail, and preserved food all draw from the same machinery. Closing a core farm now reaches the nursery boiler before it reaches the consortium balance sheet.
+Millions now rely on cheap magical power. The same crystal contracts supply mine drainage, freight rail, food stores, and district heat. A core-farm closure reaches all four schedules before the consortium loses a quarter's profit.

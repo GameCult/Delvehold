@@ -7,11 +7,11 @@ The Greathold occupies the mountain range's dungeon. Its chambers, galleries, sh
 
 Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where its districts, subsidiary holds, and frontier galleries possess their own governments and identities.
 
-Government begins in the workshop moot, the residential hearth, the gate circle, and the subsidiary hold. A broken lift is argued over by the districts it strands. Commitments spanning the Greathold gather seals from these bodies; there is no permanent sovereign centre to issue them. The [[Mastership and Citizenship|workshop franchise]] supplies the characteristic civic unit.
+Government begins near the matter under dispute. A broken lift belongs first to its stranded districts; if the closure blocks the spine, their settlement must gather seals from farther holds. No permanent sovereign centre can issue a Greathold-wide order alone. The [[Mastership and Citizenship|workshop franchise]] supplies the characteristic civic unit.
 
 ## Built by delving
 
-No legendary campaign conquered the Greathold. One generation opened a chamber, another shored its roof, and a third found monsters breeding behind the sealed wall. Settlement moved by such gains and inheritances.
+Expansion came piecemeal. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
 
 Delving predates the adventuring profession. It opened homes and roads, managed dangerous dungeon populations, and carried matter through the dungeon's cycles. A settled district still needed formal expeditions into old drains, closed galleries, and newly restless chambers.
 
@@ -19,11 +19,11 @@ Before cutting a new face, miners listened. Exhausted galleries were sealed; the
 
 ## The spine of the range
 
-The Greathold follows structures dwarves call the **spine**: a sequence of unusually stable, mana-rich axes running through the mountain range in which most dwarves live. The name is architectural, geological, and more literal than industrial scholars once preferred to admit.
+The Greathold follows structures dwarves call the **spine**, a sequence of unusually stable, mana-rich axes through the inhabited mountain range. Roads and buildings follow it, but so do mana flows and the behaviour of local cores.
 
 Its central roads, lift shafts, cisterns, ventilation trunks, rail corridors, and deep gates occupy or parallel ancient dungeon structures. Local cores branch from the spine like organs or ganglia. Far below, those branches join systems whose extent is measured in regions rather than settlements.
 
-This placed the dwarves closer to the [[Nested Dungeons|deep strata]] than any other major surface civilization.
+The inherited routes placed dwarven settlements closer to the [[Nested Dungeons|deep strata]] than any other major surface civilization.
 
 ## The adventurer threshold
 
@@ -43,8 +43,4 @@ The first factories processed adventurer returns, and the first automated lifts 
 
 ## An organ with inhabitants
 
-The Greathold belongs to the world-dungeon and to the dwarves who made streets through it.
-
-Engineers describe captured natural infrastructure. Traditionalists describe a covenant embodied in stone. Elven critics call it scar tissue or a graft. The deeper ontology permits all three: the Greathold is a dwarven social organism nested within, shaping, and increasingly shaped by a regional dungeon organism.
-
-The [[Machine-Dungeon|machine-dungeon]] question began before the first engine. Industry is wiring memory and sensation through an old dwarf-and-mountain hybrid. Somewhere between a lift answering demand and a district defending its own power, the Greathold may begin to notice what it is.
+The dwarves made streets through a regional dungeon organism and became part of its life. Their galleries redirect its flows; local cores alter inhabited districts in return. Industry now carries signals, memory, and automatic responses across that old entanglement. The [[Machine-Dungeon|machine-dungeon]] question is whether those connections allow the Greathold to recognize itself.

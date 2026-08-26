@@ -21,7 +21,6 @@ Names allocate responsibility. Instability invites better stabilization; hostili
 
 ## Intelligence
 
-An ecological response does not require a single commander. Local adaptation, shared mana currents, nested cores, goblin intelligence networks, and awakened minds can all contribute. The important fact is behavioural: the Deep World distinguishes infrastructure by function and changes faster than industrial doctrine expects.
+Local adaptation, shared mana currents, nested cores, goblin intelligence networks, and awakened minds can converge without a single commander. Whatever the mixture, attacks pass nearby homes to reach pumps and substations, then change when those machines are redesigned.
 
-The habitual dwarven answer—deeper wards, stronger drills, larger engines, more mana—turns feedback into an escalation loop.
-
+Stronger wards demand more mana and protect larger drills. The next response arrives adapted to both.

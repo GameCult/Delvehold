@@ -9,10 +9,10 @@ An ecosystem with personhood fits readily inside these traditions. Many elves re
 
 ## The industrial dispute
 
-From a dwarven factory, elves appear to oppose useful technology with mystical categories elastic enough to cover every inconvenience. From an elven polity, core farming resembles the controlled mutilation of juvenile spirits and deep mining resembles invasive surgery performed on a sleeping god.
+Elven law can treat a core farm as the mutilation of a juvenile spirit and a deep bore as surgery on a sleeping god. Dwarven manufacturers hear categories broad enough to outlaw any machinery an elven rival dislikes.
 
-Elven courts gain leverage when dwarven expansion slows. Some speak tenderly of spirits that regularly kill shorter-lived neighbours, and few ask those spirits to submit to an assembly. Their ecological fluency gives them an early warning, not clean hands.
+Courts use the cognition case to restrain dwarven expansion. Their injunctions can protect juvenile cores while leaving shorter-lived neighbours bound to older, dangerous spirit compacts. Dwarven negotiators make certain that contradiction appears in every trade hearing.
 
 ## Escalation
 
-Elven seers connect surface mutation, mana storms, and distant dungeon activity into one system. Scientific delegations and trade pressure precede sabotage and intervention. When forests begin physically joining the disturbed networks below them, the line between ecological defence and military action collapses.
+Elven seers connect surface mutation, mana storms, and distant dungeon activity into one system. Scientific delegations and trade pressure precede sabotage and intervention. Later, roots break into industrial galleries and carry armed defenders with them.

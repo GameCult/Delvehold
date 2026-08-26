@@ -13,14 +13,12 @@ A cave core may feed a fungal network that regulates one slope of a mountain int
 
 ## Nested identity
 
-A goblin community can live inside a dungeon without being its puppet. The dungeon can live inside a mountain without losing all local agency. The mountain can belong to a continental system that is itself an expression of the [[World-Spirit]].
+A goblin community living inside a dungeon keeps its own purposes. That dungeon remains active within a mountain intelligence, which in turn participates in continental mana currents and the [[World-Spirit]]. Membership in the larger pattern does not settle where one will begins or another ends.
 
-Each can be simultaneously an organism, an environment, a society, and a component of a larger organism.
+Elven spiritual thought has old words for such nesting. Industrial property law expects a boundary stone, then finds roots and remembered injuries crossing it.
 
-Elven spiritual thought has old words for such nesting. Industrial property law expects a boundary stone. The Deep World keeps putting roots, memories, and several plausible selves across the line.
-
-[[The Greathold]] is the setting's largest inhabited example. It is simultaneously dwarven homeland, cleared dungeon territory, civic infrastructure, and a living region of the mountain-range system. Dwarves did not cease to inhabit the world-dungeon when they made its chambers into streets.
+[[The Greathold]] is the setting's largest inhabited example. Dwarven streets occupy cleared dungeon chambers; civic lifts follow old structures; local cores remain active within the mountain-range system. Settlement changed the world-dungeon without leaving it.
 
 ## Practical consequence
 
-Damage does not remain local merely because a mine lease does. A deep bore can intersect tissue belonging to a wider system; repeated disturbance can carry through mana currents; distant dungeons can coordinate without sharing a visible tunnel. This is why geographically separated mines begin suffering identical changes during the [[Deep Mining|deep-mining crisis]].
+A mine lease may enclose the cutting face while the bore intersects tissue serving a wider system. Repeated disturbance travels through mana currents, and distant dungeons begin showing identical changes without a visible tunnel between them. This pattern emerges during the [[Deep Mining|deep-mining crisis]].

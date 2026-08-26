@@ -23,3 +23,10 @@
 - The masthead owns global section routes. Desktop and mobile within-section navigation are projections of the same Quartz content tree and active-section filters; do not maintain separate route lists.
 - Shared Quartz machinery remains owned by `GameCult/GameCult-Quartz`; do not vendor it here.
 - Generated output under `quartz-site/public/` is disposable and must not become source truth.
+
+## Lore prose
+
+- Use `F:\Projects\Kalsa\workshop\review-council\critics\AI-Isms and Prose.md` as the review brief for Lore prose. Its named patterns are prompts to reread, not forbidden-token rules or quality metrics.
+- Lore canon lives in claims, relationships, chronology, links, and ownership. Existing sentences are replaceable projections; preserve canon through a fact audit, not by protecting wording.
+- Accept prose only after full-page reading for voice, rhythm, specificity, continuity, and trust in the reader. Pattern counts can locate pressure but cannot demonstrate quality.
+- Commit `15863a7` is rejected prose evidence. Its sentence-local substitutions reduced surface markers while preserving viewpoint chorus, repeated frames, explanatory cadence, and authorial distance. Do not use its replacement passages as positive examples.
