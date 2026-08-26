@@ -11,7 +11,7 @@ description: One persistent world, experienced from opposite sides of the contra
   <section class="delvehold-mode-panel delvehold-mode-panel-delve">
     <p class="delvehold-mode-label">DELVE</p>
     <h1>Enter a world that needs you to trespass.</h1>
-    <p>Delve with friends into procedurally generated living dungeons. Accept contracts, survive ecologies that learn from intrusion, and decide how much of the promised extraction is worth attempting.</p>
+    <p>DELVE is a PvE extraction RPG set inside living dungeons. Take contracts, enter with friends, survive ecologies that learn from intrusion, and decide how much promised material is worth risking the return journey for.</p>
     <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
   </section>
 
@@ -20,7 +20,7 @@ description: One persistent world, experienced from opposite sides of the contra
   <section class="delvehold-mode-panel delvehold-mode-panel-hold">
     <p class="delvehold-mode-label">HOLD</p>
     <h2>Build the warm machine waiting above.</h2>
-    <p>Begin with one mage doing every useful task by hand. Encode those gestures into runes, compose them into spell engines, and grow a cozy workshop into a shared magical factory.</p>
+    <p>HOLD is a cozy magical-industry tycoon game. Begin with one mage doing every useful task by hand, encode those gestures into runes, and compose them into spell engines that grow a workshop into shared infrastructure.</p>
     <p>Your workshop is one shard in a neighborhood graph. Trade with the players packed around you, share scarce infrastructure, and issue the contracts that become somebody else's night underground.</p>
   </section>
 
