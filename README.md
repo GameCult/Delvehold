@@ -21,3 +21,20 @@ The launcher expects `GameCult-Quartz` beside this repository or at `GAMECULT_QU
 ```
 
 Generated output is written to `quartz-site/public/`.
+
+## Local runtime
+
+The first runtime foundation expects the admitted CultLib worktree at
+`F:\Projects\CultLib-aetheria-authority` and Godot 4.7.2 Mono at
+`F:\Applications\Godot_v4.7.2-stable_mono_win64`. Build and exercise the
+Godot-to-host CultMesh path, including a host restart, with:
+
+```powershell
+.\scripts\verify-runtime.ps1
+```
+
+Open the project in the Godot editor with:
+
+```powershell
+.\scripts\open-godot.ps1
+```

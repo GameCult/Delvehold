@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Delvehold.Protocol</AssemblyName>
+    <RootNamespace>Delvehold.Protocol</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="$(CultLibRoot)\src\GameCult.Caching\GameCult.Caching.csproj" />
+    <ProjectReference Include="$(CultLibRoot)\src\GameCult.Caching.MessagePack\GameCult.Caching.MessagePack.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="$(CultLibRoot)\src\GameCult.Caching.MessagePack.Generator\GameCult.Caching.MessagePack.Generator.csproj"
+                      OutputItemType="Analyzer"
+                      ReferenceOutputAssembly="false" />
+  </ItemGroup>
+</Project>

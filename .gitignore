@@ -10,3 +10,11 @@ Thumbs.db
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/
+
+# C# and Godot runtime state
+/artifacts/
+**/bin/
+**/obj/
+client/.godot/
+*.user
+*.suo

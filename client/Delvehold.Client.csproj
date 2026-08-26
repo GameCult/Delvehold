@@ -1,0 +1,12 @@
+<Project Sdk="Godot.NET.Sdk/4.7.2">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <AssemblyName>Delvehold.Client</AssemblyName>
+    <RootNamespace>Delvehold.Client</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\src\Delvehold.Protocol\Delvehold.Protocol.csproj" />
+    <ProjectReference Include="$(CultLibRoot)\src\GameCult.Mesh\GameCult.Mesh.csproj" />
+  </ItemGroup>
+</Project>
