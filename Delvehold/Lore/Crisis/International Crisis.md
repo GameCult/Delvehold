@@ -9,15 +9,14 @@ As [[Surface Symptoms|effects]] spread, diplomacy escalates through scientific d
 
 ## Competing positions
 
-Elven polities argue that the surface biosphere and Deep World are one system and that extraction threatens both. Human states divide between technological dependence, protection of domestic magical institutions, and fear of dwarven power. Orcish groups demand repair for broken territorial obligations. Goblin networks act from displacement long before other powers recognize them as political participants.
+Elven delegations bring maps on which roots and deep mana currents share the same lines. Human ministries study those maps beside lists of domestic guild closures and dwarven weapons contracts. Orcish treaty-keepers demand that abandoned obligations be restored. Goblin networks, long absent from the negotiating rooms, have already begun closing routes.
 
 Dwarven governments answer that foreign models are uncertain, sanctions are protectionist, sabotage kills workers, and no critic has a credible plan for keeping industrial populations alive during rapid contraction.
 
-All of these claims can contain truth.
+At the negotiating table, every delegation quotes the measurements that support its next demand and sends the inconvenient pages home for further study.
 
 ## Intervention and invasion
 
-Coalition forces target mines, core farms, factories, rails, and mana depots as infrastructure of an ecological emergency. The dwarven population experiences armies advancing on homes, heat, food, and transport. “Containment” and “invasion” describe the same operations from opposite sides of the dependency.
+Coalition planners mark mines, core farms, factories, rails, and mana depots on maps of the emergency. Dwarven families mark the same sites as work, heat, food, and the train home. The first bombardment makes the vocabulary dispute academic.
 
-There is no perspective from which surrender is uncomplicated. Continued extraction spreads harm. Abrupt destruction of the industrial system also spreads harm. Political actors weaponize that bind while civilians and dungeon ecologies absorb the consequences.
-
+A mine kept open poisons another watershed. A mana depot destroyed in winter cuts heat to three districts. Cabinets choose between those reports while the affected villages and chambers wait outside.

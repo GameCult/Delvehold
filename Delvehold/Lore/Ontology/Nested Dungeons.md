@@ -9,7 +9,7 @@ The approximate hierarchy is:
 
 **local core → regional core → deep core → continental core → planetary core**
 
-The hierarchy is not a clean chain of command. It resembles ecology and anatomy at once. A cave core may participate in a fungal network that forms one regulatory organ of a mountain-scale intelligence. The mountain may overlap a watershed system and a continental mana current. Boundaries shift with season, pressure, damage, and memory.
+A cave core may feed a fungal network that regulates one slope of a mountain intelligence. Snowmelt draws that mountain into a watershed; a continental mana current crosses both. None commands the others from above. Their borders move with season, pressure, damage, and memory.
 
 ## Nested identity
 
@@ -17,7 +17,7 @@ A goblin community can live inside a dungeon without being its puppet. The dunge
 
 Each can be simultaneously an organism, an environment, a society, and a component of a larger organism.
 
-This is ordinary to elven spiritual thought and deeply inconvenient to industrial property law. Ownership assumes separable things. The Deep World supplies relationships with porous borders and more than one plausible self.
+Elven spiritual thought has old words for such nesting. Industrial property law expects a boundary stone. The Deep World keeps putting roots, memories, and several plausible selves across the line.
 
 [[The Greathold]] is the setting's largest inhabited example. It is simultaneously dwarven homeland, cleared dungeon territory, civic infrastructure, and a living region of the mountain-range system. Dwarves did not cease to inhabit the world-dungeon when they made its chambers into streets.
 

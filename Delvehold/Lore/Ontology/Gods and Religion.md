@@ -21,11 +21,10 @@ Saints, ancestral rulers, heroes, archmages, and great monsters occasionally est
 
 ## Ordinary religion
 
-Most people are practical pluralists. Farmers pray for harvest, soldiers for survival, merchants for honest scales or profitable dishonesty, dwarven smiths invoke the Forge Father, and funeral priests guide the dead. A person may honour several cults without feeling a contradiction.
+Most people are practical pluralists. A farmer leaves grain at the river shrine, asks a weather saint for dry skies, and still pays the funeral priest when a child dies. Soldiers collect survival charms; merchants invoke honest scales before attempting profitable dishonesty. Few feel obliged to reconcile the whole pantheon first.
 
-The ontological crisis therefore begins among engineers, scholars, priests, and political elites. The average miner does not require a unified theory of divinity. They require the tunnel to remain above their head.
+Engineers, scholars, priests, and political elites argue first over the ontology. The miner waiting below wants to know whether the tunnel will stay above their head.
 
 ## Divine politics
 
 Industrialization divides revelation. Earth cults report pain under the mountains. Forge priests dream of dark furnaces. Gods of commerce favour abundant power; wilderness gods demand restraint; war gods prosper as the dispute militarizes. Divine institutions have interests, dependencies, and partial knowledge. No revelation ends the argument cleanly.
-

@@ -15,7 +15,7 @@ For a young reflexive core, comparison to livestock may be defensible. The indus
 
 ## Late-stage instability
 
-Older cores hide output, rearrange chambers, redirect creatures, sabotage equipment, manipulate workers, or attempt escape. Industry classifies this as instability rather than communication.
+Older cores hide output, rearrange chambers, redirect creatures, sabotage equipment, manipulate workers, or attempt escape. Industry files these acts under instability. Communication would require a reply.
 
 Management methods include:
 
@@ -30,7 +30,6 @@ Regulators call this responsible husbandry. Elven campaigners call it **soul pru
 
 ## The lifecycle problem
 
-Farm protocols reproduce inputs while suppressing the open-ended encounters through which a core learns and renews itself. Controlled threats become predictable stimulus. Direct harvesting bypasses [[Dungeon Lifecycle|bounded delving]]. The productive core is kept permanently young, legible, and unable to negotiate the terms of its own existence.
+Farm protocols feed a core the same threats until it learns nothing from them. Chamber resets erase what survives; direct harvesters take the yield without entering the [[Dungeon Lifecycle|delving exchange]]. Managers want a core old enough to produce and young enough never to answer them.
 
 Core farming supplies the first great wave of industry. Its output also makes demand rise faster than farms can meet, sending the Deep Companies toward [[Deep Mining]].
-

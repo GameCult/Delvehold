@@ -15,14 +15,14 @@ The mines have entered [[Nested Dungeons|larger organisms]].
 
 Industrial institutions initially treat each discovery as a harder version of a familiar problem. Unknown geometry requires better surveys. Regeneration requires stronger excavation. Coordinated fauna requires security. Shifting veins require faster extraction.
 
-This interpretation protects investment because it converts evidence against the operation into demand for more operation.
+Every diagnosis writes the next purchase order. Better surveys, stronger cutters, more guards, and faster pumps keep the mine open while the evidence against it accumulates.
 
 ## Distributed injury
 
-At depth, a bore is not necessarily disturbing the territory directly around it. It may sever a conduit, drain a reserve used elsewhere, or introduce a repeating runic signal into a system spanning a mountain range. Local environmental assessments become almost meaningless.
+At depth, a bore may sever a conduit serving another valley, drain a reserve held for a distant bloom, or pulse its rune sequence through an entire mountain range. An assessor standing beside the drill sees only the nearest wound.
 
-The first coordinated [[Ecological Responses|responses]] appear across mines separated by hundreds of kilometres. Cave systems seal. Deposits retreat. Creatures select industrial targets by function. The underground is not merely reacting; it is integrating information.
+The first coordinated [[Ecological Responses|responses]] appear across mines hundreds of kilometres apart. Cave systems seal in the same week. Deposits retreat ahead of scheduled crews. Creatures pass homes untouched to reach substations built from the same plans.
 
 ## Political lock-in
 
-By the time the implication is legible, deep power feeds cities and weapons, and the installed machinery cannot run on shallow supply. Stopping is no longer an isolated business decision. It is a forced reorganization of dwarven society under pressure from a world already answering back.
+By the time the pattern survives official doubt, deep power feeds cities and weapons. Shallow crystal cannot run the installed machinery. A mine closure now reorganizes dwarven life while the world below is already answering.

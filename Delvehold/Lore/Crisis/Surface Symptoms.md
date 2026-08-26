@@ -3,7 +3,7 @@ title: Surface symptoms
 description: How disturbance beneath dwarven mines spreads into distant climates, ecologies, and settlements.
 ---
 
-The consequences of early industrial extraction remain underground and politically remote. Deeper disturbance breaks that convenience.
+Early extraction failures can be sealed behind a mine gate. Deeper workings carry the trouble into weather, rivers, fields, and foreign territory.
 
 Recorded surface symptoms include:
 
@@ -19,9 +19,8 @@ Recorded surface symptoms include:
 
 No single symptom proves a planetary system. Climate, magic, geology, local cores, sabotage, and ordinary variance remain plausible causes for individual events. The case emerges from timing, distribution, repeated functional targeting, and correlated mana changes.
 
-Elven seers interpret the pattern early because their model already joins surface and underground ecologies. Dwarven institutions demand evidence legible to industrial measurement. Halfling agricultural records and goblin route knowledge eventually provide independent observations the official models cannot comfortably absorb.
+Elven seers recognize the pattern because their maps already join roots to underground ecologies. Dwarven ministries wait for instruments. Then halfling field books show the same dates as goblin route closures, and the official models begin shedding their convenient exceptions.
 
 ## Political consequence
 
-Once damage crosses borders, extraction stops being a domestic dwarven policy. Foreign publics pay costs without receiving authority over the machinery producing them. Trade disputes acquire ecological stakes; environmental claims acquire strategic uses; local disasters become evidence in an international argument already preparing for war.
-
+Once damage crosses a border, a dwarven mine becomes foreign policy. Villages downstream cannot vote on its machinery. Their ruined harvests enter tariff debates, military briefings, and speeches already preparing the public for war.

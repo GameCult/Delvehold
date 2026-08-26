@@ -14,11 +14,11 @@ The loop is simple:
 5. defence consumes more industrial output and mana;
 6. the larger system requires still deeper supply.
 
-The crisis is created by competent play according to the industrial system's own measures. Failure is not required. Every solved bottleneck exposes the next layer of a living substrate.
+No blunder is needed. A successful pump opens a deeper seam; the larger seam justifies a stronger rail; the rail makes the next pump profitable. Competence drives the cutting face downward.
 
 ## Institutional reinforcement
 
-Each major institution sees evidence supporting its mandate. Engineers receive problems that need engineering. Militaries receive attacks that need security. companies receive shortages that justify new sites. Governments receive unemployment and infrastructure risk that make contraction politically dangerous.
+The engineer is handed a failed ward and designs a better ward. The general sees creatures strike a substation and assigns guards. A company answers shortage with a new site; a minister sees the jobs that site promises. Their reports meet only after the decisions are underway.
 
 No conspiracy is required for suppression, though conspiracies certainly occur. Shared dependency aligns thousands of ordinary decisions around continued extraction.
 
@@ -27,4 +27,3 @@ No conspiracy is required for suppression, though conspiracies certainly occur. 
 At first the loop can plausibly be managed through safer sites and better contracts. Later, industrial civilization and dungeon ecology begin adapting to one another as rival systems. [[Machine-Dungeon|The city]] and the [[World-Spirit|world]] each gather energy, transform territory, deploy specialized agents, and defend continuity.
 
 The industrial crisis becomes an encounter between forms of life.
-

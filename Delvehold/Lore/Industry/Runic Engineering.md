@@ -17,7 +17,7 @@ The limiting factors of magic therefore change from trained attention to fuel, m
 
 Every reliable engine begins as a gesture somebody knows how to perform. A mage gathers mana, shapes a transformation, observes failure, and repeats. Engineers encode those operations into runes, then compose the runes into systems.
 
-This lineage matters. Automation does not make the original practitioner conceptually obsolete; it moves expertise from constant execution into design, diagnosis, exception handling, and teaching the machine what a successful act is.
+The practitioner leaves the production line but remains in the engine's ancestry. Their work moves into design, diagnosis, exceptions, and the hard business of teaching a machine what success looks like.
 
 ## Displacement
 
@@ -27,5 +27,4 @@ A spell engine does not tire, demand wages, refuse unsafe work, or join a guild.
 
 ## The awakening risk
 
-An engine is a persistent magical pattern. A network of engines can sense, route, remember, and maintain itself. Under Delvehold's foundational ontology, sufficiently sophisticated industrial systems are not merely imitating [[Dungeon Cores|dungeons]]. They are approaching the same threshold by another road.
-
+An engine is a persistent magical pattern. Networks of them sense demand, route power, remember failures, and schedule their own maintenance. A [[Dungeon Cores|dungeon core]] reaches agency through ecology; the industrial network may reach it along rails and copper runes.

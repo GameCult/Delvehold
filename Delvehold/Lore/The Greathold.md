@@ -3,19 +3,19 @@ title: The Greathold
 description: The dwarven homeland cleared through the living spine of a mountain-range dungeon.
 ---
 
-The Greathold is not a city built beneath a mountain range. It is the inhabited portion of the range's dungeon: a chain of chambers, galleries, shafts, and deep structures cleared and maintained by dwarves over many generations.
+The Greathold occupies the mountain range's dungeon. Its chambers, galleries, shafts, and older structures have been cleared and inhabited over many dwarven generations.
 
 Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where its districts, subsidiary holds, and frontier galleries possess their own governments and identities.
 
-Those governments are local first. Workshop moots, hearth assemblies, infrastructure cooperatives, gate circles, craft associations, and subsidiary holds decide matters where their consequences live. Greathold-wide commitments are assembled from those bodies rather than issued by a permanent sovereign centre. The [[Mastership and Citizenship|workshop franchise]] supplies their characteristic civic unit.
+Government begins in the workshop moot, the residential hearth, the gate circle, and the subsidiary hold. A broken lift is argued over by the districts it strands. Commitments spanning the Greathold gather seals from these bodies; there is no permanent sovereign centre to issue them. The [[Mastership and Citizenship|workshop franchise]] supplies the characteristic civic unit.
 
 ## Built by delving
 
-The Greathold was not conquered in one legendary campaign. Each generation pushed into new chambers, answered the dungeon's resistance, stabilized what it could hold, and inherited routes that still required clearing after settlement.
+No legendary campaign conquered the Greathold. One generation opened a chamber, another shored its roof, and a third found monsters breeding behind the sealed wall. Settlement moved by such gains and inheritances.
 
-Delving was therefore older than the adventuring profession and more fundamental than resource extraction. It opened housing, restored transit, controlled dangerous populations, circulated dungeon matter, and renewed the bounded contest through which the surrounding system remained viable. A district ceased to be wilderness without ever ceasing to be dungeon.
+Delving predates the adventuring profession. It opened homes and roads, managed dangerous dungeon populations, and carried matter through the dungeon's cycles. A settled district still needed formal expeditions into old drains, closed galleries, and newly restless chambers.
 
-Old dwarven practices—listening before excavation, sealing exhausted galleries, leaving offerings, recording every loss, and reopening passages through formal expeditions—emerged from this relationship. Later institutions turned those obligations into property records, engineering procedures, and contract law without always remembering what the procedures were for.
+Before cutting a new face, miners listened. Exhausted galleries were sealed; the dead were entered in the route book; reopening began with an expedition and an offering. Property offices and engineering colleges inherited these customs as procedure, often after their purpose had been forgotten.
 
 ## The spine of the range
 
@@ -35,16 +35,16 @@ The resulting culture was never purely dwarven. Human companies, elven naturalis
 
 ## Industrial advantage
 
-Industrialization did not discover the Deep World. It inherited the world's best-established interface to it.
+Industrialization inherited the world's busiest road into the Deep World.
 
 The Greathold already possessed surveyed routes, load-bearing galleries, lifts, depots, workshops, guild law, expedition archives, a specialist labour force, and an international market for dungeon products. Rune power converted that mature delving infrastructure into industrial logistics with frightening ease.
 
-The first factories processed adventurer returns. The first automated lifts served deep gates. The first extraction companies grew from institutions that had once equipped bounded expeditions. Exploitation appeared to be ordinary dwarven practice made safer and more productive until its scale and directness broke the [[Dungeon Lifecycle|delving bargain]].
+The first factories processed adventurer returns, and the first automated lifts served the deep gates. Expedition outfitters became extraction companies. Their new machinery looked like safer dwarven practice until pipes and bores reached reserves no living party had contested. At that scale the [[Dungeon Lifecycle|delving bargain]] failed.
 
 ## An organ with inhabitants
 
-The Greathold is an extension of the world-dungeon and a work of dwarven civilization. Those statements are not opposites.
+The Greathold belongs to the world-dungeon and to the dwarves who made streets through it.
 
 Engineers describe captured natural infrastructure. Traditionalists describe a covenant embodied in stone. Elven critics call it scar tissue or a graft. The deeper ontology permits all three: the Greathold is a dwarven social organism nested within, shaping, and increasingly shaped by a regional dungeon organism.
 
-This makes the [[Machine-Dungeon|machine-dungeon]] question older than the machines. Industry may not be turning an ordinary city into a dungeon. It may be giving an ancient dwarf-and-mountain hybrid enough integration, memory, and feedback to recognize itself.
+The [[Machine-Dungeon|machine-dungeon]] question began before the first engine. Industry is wiring memory and sensation through an old dwarf-and-mountain hybrid. Somewhere between a lift answering demand and a district defending its own power, the Greathold may begin to notice what it is.

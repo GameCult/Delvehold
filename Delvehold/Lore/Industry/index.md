@@ -17,4 +17,4 @@ It becomes dangerous after success makes crystal energy, automated infrastructur
 - [[Deep Mining]]
 - [[Machine-Dungeon]]
 
-The industrial crisis is not a fable in which greed invents a machine nobody needs. Spell engines warm homes, prevent famine, drain dangerous mines, and make magic materially available to millions. Every ethical remedy must survive contact with those dependencies.
+Spell engines warm homes, prevent famine, drain dangerous mines, and put magic within reach of millions. Any remedy that ignores those uses will fail at the first cold district.

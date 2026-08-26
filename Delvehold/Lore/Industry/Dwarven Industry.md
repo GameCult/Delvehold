@@ -5,7 +5,7 @@ description: The institutions, material benefits, and political dependencies of 
 
 Dwarven civilization is unusually prepared for industrial magic. Mining, metallurgy, precision, infrastructure, recordkeeping, and rune craft already carry cultural prestige. Spell engines connect those traditions into a new economy.
 
-Its decisive advantage is [[The Greathold]]. Centuries of dungeon clearing had already produced deep routes, expedition archives, liftworks, depots, processing districts, contract law, specialist crafts, and a global market for dungeon returns. Industry does not have to find a way into the Deep World; it has only to automate the interface dwarven society already inhabits.
+Its decisive advantage is [[The Greathold]]. Centuries of dungeon clearing had left deep routes, expedition archives, liftworks, depots, processing districts, contract law, and a global market for dungeon returns. Industry found the road already open and automated the traffic.
 
 Mine carts become rune locomotives. Adventurer lifts become freight arteries. Ventilation, drainage, heating, light, and food preservation become reliable public systems. Deep access becomes continuous, the Greathold grows, and dangers once accepted as the price of life below are engineered away.
 
@@ -35,4 +35,4 @@ Traditional smiths lose status to mechanized production. Factory and mine worker
 
 Millions now rely on cheap magical power. Closing farms means shortages; limiting mines means unemployment; restricting engines threatens food and heat; abandoning deep infrastructure may make whole cities uninhabitable.
 
-The machinery becomes morally intolerable after society has made it materially indispensable. This is the industrial order's strongest defence and its most damning confession.
+By the time cognition research reaches the newspapers, district heat, mine drainage, rail, and preserved food all draw from the same machinery. Closing a core farm now reaches the nursery boiler before it reaches the consortium balance sheet.

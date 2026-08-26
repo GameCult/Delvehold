@@ -3,17 +3,16 @@ title: A world without a villain
 description: The setting's moral structure resists collapsing systemic conflict into one hidden evil.
 ---
 
-The Deep World is alive. It is not therefore innocent.
+Life below brings appetite, fear, predation, and power with it.
 
-Ancient cores may be predatory, tyrannical, expansionist, or indifferent to mortal suffering. Monster ecologies kill people who never touched an industrial tool. Elven societies can romanticize systems that routinely destroy shorter-lived neighbours. Orcish resistance can commit atrocities. Human states can dress economic strategy as ecological conscience. Goblin movements can use their fluency with dungeon systems to settle unrelated scores.
+An ancient core may cultivate villages as prey. Monster migrations kill people who have never seen an industrial tool. An elven court may praise a spirit whose seasonal hunger falls on shorter-lived neighbours. Orcish raiders, human ministries, and goblin saboteurs all find old enemies inside the new crisis.
 
-Dwarven industry suppresses evidence, destroys emerging minds, and treats a living substrate as property. It also prevents famine, heats cities, reduces dangerous labour, and breaks aristocratic monopolies on magic. The people dependent upon it are not a moral abstraction that can be removed from the equation.
+Dwarven companies suppress cognition research and prune young cores while their engines keep grain cold and city water moving. A family at the district boiler cannot be subtracted from the problem because the consortium uses them in a speech.
 
 ## The actual conflict
 
-The central opposition is not industry versus pure nature. It is one emerging form of magical life colliding with an older one while many smaller lives exist inside both.
+An emerging industrial life is colliding with an older planetary one. Smaller lives inhabit both bodies and get crushed at either scale.
 
-Each system pursues continuity at an incompatible scale. The [[World-Spirit]] can heal in centuries that contain entire mortal civilizations. A city must keep water flowing tonight. A core's “immune response” is still an attack when it crushes a neighbourhood. A mine's “energy security” is still injury when it drains a living reserve.
+The [[World-Spirit]] can heal over centuries that contain whole mortal civilizations. A city must keep water flowing tonight. A collapsing neighbourhood does not care that the core acted like an immune system; a drained reserve does not care that the mine called the wound energy security.
 
-The setting asks what happens after civilization learns that its resource base is an organism and discovers it has already reorganized millions of lives around consuming it. There is no untouched past to restore and no villain whose defeat performs the repair.
-
+Civilization discovers that its resource base is an organism after millions of lives have been rebuilt around consuming it. Killing one minister, core, monarch, or company director will leave the pumps running and the wound open.

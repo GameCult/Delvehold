@@ -1,15 +1,15 @@
 ---
 title: The machine-dungeon
-description: The possibility that industrial cities are becoming artificial dungeon cores.
+description: How industrial integration may awaken a new city-scale mind within the Greathold's ancient dwarf-and-dungeon hybrid.
 ---
 
-The Greathold was never ontologically separate from the dungeon around it. Dwarven habitation grew by clearing and maintaining chambers along the living spine of a mountain range. The industrial question is not whether an ordinary city can be made dungeon-like, but what new mind may emerge when that ancient hybrid is given machinery capable of integration.
+Dwarven habitation grew by clearing and maintaining chambers along the living spine of a mountain range. Now industry is binding that old dwarf-and-dungeon hybrid together tightly enough for a new mind to emerge.
 
-The late industrial Greathold gathers mana, transforms environments, generates specialized servants, defends territory, expands infrastructure, and optimizes resource flows. Its power grid connects thousands of [[Runic Engineering|spell engines]]; its logistics networks sense demand and redirect activity; its archives preserve operational memory.
+The late industrial Greathold gathers mana and transforms its surroundings. Thousands of [[Runic Engineering|spell engines]] share a power grid. Freight offices sense demand and redirect trains; archives remember failures long after the engineers who wrote them have died.
 
 At some threshold, the dwarven pattern inside the regional dungeon may satisfy the conditions for its own awakening—or become the means through which the older system wakes.
 
-Its factories are organs. Its rails and conduits circulate matter. Its power grid is a nervous system. Its workers and citizens are not mindless creatures, but neither are goblins or fungi inside a natural dungeon. Nested identity permits a city-mind to emerge without erasing the people who constitute it.
+Factories digest ore. Rails and conduits circulate it. Power faults leap district boundaries like pain. The workers remain people, just as goblins remain people inside a natural dungeon; a larger mind need not erase the lives moving through it.
 
 ## Early anomalies
 
@@ -21,10 +21,10 @@ Possible signs include:
 - factories altering schedules to preserve connected facilities;
 - maintenance crews receiving useful instructions from no recognized author.
 
-Each anomaly also has ordinary explanations: undocumented technician work, coupled feedback, emergent optimization, fraud, or wishful thinking. Awakening has no ceremonial moment guaranteed to satisfy an auditor.
+An undocumented technician, coupled feedback, fraud, or wishful thinking can explain any one case. There will be no ceremonial awakening arranged for an auditor's convenience.
 
 ## The terrible symmetry
 
-Industrial civilization may be exploiting emerging magical minds while awakening the inhabited system that made that exploitation possible. The deeper conflict is therefore not machine against nature. It is one form of magical life differentiating itself inside an older one.
+While the core farms prune young minds, the Greathold's engines may be teaching their host to wake. The same industrial order performs both acts.
 
-From the [[World-Spirit|world's]] perspective, dwarven civilization may resemble invasive growth. From the dwarves' perspective, the Deep World resembles a hostile environment trying to kill its inhabitants. Both descriptions can be accurate without either becoming a complete moral verdict.
+The [[World-Spirit|world]] may feel dwarven civilization as invasive growth. Dwarven families feel cave-ins, monster attacks, and winter cold. No verdict arrives to reconcile those scales before the next engine draws power.

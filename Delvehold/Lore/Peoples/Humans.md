@@ -5,7 +5,7 @@ description: Fragmented states caught between magical dependence, threatened ins
 
 Human societies include kingdoms, republics, city-states, merchant leagues, principalities, and empires. Their fragmentation makes a single “human position” impossible.
 
-Human cities are eager customers for dwarven pumps, lights, rails, weapons, and power systems. Their rulers want industrial capacity without political dependence. Merchants favour open trade. Mage guilds and temple institutions see their authority and livelihoods displaced by standardized spell engines.
+Human cities buy dwarven pumps, lights, rails, weapons, and power systems. A ruler subsidizes the new rail while worrying about its imported crystals; merchants lobby to keep that trade open. Across the street, a mage guild closes an apprentice hall after losing another municipal contract to standardized engines.
 
 ## The battleground of interpretation
 
@@ -16,4 +16,3 @@ Some states restrict core products, deep-mined crystals, dungeon tissues, and dw
 ## Intervention
 
 Human armies eventually target factories and mana depots as part of international containment efforts. To coalition planners these are pressure points in an escalating ecological emergency. To dwarven civilians they are infrastructure keeping cities alive. The distinction survives in communiqués more easily than under bombardment.
-

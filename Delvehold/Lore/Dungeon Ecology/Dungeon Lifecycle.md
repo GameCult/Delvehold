@@ -21,17 +21,16 @@ Successful delvers remove crystals, monster products, artefacts, and dangerous p
 
 ## Bounded contest
 
-The lifecycle depends upon intrusion being legible as a contest through the dungeon's own structures. Delvers enter, trigger responses, make choices under resistance, and either withdraw or are absorbed. The core can meter risk, escalate, redirect, conceal, and learn.
+The core encounters a traditional delve through its own chambers. Intruders cross a threshold, trigger defences, choose under pressure, and withdraw or are absorbed. The core can raise the danger, divert them, hide a reserve, and remember what worked.
 
-Direct industrial access bypasses those faculties. A bore driven into a reserve, a pipe draining a mana organ, or a containment rig preventing ecological response does not read as an unusually effective delve. It reads as tissue damage.
+A bore punches into the reserve without crossing a chamber. A pipe drains mana beyond the reach of the core's defenders. A containment rig pins every response in place. The dungeon experiences no contest through which it can answer, only damage.
 
 ## Industrial delving
 
-DELVE/HOLD industry therefore has an unusual constraint: machinery may assist, equip, transport, measure, and process, but extraction must remain recognizable to core instinct as traditional delving. A contract sends living agents through contested space. The promised resource is taken only after the dungeon has been allowed to answer.
+DELVE/HOLD machinery can equip, transport, measure, and process. The taking itself still sends living agents through contested space, where the dungeon can hide the resource, raise a defence, or make the price too high.
 
-This is not ritual theatre. A sham encounter wrapped around direct drainage will eventually be recognized as a sham by any core capable of adaptation. The interface must preserve real uncertainty, resistance, and the possibility of refusal or retreat.
+A staged skirmish wrapped around a drainage pipe fools only a young core, and only briefly. The party must face real resistance and retain the power to refuse or retreat.
 
 ## Failure modes
 
 A dungeon deprived of delving may stagnate, bloom unpredictably, provoke encounters, or force material outward until something answers. A dungeon subjected to unbounded extraction develops [[Ecological Responses|immune responses]]. At depth, both failures can propagate into [[Nested Dungeons|larger systems]].
-

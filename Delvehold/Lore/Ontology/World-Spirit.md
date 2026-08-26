@@ -5,9 +5,9 @@ description: The planetary dungeon and the many religious names given to its dis
 
 The planet is the oldest and deepest dungeon.
 
-Its core is not a jewel waiting at the geometric centre. The geological core is only the densest manifestation of a mind distributed through mana currents, tectonic boundaries, crystal strata, oceans, volcanic systems, ancient dungeon networks, and the living ecologies between them.
+No jewel waits at the geometric centre. The geological core is the densest part of a mind carried through mana currents, fault lines, crystal strata, oceans, volcanoes, ancient dungeon networks, and the life between them.
 
-Different traditions call aspects of it the Earth Mother, Deep Father, Sleeping Queen, World Serpent, Foundation, First Mountain, or Buried God. These names are not simple synonyms. Each tradition has encountered a different behaviour, timescale, and relationship, then built a person-shaped theology around the contact.
+Different traditions call aspects of it the Earth Mother, Deep Father, Sleeping Queen, World Serpent, Foundation, First Mountain, or Buried God. The Earth Mother is known through soil and season; the Foundation through stone that bears weight; the Sleeping Queen through dreams separated by generations. Each theology gives a face to the contact it inherited.
 
 ## Timescales
 
@@ -20,4 +20,3 @@ No culture possesses definitive public proof that these events belong to one cog
 The current crisis may be local injury propagating through [[Nested Dungeons|nested systems]]. It may also be the beginning of planetary recognition: the moment an ancient organism notices a new, machine-shaped pattern growing through its upper layers.
 
 Whether that recognition becomes communication, immune rejection, or mutual accommodation is the setting's deepest open question.
-
