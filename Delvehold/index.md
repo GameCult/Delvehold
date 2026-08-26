@@ -11,7 +11,7 @@ description: One persistent world, experienced from opposite sides of the contra
   <section class="delvehold-mode-panel delvehold-mode-panel-delve">
     <p class="delvehold-mode-label">DELVE</p>
     <h1>Enter a world that needs you to trespass.</h1>
-    <p>DELVE is a PvE extraction RPG set inside living dungeons. Take contracts, enter with friends, survive ecologies that learn from intrusion, and decide how much promised material is worth risking the return journey for.</p>
+    <p>DELVE is a cooperative PvE extraction RPG set inside living dungeons. Take contracts, enter with friends, survive ecologies that learn from intrusion, and decide how much promised material is worth risking the return journey for.</p>
     <p>Dungeons need to be delved. The danger is not an obstacle around the resource; it is part of the old metabolic bargain that lets a core spend, learn, shed, and renew itself.</p>
   </section>
 
