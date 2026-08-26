@@ -1,6 +1,8 @@
 ---
 title: World graph
 description: Private workshop shards joined by scarce, social infrastructure.
+aliases:
+  - /Game-Design/World-Graph
 ---
 
 Every factory player owns a private workshop shard somewhere within the distributed civic body of [[The Greathold]]. The shard is both a production space and the seat of the [[Mastership and Citizenship|workshop franchise]]. Shards are arranged as nodes in a persistent neighbourhood graph rather than literal adjacent rooms in one Euclidean factory.
@@ -17,4 +19,4 @@ The graph projects the Greathold's functional geography: ancient galleries, lift
 
 Workshop space is scarce. Players specialize, trade, and share infrastructure because no shard can efficiently contain every production chain. Arbitrary neighbourhood placement creates local cultures without flattening the world into one global auction house.
 
-The graph also routes [[Civic Play|civic jurisdiction]]. A decision begins among the workshops, residents, infrastructure, and delving populations connected to its consequences. Larger mandates are assembled through those relationships rather than projected from a separate national map.
+The graph also routes [[Game Design/HOLD/Civic Play|civic jurisdiction]]. A decision begins among the workshops, residents, infrastructure, and delving populations connected to its consequences. Larger mandates are assembled through those relationships rather than projected from a separate national map.

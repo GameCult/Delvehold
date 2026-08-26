@@ -1,11 +1,13 @@
 ---
 title: Extraction play
 description: Contracted expeditions where the quota, the party, and the dungeon all exert pressure.
+aliases:
+  - /Game-Design/Extraction-Play
 ---
 
 DELVE is an extraction RPG because every expedition is organized around a return decision.
 
-A workshop or world institution publishes a [[Contract Economy|contract]] with a target, offered equipment, promised compensation, and desired return. A DELVE party enters a procedurally generated dungeon carrying that intent into an ecology that can answer it.
+A workshop or world institution publishes an [[Game Design/Shared World/Economy and Contracts|economic contract]] with a target, offered equipment, promised compensation, and desired return. A DELVE party enters a procedurally generated dungeon carrying that intent into an ecology that can answer it.
 
 DELVE is cooperative PvE. Hostile delver PvP is not its default source of uncertainty. The living dungeon owns that pressure through changing routes, remembered tactics, ecological responses, deceptive opportunities, and the accumulating consequences of intrusion.
 

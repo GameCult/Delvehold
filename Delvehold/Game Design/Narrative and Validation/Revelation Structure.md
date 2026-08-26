@@ -1,6 +1,8 @@
 ---
 title: Revelation structure
 description: The order in which players learn that dungeons, industry, and civilization belong to one ontology.
+aliases:
+  - /Game-Design/Revelation-Structure
 ---
 
 The setting's ontology should be learned through consequences before it is explained as doctrine.
@@ -25,4 +27,3 @@ DELVE players encounter the truth bodily: altered routes, targeted creatures, re
 HOLD players encounter it through production: unstable supply, anomalous engine behaviour, contracts that carry ecological provenance, political tooltips, and automation systems beginning to preserve their own continuity.
 
 Neither projection should receive an omniscient lore dump. Different evidence becomes social currency between players. The reference wiki records the setting model for development; the game reveals only what its characters and interfaces can honestly know.
-

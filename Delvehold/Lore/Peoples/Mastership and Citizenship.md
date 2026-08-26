@@ -36,7 +36,7 @@ The Greathold is governed locally first. Workshop moots, residential hearths, cr
 
 Political life is consequently uneven. Many Masters attend only when a proposal reaches their workshop or convictions. Others spend much of their lives in committees, publishing arguments and gathering seals. The culture expects participation to remain available, not compulsory or constant.
 
-See [[Civic Play]] for the player-facing form of this political structure.
+See [[Game Design/HOLD/Civic Play|Civic play]] for the player-facing form of this political structure.
 
 ## Fault lines
 

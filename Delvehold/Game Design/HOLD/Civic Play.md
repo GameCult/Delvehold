@@ -1,6 +1,8 @@
 ---
 title: Civic play
 description: Local-first workshop democracy and the political consequences visible through HOLD.
+aliases:
+  - /Game-Design/Civic-Play
 ---
 
 HOLD places workshop managers directly inside the Greathold's political life. The foreground fantasy is civic stewardship, not market speculation: understand an issue, argue with neighbours, commit the workshop's seal and capacity, and live with the resulting common action.
@@ -11,7 +13,7 @@ The franchise follows [[Mastership and Citizenship|dwarven Mastership]]. Each in
 
 An issue begins with the smallest body that contains its material consequences. A shared mana well belongs first to its connected workshops. A lift belongs to its passengers, maintainers, and dependent districts. A deep gate implicates its neighbouring holds, delver associations, ecological stewards, and supply network.
 
-Workshop shards already form a persistent [[World Graph|neighbourhood graph]]. Civic jurisdiction is projected from the same typed relationships rather than from a separate political map.
+Workshop shards already form a persistent [[Game Design/Shared World/World Graph|neighbourhood graph]]. Civic jurisdiction is projected from the same typed relationships rather than from a separate political map.
 
 A proposal can move outward when its consequences do:
 
@@ -71,6 +73,6 @@ Early public motions are authored by the world simulation so that they remain co
 
 A common commitment acts through institutions and material cooperation. A mining moratorium changes gate access, lift schedules, listed contracts, public provisioning, and workshop participation. It is not an invisible global flag repaired after the fact.
 
-A defence mobilization authorizes public bodies to issue procurement, redirects shared infrastructure, and creates [[Contract Economy|institutional contracts]]. No individual workshop authors military strategy. Workshops decide how they respond to the collectively formed mandate; foreign states and their militaries remain independent non-player actors.
+A defence mobilization authorizes public bodies to issue procurement, redirects shared infrastructure, and creates [[Game Design/Shared World/Economy and Contracts|institutional contracts]]. No individual workshop authors military strategy. Workshops decide how they respond to the collectively formed mandate; foreign states and their militaries remain independent non-player actors.
 
-The result returns through [[World Signals|news, prices, orders, contracts, and expedition conditions]]. Politics changes the world through the same verbs by which players already inhabit it.
+The result returns through [[Game Design/Shared World/World Signals|news, prices, orders, contracts, and expedition conditions]]. Politics changes the world through the same verbs by which players already inhabit it.

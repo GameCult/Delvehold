@@ -1,28 +1,42 @@
 ---
 title: Authority map
-description: The owners and projections of the first persistent-world slice.
+description: Canonical owners and projections across the Greathold and external world.
 ---
 
-## World authority
+## Delvehold authority
 
-A world organ owns persistent workshops, graph edges, dungeon lifecycle pressure, contracts, expeditions, resources, and consequences. It accepts typed intents and emits typed receipts plus updated documents through CultMesh.
+The Delvehold world organ owns the Greathold and its quantitative economy: players, workshops, parties, civic seals, graph edges, dungeon lifecycle pressure, commodities, resource lots, custody, recipes, facilities, capacity, inventories, orders, prices, contracts, expeditions, and local consequences. It accepts typed intents and emits typed receipts plus updated documents through CultMesh.
+
+## Ghostlight authority
+
+One persistent Ghostlight `WorldKernel` owns the world outside the Greathold: foreign regions, routes, actors, institutions, population Gestalts, relationships, knowledge, goals, posture, pressures, strategic decisions, events, and news. Its current coarse resource handles support strategic narrative agency; they do not replace HOLD's quantities, production, market, or conservation model.
+
+DELVE/HOLD supplies Ghostlight an authored ontology and fixed seed. This bypasses generative world compilation, not WorldKernel validation or its atomic commit path.
+
+## Boundary authority
+
+CultMesh carries two directions of typed exchange. Delvehold publishes a derived `greathold` institution containing only committed externally visible state and realized effects. Ghostlight publishes external decisions and proposed Greathold consequences. The recipient validates every item in its own domain and returns an idempotent receipt.
+
+`greathold` is no longer an owner; it is derived from Delvehold state. It receives no Ghostlight Persona or strategic turn. The bridge is no longer an owner; it transports documents and receipts. Neither side can mutate the other's canonical domain or use reconciliation to disguise a rejected effect.
 
 ## Client projections
 
 The Unity client projects an expedition. It may predict movement and presentation, but it does not own shared economic or dungeon-lifecycle truth.
 
-The browser client projects the workshop and relevant neighborhood subgraph through Eve/CultUI. It does not own the world simply because its incremental simulation can continue while a player is absent.
+The browser client projects the workshop and relevant neighborhood subgraph through Eve/CultUI. It does not own the world simply because bounded work can continue while a player is absent.
 
 ## Contract handoff
 
 A delving contract is the first shared object joining both experiences. Its canonical state includes issuer, objective, offered equipment, reward allocation, target region, accepted expedition, lifecycle status, and outcome references.
 
-Workshop players own the intent to publish or amend their own workshop contracts. The world organ owns institutional contract emission from persistent civic, guild, commercial, foreign, and military state. Institutional contracts must carry their actual simulated provenance and cannot impersonate player authorship.
+Workshop players own the intent to publish or amend their own workshop contracts. The Delvehold world organ owns institutional contract emission from Greathold civic, guild, commercial, and military state. Foreign Ghostlight actors may issue offers or demands across the boundary, but a Greathold contract exists only after Delvehold admits the intent. Institutional contracts must carry their actual simulated provenance and cannot impersonate player authorship.
 
 Factory and delver interfaces expose different projections of that state. Incomplete knowledge belongs in the projection; canonical state must not be falsified to manufacture mystery.
 
 ## Civic handoff
 
-Each franchised workshop owns its seal and the intents it submits: vote, petition, amendment, capacity pledge, refusal, or withdrawal. The world organ owns the resulting assembly state, jurisdiction derived from the world graph, ratified common commitments, and institutional consequences.
+Each franchised workshop owns its seal and the intents it submits: vote, petition, amendment, capacity pledge, refusal, or withdrawal. The Delvehold world organ owns the resulting assembly state, jurisdiction derived from the world graph, ratified common commitments, and institutional consequences.
 
 A ballot cannot directly mutate a mine, contract market, or military order. The ratified mandate is the input through which the responsible institutions act, and those actions update the same typed world state seen by both clients.
+
+See [[Simulation Architecture]] and [[Ghostlight Boundary]] for the complete exchange contract.

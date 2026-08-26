@@ -1,15 +1,27 @@
 ---
-title: Contract economy
-description: Player-authored and institutional delving work in one persistent contract market.
+title: Economy and contracts
+description: Material transformation, trade, and delving work in one persistent economy.
+aliases:
+  - /Game-Design/Contract-Economy
 ---
 
+The economy records material transformation rather than an abstract score. Commodities and unique objects have custody and provenance; facilities expose bounded capacity; recipes transform admitted inputs into outputs; inventories, orders, and fulfilled trades record what actually moved. Prices summarize pressure in a market and never become the owner of goods or production.
+
+HOLD foregrounds making, maintaining, sharing, and committing capacity. Market reading is useful but optional. There is no required speculation game, universal auction house, or periodic wipe used to erase accumulated mistakes.
+
 A delving contract is a shared world object joining an issuer's material intent to a DELVE party's expedition. Player-facing does not mean player-authored: the contract market expresses both workshop activity and the part of the economy no player controls.
+
+## Economic state
+
+The canonical economy contains commodity definitions, identified resource lots, recipes, facilities, capacity reservations, inventories, custody, orders, realized trades, and price observations. A resource lot retains origin, transformations, owners, and expedition provenance when those facts affect use, trust, legality, or ecological consequence.
+
+Planned production and offered orders remain owned intents. Only completed transformations, accepted commitments, transfers, and failures become realized economic effects. This distinction is also the membrane through which aggregate Greathold activity reaches the [[Ghostlight Boundary|external world]].
 
 ## Contract authorities
 
 **Workshop contracts** are authored by HOLD players. Their targets, supplied equipment, compensation, acceptable substitutions, and desired returns express a particular workshop's needs and judgement.
 
-**Institutional contracts** are emitted by the world simulation on behalf of civic works, guilds, colleges, temples, insurers, foreign buyers, governments, and militaries. They reflect persistent institutional state and public mandates rather than filling empty matchmaking slots.
+**Institutional contracts** originating inside the Greathold are created by Delvehold on behalf of civic works, guilds, colleges, temples, insurers, commercial bodies, or public defence institutions. Foreign buyers, governments, and militaries remain Ghostlight actors: Ghostlight emits their demand, offer, or decision as an external response, and Delvehold creates a Greathold contract only after admitting that intent. Contracts reflect persistent institutional state and public mandates rather than filling empty matchmaking slots.
 
 Both kinds enter the same legible market with explicit provenance. The interface must never disguise a simulated institution as a human workshop or imply that a player controls an institutional objective.
 

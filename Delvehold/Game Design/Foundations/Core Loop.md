@@ -1,6 +1,8 @@
 ---
 title: Core loop
 description: The smallest exchange that proves DELVE and HOLD inhabit one world.
+aliases:
+  - /Game-Design/Core-Loop
 ---
 
 The first playable world contains one workshop, one dungeon core, one contract type, one expedition party, one extracted material, and one persistent expedition history.
