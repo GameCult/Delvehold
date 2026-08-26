@@ -277,7 +277,7 @@ export const sourceInventory: SourceSurface[] = [
 
 export const controlFlowMap = {
   schema: "delvehold.control_flow_map.v0" as const,
-  nornRevision: "14852a5ee160060e0c76872c7542af233bef7dc7" as const,
+  nornRevision: "fa4a46bb13333eb703e97ccea9edc1b70ee109b7" as const,
   cultLibRevision: "334e60f1928b4212a29dd8b0d19b2c099fe6365e" as const,
   architecture: { nodes: architectureNodes, edges: architectureEdges },
   dataflow: { nodes: dataflowNodes, edges: dataflowEdges },
