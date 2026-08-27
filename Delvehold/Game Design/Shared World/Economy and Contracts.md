@@ -27,6 +27,8 @@ Institutions also provide each Hold's baseline supply and demand. Population nee
 
 Both kinds enter the same legible market with explicit provenance. The interface must never disguise a simulated institution as a human workshop or imply that a player controls an institutional objective.
 
+Contract equipment becomes selectable in the ordinary gear and storage interface only while custody and loan terms permit. Accepting a contract never equips an item or writes a saved loadout. Saving or restoring a loadout cannot purchase, craft, borrow, insure, substitute, reserve, repair, or refit anything.
+
 ## Military procurement
 
 Military demand is not authored by workshop players. Mobilization can create standardized equipment orders, strategic extraction targets, guarded routes, secrecy, hazard pay, requisitions, and unusually severe failure terms. Its scale consumes workshop capacity and redistributes civilian demand even where no player accepts a military contract.

@@ -9,7 +9,7 @@ Every material decision crosses the mode boundary through owned state. DELVE fee
 
 ## Preparation is play
 
-Choosing a contract, kit, route, process, safeguard, or civic commitment should express judgement. Repeating solved menu labor should be automated or removed.
+Choosing a contract, equipped gear, carried inventory, route, process, safeguard, or civic commitment should express judgement. Repeating solved menu labor should be automated or removed.
 
 ## Consequence without erasure
 

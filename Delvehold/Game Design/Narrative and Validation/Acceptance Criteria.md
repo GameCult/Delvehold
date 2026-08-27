@@ -38,6 +38,16 @@ The design is proven by visible paths, not by the existence of schemas.
 - Reactivating the workshop in another Hold leaves no old local pressure or dual civic attachment, replays no dormant production, and moves committed material only through explicit custody receipts.
 - Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
 
+## Equipment and preparation
+
+- Each player has exactly five saved loadout slots; saving overwrites only the selected slot and creates no item movement, reservation, purchase, or service.
+- Equipped slots and carried inventory enforce their visible constraints, while private Hold gear storage has no player-facing capacity limit.
+- Restore fills only currently accessible saved gear and exposes every unavailable entry with actions to clear, source, replace, repair, or refit it. It never performs those actions silently.
+- Unique and provenance-sensitive gear resolves by identity; ordinary consumables may resolve by kind and quantity. Damaged owned gear remains visible as present and repairable rather than disappearing as missing.
+- Contract-offered gear is selectable only while custody terms permit and is never auto-equipped or written into a saved slot.
+- Departure atomically validates the visible equipped and carried state and records exactly that state without another confirmation screen.
+- Saved loadouts and private gear storage survive dormancy and Hold reattachment without creating live pressure or moving lost, escrowed, dispatched, installed, institution-held, or returned-loan items.
+
 ## Procedural dungeon proof
 
 - Identical canonical input, CultMath seed, and generator version reproduce the same dungeon projection after host restart.

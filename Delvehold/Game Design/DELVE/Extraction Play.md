@@ -40,9 +40,9 @@ The two modes meet in this argument over what the expedition was for.
 
 ## Preparation without clerical labour
 
-Inventory choices inside the dungeon are tactical pressure. Reconstructing the same kit through menus between expeditions is not.
+Inventory choices inside the dungeon are tactical pressure. Reconstructing the same equipment by hand between expeditions is not.
 
-Workshop managers can prepare named contract kits, substitutions, repair rules, and replenishment. Delvers should be able to accept a viable loadout and return to play quickly. Public and institutional provisioning supplies a baseline expedition path when no workshop player is available; player-made equipment creates specialization rather than permission to play.
+Delvers manage equipped gear, limited carried inventory, unlimited private Hold storage, and five saved loadouts. Restore fills what remains available and exposes every missing, damaged, inaccessible, or over-capacity entry for player resolution. Workshops and institutions supply equipment and explicit repair or refit services through ordinary custody and contract terms. Public provisioning keeps a baseline expedition path available when no workshop player is online; player-made equipment creates specialization rather than permission to play.
 
 ## Progression and time
 

@@ -38,6 +38,8 @@ does not synchronize two clients or transfer authority.
 
 A delving contract is the first shared object joining both experiences. Its canonical state includes issuer, objective, offered equipment, reward allocation, target region, accepted expedition, lifecycle status, and outcome references.
 
+Delvers own the visible choice of equipped gear and carried inventory. Workshops and institutions own the equipment and services they offer under explicit custody and contract terms. On departure, the world host validates the visible state and records that choice automatically as expedition evidence.
+
 Workshop players own the intent to publish or amend their own workshop contracts. The Delvehold world organ owns institutional contract emission from Greathold civic, guild, commercial, and military state. Foreign Ghostlight actors may issue offers or demands across the boundary, but a Greathold contract exists only after Delvehold admits the intent. Institutional contracts must carry their actual simulated provenance and cannot impersonate player authorship.
 
 Factory and delver interfaces expose different projections of that state. Incomplete knowledge belongs in the projection; canonical state must not be falsified to manufacture mystery.

@@ -3,7 +3,7 @@ title: Expeditions and encounters
 description: Party decisions, opposition, objectives, and encounter structure below the gate.
 ---
 
-An expedition is a persistent world object joining one accepted contract, one party, one prepared loadout, one route into a dungeon region, and one accumulating history. The run is structured around repeated decisions to continue, divert, rescue, recover, or return.
+An expedition is a persistent world object joining one accepted contract, one party, one route into a dungeon region, one accumulating history, and the equipment state captured automatically when the party departs. The run is structured around repeated decisions to continue, divert, rescue, recover, or return.
 
 ## Party play
 
@@ -17,4 +17,4 @@ Exact action timing, damage mathematics, and control schemes remain prototype de
 
 ## Expedition record
 
-The canonical record retains participants, contract, kit, route, encountered regions, significant actions, observations, resources taken or lost, injuries, rescues, retreat point, and outcome receipts. Presentation may summarize this history but cannot replace it.
+The canonical record retains participants, contract, route, the exact equipped and carried items at departure, their condition, modifications, custody and provenance, subsequent item changes, encountered regions, significant actions, observations, resources taken or lost, injuries, rescues, retreat point, and outcome receipts. This evidence remains inspectable for history and diagnosis but is not another preparation screen.

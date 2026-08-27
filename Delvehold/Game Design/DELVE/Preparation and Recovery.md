@@ -3,12 +3,20 @@ title: Preparation and recovery
 description: Expressive loadouts, rapid re-entry, repair, treatment, rescue, and salvage.
 ---
 
-Preparation translates workshop craft and contract intent into expedition affordances. Parties choose among supplied equipment, personal gear, substitutions, consumables, carrying capacity, rescue tools, and route-specific safeguards.
+Preparation uses the ordinary equipment interface. Each delver manages equipped gear slots, a limited carried inventory, and unlimited private gear storage in the current Hold. Workshop-made, institution-provided, personal, and contract-loaned items appear in those same places when custody permits.
 
-Workshop managers can publish named kits, substitution rules, repair policies, and replenishment commitments. Delvers can inspect provenance and tradeoffs, adjust what matters, and accept a viable baseline quickly. Institutional provisioning guarantees an ordinary path to play; player manufacture provides specialization, history, and relationships rather than permission to enter the game.
+Each player has exactly five saved loadout slots. Saving records desired equipped items and carried entries without moving or reserving anything. Restoring returns current gear to Hold storage, equips and packs every available saved item that still fits, and leaves unresolved entries visibly missing. Unique, modified, loaned, and provenance-sensitive gear resolves by identity; ordinary consumables may resolve by kind and quantity.
+
+A missing entry offers actions to clear it, select an available replacement, locate or source the item, or request repair or refit. Damaged owned gear remains visible as present but unusable or impaired. Restore never buys, crafts, borrows, substitutes, repairs, refits, insures, or reserves gear without another explicit player action.
+
+Departure is the authority boundary. The world host atomically validates the visible slots, carried capacity, custody, contract requirements, and party readiness. It then records the exact equipped and carried objects, condition, modifications, custody, provenance, and contract loans as expedition evidence. That receipt remains an inspectable consequence of departure.
+
+## Repair and refit
+
+Repair and refit are player-directed item actions. A delver may perform work they know or request a workshop or institution service. The service provider owns its available methods, price, time, materials, and workmanship; the delver chooses whether to restore, alter, replace, dismantle, or carry the item as it is. Each completed transformation updates the same item and its history through a receipt.
 
 ## Recovery
 
 Returning begins another loop rather than closing a results screen. People require treatment, rest, testimony, payment, or memorial. Equipment may be repaired, dismantled, studied, claimed by an insurer, or left below. Extracted matter is identified, apportioned, processed, quarantined, disputed, or redirected by urgent need.
 
-Rescue and salvage are first-class contracts. They preserve consequence while creating reasons to revisit changed spaces. Repeating a solved loadout reconstruction is clerical labor and should be automated.
+Rescue and salvage are first-class contracts. They preserve consequence while creating reasons to revisit changed spaces. Five-slot save and restore removes repeated reconstruction without automating sourcing, repair, refit, substitution, or risk judgement.

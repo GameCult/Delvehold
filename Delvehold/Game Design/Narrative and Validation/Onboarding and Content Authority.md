@@ -9,7 +9,7 @@ Onboarding introduces one world through a particular practice. A new player choo
 
 1. Establish the Greathold as a lived place and show one immediate, local need.
 2. Let the player perform the chosen role's physical verb: prepare and enter an expedition, or work and commit a workshop process.
-3. Show the other role as a visible dependency through a kit, material, contract, report, or returning consequence.
+3. Show the other role as a visible dependency through offered gear, repair or refit service, material, contract, report, or returning consequence.
 4. Reveal persistence by letting the first action alter a later state rather than resetting after the tutorial.
 5. Introduce civic and external-world pressure only after the player can identify who owns the local decision.
 

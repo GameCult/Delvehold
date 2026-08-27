@@ -12,8 +12,8 @@ The first playable world contains one Vault and its Hold, one active workshop, o
 The player begins with one mage doing useful work manually:
 
 1. scry a viable dungeon entrance;
-2. prepare supplies;
-3. equip and publish a delving contract;
+2. prepare and offer supplies;
+3. publish a delving contract;
 4. process returned material;
 5. encode a repeated manual action into a rune;
 6. compose runes into spell-engine automation.
@@ -22,7 +22,7 @@ Automation solves real inconveniences. It changes the mage from practitioner to 
 
 ## DELVE
 
-Delvers accept a funded contract, enter a generated dungeon, encounter its current ecological response, and decide how much promised extraction is worth attempting. Their success, retreat, discoveries, injuries, and losses become persistent world events.
+Delvers accept a funded contract, choose equipped gear and carried inventory, enter a generated dungeon, encounter its current ecological response, and decide how much promised extraction is worth attempting. Their success, retreat, discoveries, injuries, and losses become persistent world events.
 
 ## The return stroke
 

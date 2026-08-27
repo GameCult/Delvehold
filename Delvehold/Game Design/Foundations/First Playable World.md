@@ -10,11 +10,11 @@ The slice is complete only when:
 1. a mage performs a useful action manually;
 2. the workshop turns that practice into a repeatable rune and a bounded automation;
 3. a material need produces a provenance-bearing contract;
-4. a DELVE party accepts a viable prepared kit and enters the current dungeon state;
+4. a DELVE player equips gear, manages limited carried inventory, optionally restores one of five saved loadouts, resolves or accepts visible gaps, and departs into the current dungeon state;
 5. the dungeon responds to the actual methods used;
 6. the party returns with material, evidence, injury, loss, or some combination;
 7. the outcome changes workshop decisions and the next expedition;
-8. the history remains after the game client reconnects and the world host restarts.
+8. the recorded departure equipment matches the visible slots and carried inventory, and the history remains after the game client reconnects and the world host restarts;
 9. the workshop can pass through 36-hour dormancy and reactivate in the same or another Hold without losing identity, relationships, or receipted history.
 
 One institutional contract keeps DELVE playable without a workshop manager online. One public need keeps HOLD meaningful without requiring a delver to accept a personal order immediately. The slice does not need a broad item catalogue, global war, or complete combat metagame. It needs one honest return stroke.
