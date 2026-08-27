@@ -245,22 +245,16 @@ body[data-slug="index"] {
 
 .delvehold-intro {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
   min-height: 72vh;
   padding: 5rem 0;
 
   p {
     max-width: 48rem;
-    margin: 0;
     color: #fff;
     font-size: clamp(1.15rem, 2vw, 1.5rem);
     line-height: 1.55;
-  }
-
-  .delvehold-intro-break {
-    display: block;
-    content: "";
-    margin-top: 1rem;
   }
 }
 
