@@ -8,6 +8,7 @@
 
 body {
   background: #050505;
+  font-weight: 300;
 }
 
 .page > #quartz-body .page-header {
@@ -254,6 +255,12 @@ body[data-slug="index"] {
     color: #fff;
     font-size: clamp(1.15rem, 2vw, 1.5rem);
     line-height: 1.55;
+  }
+
+  .delvehold-intro-break {
+    display: block;
+    content: "";
+    margin-top: 1rem;
   }
 }
 
