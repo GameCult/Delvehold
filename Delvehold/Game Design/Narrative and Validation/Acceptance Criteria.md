@@ -9,7 +9,7 @@ The design is proven by visible paths, not by the existence of schemas.
 
 - A workshop decision changes a later expedition through canonical state.
 - An expedition outcome changes workshop, contract, civic, or dungeon decisions after reload.
-- Either mode remains playable when the other population is absent.
+- The seeded world gives either mode a viable entry path while the other player population is absent; later local policy or material failure may remove goods, services, or contracts without erasing recovery, civic action, or exit.
 - Failure returns material consequence and future play rather than an empty reset.
 
 ## World authority
@@ -39,6 +39,16 @@ The design is proven by visible paths, not by the existence of schemas.
 - A workshop may change its civic home or establish another site without gaining another seal; host-Hold policy governs every site regardless of the workshop's civic home.
 - A site cannot close while silently owning facilities, inventory, reservations, staff commitments, accepted orders, or contracts; every item settles or receives an explicit terminal receipt.
 - Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
+
+## Institutional policy and economic failure
+
+- A seeded Hold's founding distribution policy produces ordinary procurement, reserves, services, and at least one expedition contract from real institutional assets.
+- Every institutional plan and result names its institution, governing policy version, relevant budget and material inputs, admitted actions, and shortfalls.
+- Lawfully cutting a budget, liquidating reserves, prohibiting a necessary import, redirecting infrastructure, or imposing unsatisfiable rationing can reduce or end local supply, services, demand, and contract volume.
+- An impossible service guarantee produces an attributable shortfall, cancellation, default, rationing decision, or insolvency event; no baseline generator injects replacement goods, money, capacity, or contracts.
+- Administered prices and access terms remain distinct from observed scarcity and realized trade.
+- Recovery requires an owned act such as production, funding, aid, reserve release, restructuring, policy change, or receipted freight. It never occurs because a forecast, interface, or reconciliation loop prefers the previous equilibrium.
+- Economic failure preserves truthful records, custody, contracts, civic inspection and participation, communication, and meaningful exit. It does not preserve local comfort or normal expedition availability.
 
 ## Equipment and preparation
 

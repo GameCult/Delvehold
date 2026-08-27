@@ -19,6 +19,16 @@ The same disturbance reaches DELVE as altered contract volume, equipment shortag
 
 Ghostlight owns the foreign decision and external event. Delvehold owns the resulting quantitative trade, capacity, contract, and expedition consequences after admitting the typed response. The game client invents no parallel explanation, and neither simulation rewrites the other's decision.
 
+## Policy reaches the shelves
+
+Institutional policy propagates through the same material chain:
+
+> ratified policy → institutional plan → orders, services, reserves, and contracts → material execution → local supply, demand, shortages, and prices
+
+Every institutional action or failure names its institution and governing policy version. Unmet mandates, rationing, cancelled services or contracts, depleted reserves, failed imports, insolvency, aid, recapitalization, policy reversal, and restored throughput become visible through notices and through the underlying inventories, queues, routes, and receipts.
+
+Policy may impose an administered purchase or sale price, tax, subsidy, or ration. Those terms affect transactions but cannot overwrite the observed evidence of scarcity. A cheap public price attached to an empty shelf is not proof that the good remains cheap or available.
+
 ## The news feed
 
 An in-universe news feed gives players enough context that economic changes do not arrive as arbitrary numbers. It carries trade circulars, guild notices, expedition dispatches, foreign broadsheets, official statements, rumours, and corrections.

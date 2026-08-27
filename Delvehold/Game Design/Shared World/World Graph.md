@@ -27,12 +27,14 @@ Returning reactivates the same workshop identity and its eligible sites. The pla
 
 ## Institutions and local circulation
 
-Each Hold contains simulated civic and commercial institutions that supply ordinary necessities, buy useful output, maintain shared services, and publish baseline contracts. Their facilities, inventories, budgets, and mandates keep DELVE and HOLD playable without pretending to be human workshops.
+Each Hold begins with simulated civic and commercial institutions operating under a versioned founding distribution policy. The initial arrangement gives them sensible facilities, inventories, budgets, reserves, service obligations, procurement practices, and expedition contracts. It creates a viable starting economy without pretending that institutions are human workshops or that their success is permanent.
 
-Players govern institutions indirectly. Ratified policy changes procurement priorities, reserves, access, safety rules, service guarantees, budgets, and extraction limits. Institutions choose individual purchases, schedules, and contracts within those constraints.
+Players govern institutions indirectly. Ratified policy can change charters, mandates, budgets, taxes, subsidies, procurement priorities, reserves, access and rationing, import and export rules, infrastructure investment, safety, service obligations, and extraction limits. These safeguards may be narrowed, underfunded, privatized, consolidated, or abolished through the same civic process that created them.
+
+Institutions choose individual purchases, production, schedules, services, and contracts from ratified policy plus their actual money, facilities, staff, inventories, knowledge, route access, and outstanding obligations. An impossible mandate produces an attributable refusal, shortfall, cancellation, default, rationing decision, or insolvency event. Policy creates neither goods nor successful outcomes.
 
 ## Opening and sustaining Holds
 
 A new Hold begins when delvers survey a Vault, routes and institutions make settlement viable, and players voluntarily make it their civic home or establish workshop sites there. Opening responds to sustained active community pressure, institutional load, or chosen frontier play rather than lifetime account totals. It is a committed event inside the Greathold, never a server or matchmaking shard.
 
-Holds persist when their population becomes quiet. Institutions preserve minimum circulation while dormant workshops remain absent from live simulation. Settlement recommendations may favour a viable quiet Hold, but relocation is voluntary and no Hold is merged, wiped, or discarded to repair population balance.
+Holds persist when their population becomes quiet or their economy fails. Institutions continue acting from whatever mandates, assets, and capacity survive while dormant workshops remain absent from live simulation; circulation may shrink or stop. Settlement recommendations may favour an economically viable quiet Hold, but relocation is voluntary and no Hold is merged, wiped, restocked, or discarded to repair population balance.

@@ -11,6 +11,8 @@ An expedition can return below quota with maps, evidence, injury, damaged equipm
 
 Consequences remain attached to their owners. Equipment left below can become dungeon matter or a salvage target. Debt remains an obligation with a creditor. Injury belongs to a person. Shortage changes facilities and contracts rather than subtracting an abstract happiness score.
 
+Institutional failure also creates future play without summoning a reset. Players may substitute production, organize mutual aid, release surviving reserves, salvage, import through receipted freight, commission an emergency delve, form another association, restructure an institution, reverse policy, migrate, or deliberately abandon and rebuild. Goods or contracts return only after an owner commits the required material action.
+
 ## Time commitments
 
 - A narrow expedition or workshop visit should produce useful progress in a short session.

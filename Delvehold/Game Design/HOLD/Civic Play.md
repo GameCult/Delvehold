@@ -48,7 +48,7 @@ Motions concern conflicts, not abstract bonuses. Examples include:
 - answer an export embargo;
 - recognize dungeon cores as legal persons;
 - mobilize workshop capacity for defence;
-- guarantee baseline equipment for independent delvers;
+- fund and guarantee baseline equipment for independent delvers;
 - close a dangerous gate or fund one final expedition through it;
 - recognize a foreign form of Mastership;
 - admit a new category of practice to the workshop franchise.
@@ -71,9 +71,23 @@ Early public motions are authored by the world simulation so that they remain co
 
 A dormant workshop enters no future issue routing or quorum. Votes already cast and ratified commitments remain facts. Reactivation restores prospective relevance only through its civic home; changing that home removes the old jurisdiction before admitting the new one.
 
+## Governing distribution
+
+Each Hold begins with a founding distribution policy that funds public necessities, reserves, repair, procurement, and expedition work. It is inherited law, not a designer-owned safety net. Franchised players may preserve its slack, redirect it, streamline it into a brittle just-in-time system, privatize parts of it, or repeal it.
+
+Policy can govern:
+
+- institutional charters, mandates, budgets, taxes, fees, and subsidies;
+- procurement priorities, eligible suppliers, and service obligations;
+- reserve targets, release rules, access, and rationing;
+- imports, exports, freight, and infrastructure investment;
+- labor, safety, ecological limits, and extraction access.
+
+An adopted service guarantee creates an obligation and a priority for scarce capacity; its budget may or may not be sufficient. It does not conjure the promised good. Forecasts, audits, notice periods, reserve recommendations, and staged implementation can warn against a destructive change; if players lawfully remove them, no hidden institution restores them downstream.
+
 ## From vote to world
 
-A common commitment acts through institutions and material cooperation. Policy changes institutional mandates, budgets, procurement, access, reserves, safety rules, and service obligations; players do not select each institutional purchase or schedule. A mining moratorium changes gate access, lift schedules, listed contracts, public provisioning, and workshop participation. It is not an invisible global flag repaired after the fact.
+A common commitment acts through institutions and material cooperation. Ratification changes institutional constraints; players do not select each purchase, production run, service schedule, or contract. The institution plans from that policy and its real assets, then receipts successful actions and failures. A mining moratorium changes gate access, lift schedules, listed contracts, public provisioning, and workshop participation through those actions. It is not an invisible global flag repaired after the fact.
 
 A defence mobilization authorizes public bodies to issue procurement, redirects shared infrastructure, and creates [[Game Design/Shared World/Economy and Contracts|institutional contracts]]. No individual workshop authors military strategy. Workshops decide how they respond to the collectively formed mandate; foreign states and their militaries remain independent non-player actors.
 

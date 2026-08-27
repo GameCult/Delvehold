@@ -25,7 +25,7 @@ description: One persistent world, experienced from opposite sides of the contra
     <p class="delvehold-mode-label">HOLD</p>
     <h2>Build the warm machine waiting above.</h2>
     <p>HOLD is a cozy magical-industry tycoon game. Begin with one mage doing every useful task by hand, encode those gestures into runes, and compose them into spell engines that grow a workshop into shared infrastructure.</p>
-    <p>Your workshop has one civic home and can establish sites across the Holds of the Greathold. Build local supply chains, trade with familiar players, rely upon local institutions, form relationships with the delvers you hire, and issue the contracts that become somebody else's night underground.</p>
+    <p>Your workshop has one civic home and can establish sites across the Holds of the Greathold. Build local supply chains, form relationships with the delvers you hire, govern the institutions that provision daily life, and live with what your neighbours preserve, streamline, or dismantle.</p>
   </section>
 
   <nav class="delvehold-landing-links" aria-label="Explore DELVE/HOLD">

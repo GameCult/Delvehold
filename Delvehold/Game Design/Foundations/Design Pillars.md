@@ -27,6 +27,10 @@ Players can tell who authored a contract, owns an object, made a claim, ratified
 
 Players inhabit delvers and independent workshop managers. They influence civilization through work, relationships, association, and consequence rather than receiving a strategy-game throne.
 
+## Democracy reaches the shelves
+
+Players inherit functional institutions and may preserve, reform, streamline, or dismantle their distribution policies. The world warns, records, and executes; it does not quietly restore the intended economy after a lawful bad decision.
+
 ## Cozy does not mean consequence-free
 
 Warmth, mastery, Hold life, and humane rhythms are the foreground of HOLD. They matter because the workshop is embedded in scarcity, ecology, politics, and mutual dependence.

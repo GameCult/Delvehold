@@ -42,7 +42,7 @@ The two modes meet in this argument over what the expedition was for.
 
 Inventory choices inside the dungeon are tactical pressure. Reconstructing the same equipment by hand between expeditions is not.
 
-Delvers manage equipped gear, limited carried inventory, unlimited private Hold storage, and five saved loadouts. Restore fills what remains available and exposes every missing, damaged, inaccessible, or over-capacity entry for player resolution. Workshops and institutions supply equipment and explicit repair or refit services through ordinary custody and contract terms. Public provisioning keeps a baseline expedition path available when no workshop player is online; player-made equipment creates specialization rather than permission to play.
+Delvers manage equipped gear, limited carried inventory, unlimited private Hold storage, and five saved loadouts. Restore fills what remains available and exposes every missing, damaged, inaccessible, or over-capacity entry for player resolution. Workshops and institutions supply equipment and explicit repair or refit services through ordinary custody and contract terms. The founding distribution policy initially supplies an expedition path when no workshop player is online, but later governance or material failure may remove that local path. The interface exposes the responsible shortage, policy, or failed service and the available responses instead of inventing replacement gear.
 
 ## Progression and time
 

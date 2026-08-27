@@ -23,7 +23,7 @@ Each Hold is a local market and service ecology. Availability and prices emerge 
 
 Older Holds tend to accumulate broad finished-goods markets, advanced methods, skilled repair and refit, deeper inventories, and stable institutions. Frontier Holds tend to receive fresher and stranger dungeon materials while carrying thinner stocks, fewer advanced services, volatile demand, and expensive inbound support. These differences are realized history, not maturity-tier bonuses. Local policy can redirect procurement, reserves, subsidies, infrastructure, safety, and extraction without setting arbitrary price modifiers.
 
-A workshop can establish sites in several Holds and build a supply chain between them. Each site owns its local productive body and market participation; route transfers own every cross-Hold movement of material. Institutions guarantee a viable baseline of ordinary gear, repair, provisions, and demand in every Hold without equalizing quality, breadth, price, specialization, or throughput.
+A workshop can establish sites in several Holds and build a supply chain between them. Each site owns its local productive body and market participation; route transfers own every cross-Hold movement of material. The founding distribution policy initially supports ordinary gear, repair, provisions, reserves, and dependable demand. Current policy and material state determine whether any of them remain available.
 
 ## Contract authorities
 
@@ -31,7 +31,7 @@ A workshop can establish sites in several Holds and build a supply chain between
 
 **Institutional contracts** originating inside the Greathold are created by Delvehold on behalf of civic works, guilds, colleges, temples, insurers, commercial bodies, or public defence institutions. Foreign buyers, governments, and militaries remain Ghostlight actors: Ghostlight emits their demand, offer, or decision as an external response, and Delvehold creates a Greathold contract only after admitting that intent. Contracts reflect persistent institutional state and public mandates rather than filling empty matchmaking slots.
 
-Institutions also provide each Hold's baseline supply and demand. Population needs, facilities, inventories, budgets, mandates, and ratified policy determine what they produce, buy, provision, and commission. Players can change those constraints through civic play but do not puppet individual institutional transactions.
+Institutions plan and emit part of each Hold's supply and demand. Ratified policy, population needs, budgets, reserves, facilities, inventories, staff, knowledge, routes, contracts, and recent failures determine what they attempt to produce, buy, provision, and commission. Their outputs include orders, offers, contracts, service schedules, rationing and access decisions, reserve releases, refusals, cancellations, shortfalls, defaults, and restructuring or insolvency events. Players can change the governing constraints through civic play but do not puppet individual transactions.
 
 Both kinds enter the same legible market with explicit provenance. The interface must never disguise a simulated institution as a human workshop or imply that a player controls an institutional objective.
 
@@ -43,9 +43,11 @@ Military demand is not authored by workshop players. Mobilization can create sta
 
 HOLD players can manufacture against that demand, refuse it, organize around it, or redirect their workshops toward civilian needs. DELVE players decide which institutional purposes they will physically carry below. Neither group decides that a foreign army or public defence body needs a particular resource merely by wanting a profitable contract.
 
-## Availability without dependency
+## Institutional independence and failure
 
-Institutional work provides a durable baseline of expedition opportunities. Delvers are not prevented from playing because no workshop manager is currently online, and a new HOLD player is not responsible for sustaining the entire contract market.
+The seeded founding arrangement provides expedition work and ordinary services without depending upon a workshop manager being online. Later policy or material failure can exhaust that arrangement. A Hold may lose public equipment, repair, provisions, institutional buyers, or expedition contracts until some owner funds, produces, releases, imports, or rebuilds them.
+
+The simulation protects truthful quantities and provenance, conservation and custody, real facility, route, and budget capacity, accepted contracts and causal receipts, civic inspection and participation, and meaningful exit. It does not protect commodity availability, service levels, prices, contract volume, reserves, institutional solvency, or local economic comfort.
 
 Workshop contracts should remain more personal and expressive: unusual equipment, negotiated priorities, relationships with recurring parties, speculative discoveries, local shortages, and returns that visibly transform a player's machinery.
 
