@@ -13,4 +13,6 @@ No site efficiently contains every chain. Players specialize sites, trade, commi
 
 Portable knowledge, workshop-wide configuration, relationships, and saved loadouts follow the identity. Facilities, installed methods, staff, inventories, active orders, and output remain at their sites. Escrowed, dispatched, institution-held, returned-loan, lost, or otherwise transferred items remain under their recorded custody until another receipt moves them.
 
+Site closure is a settlement process, not deletion. Production stops, unaccepted intents withdraw, accepted commitments reach their admitted outcomes, and each local asset or custody item is sold, transferred, dismantled, abandoned, or otherwise receipted before the site ceases to exist.
+
 The economy must support ordinary civic life as well as expedition gear: heat, food processing, medicine, construction, transport, maintenance, education, ritual goods, and delightful nonsense all compete for material and capacity.

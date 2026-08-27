@@ -37,6 +37,7 @@ The design is proven by visible paths, not by the existence of schemas.
 - Dormancy preserves workshop identity, sites, local facilities and custody, history, relationships, seal identity, debts, completed acts, and already-cast votes.
 - Reactivating the workshop replays no dormant production, duplicates no facility or inventory, and moves no committed material between sites without explicit route and custody receipts.
 - A workshop may change its civic home or establish another site without gaining another seal; host-Hold policy governs every site regardless of the workshop's civic home.
+- A site cannot close while silently owning facilities, inventory, reservations, staff commitments, accepted orders, or contracts; every item settles or receives an explicit terminal receipt.
 - Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
 
 ## Equipment and preparation
