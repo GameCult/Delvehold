@@ -3,7 +3,7 @@ title: First playable world
 description: The smallest vertical slice that can prove the joined design.
 ---
 
-The first playable proof contains one Vault and its Hold, one active workshop attachment, one baseline institution, one dungeon core, one extracted material family, one contract form, one expedition party, one useful processing chain, and persistent expedition history.
+The first playable proof contains one Vault and its Hold, one active workshop site belonging to an identity with one civic home and seal, one baseline institution, one dungeon core, one extracted material family, one contract form, one expedition party, one useful processing chain, and persistent expedition history.
 
 The slice is complete only when:
 
@@ -15,7 +15,8 @@ The slice is complete only when:
 6. the party returns with material, evidence, injury, loss, or some combination;
 7. the outcome changes workshop decisions and the next expedition;
 8. the recorded departure equipment matches the visible slots and carried inventory, and the history remains after the game client reconnects and the world host restarts;
-9. the workshop can pass through 36-hour dormancy and reactivate in the same or another Hold without losing identity, relationships, or receipted history.
+9. the workshop can pass through 36-hour dormancy and reactivate its site without losing identity, relationships, local custody, or receipted history;
+10. the state model can admit a second Hold-local site under the same identity without cloning its seal, facilities, inventory, or production capacity.
 
 One institutional contract keeps DELVE playable without a workshop manager online. One public need keeps HOLD meaningful without requiring a delver to accept a personal order immediately. The slice does not need a broad item catalogue, global war, or complete combat metagame. It needs one honest return stroke.
 

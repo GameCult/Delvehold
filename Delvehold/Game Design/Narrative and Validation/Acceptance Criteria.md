@@ -32,10 +32,11 @@ The design is proven by visible paths, not by the existence of schemas.
 ## Holds and workshop presence
 
 - A Vault opens through committed survey, route, provisioning, and settlement state inside the Greathold rather than through server selection.
-- Only active attachments contribute workshop demand, production, discovery, notification, infrastructure reservation, or future civic routing in a Hold.
-- At 36-hour lease expiry, automation checkpoints once, unaccepted listings disappear, accepted obligations settle exactly once under their admitted terms, and the workshop produces no continuing live load.
-- Dormancy preserves workshop identity, history, relationships, seal identity, custody, debts, completed acts, and already-cast votes.
-- Reactivating the workshop in another Hold leaves no old local pressure or dual civic attachment, replays no dormant production, and moves committed material only through explicit custody receipts.
+- Only active workshop sites contribute demand, production, discovery, notification, or infrastructure reservation in their Holds; only the singular civic home supplies ordinary future civic routing.
+- At 36-hour lease expiry, automation checkpoints once across every site, unaccepted listings and reservations disappear, accepted obligations settle exactly once under their site-local terms, and the workshop produces no continuing live load.
+- Dormancy preserves workshop identity, sites, local facilities and custody, history, relationships, seal identity, debts, completed acts, and already-cast votes.
+- Reactivating the workshop replays no dormant production, duplicates no facility or inventory, and moves no committed material between sites without explicit route and custody receipts.
+- A workshop may change its civic home or establish another site without gaining another seal; host-Hold policy governs every site regardless of the workshop's civic home.
 - Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
 
 ## Equipment and preparation
@@ -46,7 +47,7 @@ The design is proven by visible paths, not by the existence of schemas.
 - Unique and provenance-sensitive gear resolves by identity; ordinary consumables may resolve by kind and quantity. Damaged owned gear remains visible as present and repairable rather than disappearing as missing.
 - Contract-offered gear is selectable only while custody terms permit and is never auto-equipped or written into a saved slot.
 - Departure atomically validates the visible equipped and carried state and records exactly that state without another confirmation screen.
-- Saved loadouts and private gear storage survive dormancy and Hold reattachment without creating live pressure or moving lost, escrowed, dispatched, installed, institution-held, or returned-loan items.
+- Saved loadouts and Hold-addressed private gear storage survive dormancy and civic-home changes without creating live pressure or moving remote, lost, escrowed, dispatched, installed, institution-held, or returned-loan items.
 
 ## Procedural dungeon proof
 

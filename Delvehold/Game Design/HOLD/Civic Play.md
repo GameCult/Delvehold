@@ -7,13 +7,13 @@ aliases:
 
 HOLD places workshop managers directly inside the Greathold's political life. The foreground fantasy is civic stewardship, not market speculation: understand an issue, argue with neighbours, commit the workshop's seal and capacity, and live with the resulting common action.
 
-The franchise follows [[Mastership and Citizenship|dwarven Mastership]]. Each independent workshop identity has one seal and one vote while actively attached to a Hold. Wealth, throughput, and consortium membership do not create additional votes.
+The franchise follows [[Mastership and Citizenship|dwarven Mastership]]. Each independent workshop identity has one seal and one vote while present through its civic home. Wealth, throughput, consortium membership, and sites in other Holds do not create additional votes.
 
 ## Local-first issue routing
 
 An issue begins with the smallest body that contains its material consequences. A Hold question begins among its active workshops, residents, institutions, delvers, and ecological stewards. A route closure also implicates the connected Holds and its passengers. A deep gate implicates its Hold, delver associations, ecological stewards, and supply relationships.
 
-Active [[Game Design/Shared World/World Graph|Hold attachments]] establish ordinary local civic relevance. Contracts, routes, infrastructure, core relationships, and realized consequences can widen jurisdiction without redefining where a workshop lives.
+A workshop's [[Game Design/Shared World/World Graph|civic home]] establishes its ordinary local civic relevance. Contracts, routes, infrastructure, workshop sites, core relationships, and realized consequences can widen affected-party jurisdiction without granting another seal. Every site remains subject to the ratified policy of its host Hold regardless of where the workshop votes.
 
 A proposal can move outward when its consequences do:
 
@@ -69,7 +69,7 @@ Civic play is slow, asynchronous, and optional in ordinary life:
 
 Early public motions are authored by the world simulation so that they remain coherent with live events. Player petitions can later gather seals to enter the appropriate assembly without turning the first prototype into an unmoderated parliament.
 
-A dormant workshop enters no future issue routing or quorum. Votes already cast and ratified commitments remain facts. Reactivation grants prospective relevance only in the newly attached Hold.
+A dormant workshop enters no future issue routing or quorum. Votes already cast and ratified commitments remain facts. Reactivation restores prospective relevance only through its civic home; changing that home removes the old jurisdiction before admitting the new one.
 
 ## From vote to world
 

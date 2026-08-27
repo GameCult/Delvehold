@@ -40,7 +40,7 @@ The feed also carries assembly notices, proposals, public testimony, audits, and
 
 ## Markets stay in the background
 
-Prices and inventories remain causal world signals, not the foreground identity of HOLD. The client does not expect players to trade abstract positions, read financial charts, or optimize a fantasy stock market.
+Prices and inventories remain causal world signals, not the foreground identity of HOLD. They are observed per Hold from local stock, demand, production, institutions, and route-mediated imports rather than published as one Greathold price. The client does not expect players to trade abstract positions, read financial charts, or optimize a fantasy stock market.
 
 A stockpile can still become valuable, impossible to replace, obsolete after a standards change, attractive to requisition, or expensive to keep while an expected crisis fails to arrive. Hoarding therefore has speculative consequences without being presented as a required speculation minigame.
 
@@ -52,6 +52,6 @@ News provides interpretation; the economy provides evidence. Neither is complete
 
 Players should receive warning signals before major consequences, but those signals should preserve uncertainty. A price shock might indicate war, sanctions, a failed route, political theatre, ecological disruption, or an attempt to corner a market. Players create social knowledge by comparing reports with prices, contracts, expedition testimony, and conditions in their Hold or among known partners.
 
-Dormant workshops vanish from live Hold discovery, market listings, ordinary news routing, and forecasts. Direct collaborators retain their shared history, which becomes available again when the same workshop identity reactivates.
+Dormant workshops vanish from live Hold discovery, market listings, ordinary news routing, and forecasts in every Hold where they maintain sites. Direct collaborators retain their identity-level shared history and the provenance of the sites through which they dealt; both become available again when the workshop identity reactivates.
 
 The living world is therefore not delivered as exposition. It is inferred through work, then argued about between players.

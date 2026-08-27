@@ -15,7 +15,7 @@ After each accepted boundary update, Ghostlight may run a bounded strategic wave
 
 On recovery, the bridge replays at most eight missed hourly epochs. Older time is summarized into one coarse strategic horizon with its covered interval, source aggregates, uncertainty, and provenance. Catch-up cannot invent player actions, silently accept pending intent, or conceal lost intervals.
 
-Workshop presence uses a versioned 36-hour lease measured by world-host time. An authenticated foreground session renews it; client heartbeats, reconnect retries, and background work cannot. Expiry commits one idempotent dormancy transition that checkpoints bounded automation, settles listings and obligations under their admitted terms, and removes the live Hold attachment. Reactivation begins from the committed dormant state and never replays production across the inactive interval.
+Workshop presence uses one versioned 36-hour identity lease measured by world-host time. An authenticated foreground session renews it for every eligible site; client heartbeats, reconnect retries, and background work cannot. Expiry commits one idempotent dormancy transition that checkpoints bounded automation across all sites, removes each site's unaccepted listings and live reservations, disables future civic routing, and invokes site-local obligation terms exactly once. Reactivation begins from the committed dormant state and never replays production across the inactive interval.
 
 ## Delivery rules
 

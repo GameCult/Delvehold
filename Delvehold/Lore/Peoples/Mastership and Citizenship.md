@@ -28,7 +28,7 @@ Each independent workshop carries one civic seal. Branches, facilities, employee
 
 The workshop stands behind the franchise. Neighbours can inspect its work, trace its mark, ask for an audit, and bring a complaint. Dwarven political thought makes that answerability the price of binding others through a common decision.
 
-A workshop may fall dormant or resume in another Hold without becoming a new legal person. Its seal and history travel with the practice. The seal enters new moots only after the workshop wakes in a Hold; old votes, debts, complaints, and ratified commitments remain where their acts placed them.
+A workshop may open sites in several Holds without breeding extra seals. All bear the same name and history. Their furnaces, stores, workers, open orders, and local obligations stay in the Holds where they stand. One Hold keeps the workshop's civic seal on its rolls. Before the seal enters another moot, the Master withdraws it from the old one; votes already cast, complaints already lodged, and bargains already ratified keep their original force.
 
 Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal.
 
@@ -48,6 +48,7 @@ The franchise gives workshop owners political standing and withholds the seal fr
 - whether industrial automation is destroying ordinary paths to Mastership;
 - whether foreign credentials are being examined or merely excluded;
 - whether apprentices are being taught or retained as cheap labour;
-- when a dormant workshop may resume the franchise and in which Hold;
+- when a dormant workshop may resume the franchise or change its civic home;
+- how much voice a workshop operating sites outside its civic home should have in their host Holds;
 - whether a sapient spell engine could produce a Masterwork;
 - whether a dungeon core could.

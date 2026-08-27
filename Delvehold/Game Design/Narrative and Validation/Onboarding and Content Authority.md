@@ -3,7 +3,7 @@ title: Onboarding and content authority
 description: The first-session reveal and the boundary between authored canon, simulation, and presentation.
 ---
 
-Onboarding introduces one world through a particular practice. A new player chooses a DELVE or HOLD entry without choosing a separate history, server, or lesser mode. The player joins a viable Hold inside the Greathold and may later reattach a workshop elsewhere without creating another identity.
+Onboarding introduces one world through a particular practice. A new player chooses a DELVE or HOLD entry without choosing a separate history, server, or lesser mode. The player joins a viable Hold inside the Greathold, may later change the workshop's civic home, and can establish workshop sites in other Holds without creating another identity or seal.
 
 ## First-session sequence
 
