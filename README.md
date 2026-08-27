@@ -38,10 +38,3 @@ Open the project in the Godot editor with:
 ```powershell
 .\scripts\open-godot.ps1
 ```
-
-Validate the source-addressed control-flow map or open its interactive Norn view:
-
-```powershell
-.\scripts\control-flow.ps1 validate
-.\scripts\control-flow.ps1 view
-```

@@ -8,15 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delvehold.WorldHost", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delvehold.Client", "client\Delvehold.Client.csproj", "{F764A271-81B2-42ED-8D07-BB6C00281029}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Control Flow", "Control Flow", "{612EA672-270E-476C-9B76-B29A1CC6327B}"
-	ProjectSection(SolutionItems) = preProject
-		modeling\control-flow\graph.ts = modeling\control-flow\graph.ts
-		modeling\control-flow\main.tsx = modeling\control-flow\main.tsx
-		modeling\control-flow\package.json = modeling\control-flow\package.json
-		modeling\control-flow\verify.ts = modeling\control-flow\verify.ts
-		scripts\control-flow.ps1 = scripts\control-flow.ps1
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -18,5 +18,3 @@ Thumbs.db
 client/.godot/
 *.user
 *.suo
-modeling/control-flow/node_modules/
-modeling/control-flow/dist/

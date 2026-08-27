@@ -27,13 +27,6 @@
 - Shared Quartz machinery remains owned by `GameCult/GameCult-Quartz`; do not vendor it here.
 - Generated output under `quartz-site/public/` is disposable and must not become source truth.
 
-## Control-flow modeling
-
-- `modeling/control-flow/graph.ts` owns the typed, source-addressed map of the current executable body. Delvehold owns its semantics and provenance; Norn owns rendering behavior only.
-- Any change to client, host, protocol, solution/build, or launcher control flow requires review of the affected nodes, edges, owners, and source witnesses. Admit the resulting normalized source hash only after that review.
-- Run `scripts/control-flow.ps1 validate` before accepting runtime work. New executable files within the inventoried game-runtime surfaces (`client/`, `src/`, root solution/MSBuild files, and top-level runtime launchers), stale witnesses, broken graph references, and changed inventoried sources must fail this check rather than disappearing from the map. Quartz publishing belongs to the documentation body; the Norn viewer belongs to the modeling tool body.
-- Graph inspection is non-mutating. A future control surface must still cross the typed Delvehold command-and-receipt boundary; selection in Norn is never gameplay authority.
-
 ## Lore prose
 
 - Use `F:\Projects\Kalsa\workshop\review-council\critics\AI-Isms and Prose.md` as the review brief for Lore prose. Its named patterns are prompts to reread, not forbidden-token rules or quality metrics.

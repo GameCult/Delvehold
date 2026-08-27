@@ -7,4 +7,3 @@ The machinery beneath DELVE/HOLD: typed world state, ownership boundaries, clien
 
 - [[Authority Map|Authority map]]
 - [[Implementation Map|Implementation map]]
-- [[Control Flow Map|Control-flow map]]
