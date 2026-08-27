@@ -7,17 +7,17 @@ aliases:
 
 HOLD places workshop managers directly inside the Greathold's political life. The foreground fantasy is civic stewardship, not market speculation: understand an issue, argue with neighbours, commit the workshop's seal and capacity, and live with the resulting common action.
 
-The franchise follows [[Mastership and Citizenship|dwarven Mastership]]. Each independent workshop has one seal and one vote. Wealth, throughput, annexes, and consortium membership do not create additional votes.
+The franchise follows [[Mastership and Citizenship|dwarven Mastership]]. Each independent workshop identity has one seal and one vote while actively attached to a Hold. Wealth, throughput, and consortium membership do not create additional votes.
 
 ## Local-first issue routing
 
-An issue begins with the smallest body that contains its material consequences. A shared mana well belongs first to its connected workshops. A lift belongs to its passengers, maintainers, and dependent districts. A deep gate implicates its neighbouring holds, delver associations, ecological stewards, and supply network.
+An issue begins with the smallest body that contains its material consequences. A Hold question begins among its active workshops, residents, institutions, delvers, and ecological stewards. A route closure also implicates the connected Holds and its passengers. A deep gate implicates its Hold, delver associations, ecological stewards, and supply relationships.
 
-Workshop shards already form a persistent [[Game Design/Shared World/World Graph|neighbourhood graph]]. Civic jurisdiction is projected from the same typed relationships rather than from a separate political map.
+Active [[Game Design/Shared World/World Graph|Hold attachments]] establish ordinary local civic relevance. Contracts, routes, infrastructure, core relationships, and realized consequences can widen jurisdiction without redefining where a workshop lives.
 
 A proposal can move outward when its consequences do:
 
-> workshop moot → shared junction → subsidiary hold → Greathold-wide commitment
+> affected workshop or institution → Hold → connected Holds → Greathold-wide commitment
 
 Greathold-wide policy is therefore an assembled common mandate, not an order descending from a permanent capital. The player does not receive an identical national ballot merely because a vote exists somewhere in the world.
 
@@ -69,9 +69,11 @@ Civic play is slow, asynchronous, and optional in ordinary life:
 
 Early public motions are authored by the world simulation so that they remain coherent with live events. Player petitions can later gather seals to enter the appropriate assembly without turning the first prototype into an unmoderated parliament.
 
+A dormant workshop enters no future issue routing or quorum. Votes already cast and ratified commitments remain facts. Reactivation grants prospective relevance only in the newly attached Hold.
+
 ## From vote to world
 
-A common commitment acts through institutions and material cooperation. A mining moratorium changes gate access, lift schedules, listed contracts, public provisioning, and workshop participation. It is not an invisible global flag repaired after the fact.
+A common commitment acts through institutions and material cooperation. Policy changes institutional mandates, budgets, procurement, access, reserves, safety rules, and service obligations; players do not select each institutional purchase or schedule. A mining moratorium changes gate access, lift schedules, listed contracts, public provisioning, and workshop participation. It is not an invisible global flag repaired after the fact.
 
 A defence mobilization authorizes public bodies to issue procurement, redirects shared infrastructure, and creates [[Game Design/Shared World/Economy and Contracts|institutional contracts]]. No individual workshop authors military strategy. Workshops decide how they respond to the collectively formed mandate; foreign states and their militaries remain independent non-player actors.
 

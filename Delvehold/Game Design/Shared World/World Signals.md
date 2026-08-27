@@ -11,7 +11,7 @@ A HOLD player can store, craft, automate, commission, deliberate, vote, and publ
 
 ## Economic transmission
 
-Geopolitical change propagates through ordinary work before it resolves into a named historical event. If a civilization stops importing dwarven machinery as the [[International Crisis|international crisis]] approaches, workshop managers first encounter a price shock. Lost export demand changes margins and inventories. Buyers, suppliers, and neighbouring workshops then redirect capacity toward other markets, substitutes, stockpiles, transport, weapons, and strategic dungeon materials.
+Geopolitical change propagates through ordinary work before it resolves into a named historical event. If a civilization stops importing dwarven machinery as the [[International Crisis|international crisis]] approaches, workshop managers first encounter a price shock. Lost export demand changes margins and inventories. Buyers, suppliers, active workshops, and institutions then redirect capacity toward other markets, substitutes, stockpiles, transport, weapons, and strategic dungeon materials.
 
 The same disturbance reaches DELVE as altered contract volume, equipment shortages, replacement costs, route closures, hazard pay, requisitions, and growing demand for particular extractions. Both player workshops and [[Game Design/Shared World/Economy and Contracts|world institutions]] transmit that demand. One world event therefore crosses the game through a shared chain:
 
@@ -50,6 +50,8 @@ Players who enjoy reading markets may act on those signals. Most players can tre
 
 News provides interpretation; the economy provides evidence. Neither is complete alone.
 
-Players should receive warning signals before major consequences, but those signals should preserve uncertainty. A price shock might indicate war, sanctions, a failed route, political theatre, ecological disruption, or an attempt to corner a market. Players create social knowledge by comparing reports with prices, contracts, expedition testimony, and conditions in neighbouring workshop shards.
+Players should receive warning signals before major consequences, but those signals should preserve uncertainty. A price shock might indicate war, sanctions, a failed route, political theatre, ecological disruption, or an attempt to corner a market. Players create social knowledge by comparing reports with prices, contracts, expedition testimony, and conditions in their Hold or among known partners.
+
+Dormant workshops vanish from live Hold discovery, market listings, ordinary news routing, and forecasts. Direct collaborators retain their shared history, which becomes available again when the same workshop identity reactivates.
 
 The living world is therefore not delivered as exposition. It is inferred through work, then argued about between players.

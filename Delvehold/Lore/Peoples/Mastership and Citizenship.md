@@ -15,18 +15,20 @@ The expected life passage has six stages:
 2. **Apprenticeship.** The apprentice studies and works under one or several Masters.
 3. **Journeywork.** The developing craftsperson travels between workshops, gathers techniques, and produces work with increasing independence.
 4. **Masterwork.** The candidate demonstrates a durable contribution before a local body of Masters.
-5. **Foundation.** The new Master receives or constructs an independent workshop shard.
+5. **Foundation.** The new Master establishes an independent practice and marks its work under its own name.
 6. **Sealing.** The workshop registers its civic seal and its Master enters the franchise.
 
 A workshop need not be a factory. Forges, kitchens, clinics, archives, rune laboratories, architectural practices, schools, and other independently maintained useful institutions can qualify. The disputed boundary of useful practice is one of the Greathold's oldest recurring arguments.
 
-The commons owe an apprentice food, instruction, tools, examination, appeal, and a chance at scarce workshop space. When House children inherit every viable room, Mastership becomes property qualification with a ceremonial hammer attached. Greathold law calls that corruption; powerful Houses call it continuity.
+The commons owe an apprentice food, instruction, tools, examination, appeal, and a real chance to establish an independent practice. Houses have often tried to reserve examinations, guild access, and public contracts for their own children. Greathold law calls that corruption; powerful Houses call it continuity.
 
 ## The workshop franchise
 
-Each independent workshop carries one civic seal. Annexes, branch facilities, factory floors, and accumulated wealth do not multiply it. A consortium cannot acquire twelve votes by putting twelve doors on one productive body.
+Each independent workshop carries one civic seal. Branches, facilities, employees, and accumulated wealth do not multiply it. A consortium cannot multiply its vote by counting production lines.
 
-The workshop stands behind the franchise. It gives neighbours somewhere to inspect the Master's work and bring a complaint. Dwarven political thought makes that public responsibility the price of binding others through a common decision.
+The workshop stands behind the franchise. Neighbours can inspect its work, trace its mark, ask for an audit, and bring a complaint. Dwarven political thought makes that answerability the price of binding others through a common decision.
+
+A workshop may fall dormant or resume in another Hold without becoming a new legal person. Its seal and history travel with the practice. The seal enters new moots only after the workshop wakes in a Hold; old votes, debts, complaints, and ratified commitments remain where their acts placed them.
 
 Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal.
 
@@ -46,6 +48,6 @@ The franchise gives workshop owners political standing and withholds the seal fr
 - whether industrial automation is destroying ordinary paths to Mastership;
 - whether foreign credentials are being examined or merely excluded;
 - whether apprentices are being taught or retained as cheap labour;
-- whether a Master without a surviving workshop retains the franchise;
+- when a dormant workshop may resume the franchise and in which Hold;
 - whether a sapient spell engine could produce a Masterwork;
 - whether a dungeon core could.

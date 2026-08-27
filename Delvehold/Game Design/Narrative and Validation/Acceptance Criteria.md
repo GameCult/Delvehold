@@ -29,6 +29,15 @@ The design is proven by visible paths, not by the existence of schemas.
 - Catch-up is bounded, names the interval it summarizes, and never puppets an absent player.
 - The visible news, price, contract, expedition, and workshop changes can be traced to typed events and receipts at the layer where players experience them.
 
+## Holds and workshop presence
+
+- A Vault opens through committed survey, route, provisioning, and settlement state inside the Greathold rather than through server selection.
+- Only active attachments contribute workshop demand, production, discovery, notification, infrastructure reservation, or future civic routing in a Hold.
+- At 36-hour lease expiry, automation checkpoints once, unaccepted listings disappear, accepted obligations settle exactly once under their admitted terms, and the workshop produces no continuing live load.
+- Dormancy preserves workshop identity, history, relationships, seal identity, custody, debts, completed acts, and already-cast votes.
+- Reactivating the workshop in another Hold leaves no old local pressure or dual civic attachment, replays no dormant production, and moves committed material only through explicit custody receipts.
+- Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
+
 ## Procedural dungeon proof
 
 - Identical canonical input, CultMath seed, and generator version reproduce the same dungeon projection after host restart.

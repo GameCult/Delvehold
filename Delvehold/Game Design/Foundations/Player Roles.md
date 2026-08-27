@@ -13,7 +13,7 @@ A party may contain one or more players where the expedition supports it. Solo a
 
 ## Workshop managers
 
-Workshop managers practice magic, store materials, craft, repair, automate, commission, trade, publish contracts, maintain shared infrastructure, and participate in relevant civic bodies. Each player owns one workshop shard and its seal. Scale and wealth do not grant extra votes or authority inside another workshop.
+Workshop managers practice magic, store materials, craft, repair, automate, commission, trade, publish contracts, maintain shared infrastructure, and participate in relevant civic bodies. Each player owns one durable workshop identity and its seal, with at most one active Hold attachment. Scale and wealth do not grant extra votes or authority inside another workshop.
 
 ## Shared limits
 

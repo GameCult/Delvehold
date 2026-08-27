@@ -5,7 +5,7 @@ aliases:
   - /Game-Design/Core-Loop
 ---
 
-The first playable world contains one workshop, one dungeon core, one contract type, one expedition party, one extracted material, and one persistent expedition history.
+The first playable world contains one Vault and its Hold, one active workshop, one baseline institution, one dungeon core, one contract type, one expedition party, one extracted material, and one persistent expedition history.
 
 ## HOLD
 

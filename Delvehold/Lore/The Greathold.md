@@ -5,13 +5,17 @@ description: The dwarven homeland cleared through the living spine of a mountain
 
 The Greathold occupies the mountain range's dungeon. Its chambers, galleries, shafts, and older structures have been cleared and inhabited over many dwarven generations.
 
-Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where its districts, subsidiary holds, and frontier galleries possess their own governments and identities.
+Some dungeon cores open immense chambers and establish a climate, soil, water cycle, and community of organisms inside them. Dwarves call such a chamber or chamber system a **Vault**. Once settled, its workshops, delver halls, homes, markets, and public institutions form a **Hold**. The Greathold is the connected civilization of these Holds along the mountain spine.
+
+Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where individual Holds and frontier galleries possess their own governments and identities.
 
 Government begins near the matter under dispute. A broken lift belongs first to its stranded districts; if the closure blocks the spine, their settlement must gather seals from farther holds. No permanent sovereign centre can issue a Greathold-wide order alone. The [[Mastership and Citizenship|workshop franchise]] supplies the characteristic civic unit.
 
 ## Built by delving
 
-Expansion came piecemeal. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
+Expansion came piecemeal. Opening a Vault required survey expeditions, a safe route, provisioning, and some accommodation with its core and biome. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
+
+New Holds still begin this way. A Vault may have existed for millennia before delvers find it. Clearing and provisioning open it to voluntary settlement; no census office manufactures another piece of the mountain because the population ledger grew.
 
 Delving predates the adventuring profession. It opened homes and roads, managed dangerous dungeon populations, and carried matter through the dungeon's cycles. A settled district still needed formal expeditions into old drains, closed galleries, and newly restless chambers.
 

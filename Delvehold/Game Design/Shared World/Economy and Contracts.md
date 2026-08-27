@@ -23,6 +23,8 @@ Planned production and offered orders remain owned intents. Only completed trans
 
 **Institutional contracts** originating inside the Greathold are created by Delvehold on behalf of civic works, guilds, colleges, temples, insurers, commercial bodies, or public defence institutions. Foreign buyers, governments, and militaries remain Ghostlight actors: Ghostlight emits their demand, offer, or decision as an external response, and Delvehold creates a Greathold contract only after admitting that intent. Contracts reflect persistent institutional state and public mandates rather than filling empty matchmaking slots.
 
+Institutions also provide each Hold's baseline supply and demand. Population needs, facilities, inventories, budgets, mandates, and ratified policy determine what they produce, buy, provision, and commission. Players can change those constraints through civic play but do not puppet individual institutional transactions.
+
 Both kinds enter the same legible market with explicit provenance. The interface must never disguise a simulated institution as a human workshop or imply that a player controls an institutional objective.
 
 ## Military procurement
@@ -36,6 +38,12 @@ HOLD players can manufacture against that demand, refuse it, organize around it,
 Institutional work provides a durable baseline of expedition opportunities. Delvers are not prevented from playing because no workshop manager is currently online, and a new HOLD player is not responsible for sustaining the entire contract market.
 
 Workshop contracts should remain more personal and expressive: unusual equipment, negotiated priorities, relationships with recurring parties, speculative discoveries, local shortages, and returns that visibly transform a player's machinery.
+
+## Workshop and delver relationships
+
+Recurring contracts preserve the history between a workshop and a delver or party: terms kept or broken, equipment supplied and returned, substitutions, discoveries, injuries, rescues, losses, payment, and ecological consequences. These relationships belong to stable identities and survive dormancy or movement between Holds. Current Hold membership affects discovery and convenience, not memory.
+
+Unaccepted workshop listings disappear when its 36-hour presence lease expires. Every accepted order or contract declares what dormancy does: complete before expiry, settle from escrow, transfer to a named institution, or cancel or default under agreed terms. The transition emits one receipt and cannot erase the obligation or leave the workshop active forever.
 
 ## Contract outcomes
 

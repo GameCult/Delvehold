@@ -5,7 +5,9 @@ description: Canonical owners and projections across the Greathold and external 
 
 ## Delvehold authority
 
-The Delvehold world organ owns the Greathold and its quantitative economy: players, workshops, parties, civic seals, graph edges, dungeon lifecycle pressure, commodities, resource lots, custody, recipes, facilities, capacity, inventories, orders, prices, contracts, expeditions, and local consequences. It accepts typed intents and emits typed receipts plus updated documents through CultMesh.
+The Delvehold world organ owns the Greathold and its quantitative economy: Vaults, Holds, routes, workshop identities, active attachments, presence leases, parties, institutions, civic seals, dungeon lifecycle pressure, commodities, resource lots, custody, recipes, facilities, capacity, inventories, orders, prices, contracts, expeditions, and local consequences. It accepts typed intents and emits typed receipts plus updated documents through CultMesh.
+
+The world host admits Vault opening, workshop activation, reattachment, and the atomic dormancy transition. The client cannot renew presence through a heartbeat, infer a Hold from infrastructure placement, or keep a dormant workshop in local projections. Hosting and matchmaking may scale independently but cannot create canonical Vaults.
 
 ## Ghostlight authority
 
@@ -22,7 +24,7 @@ CultMesh carries two directions of typed exchange. Delvehold publishes a derived
 ## Game client projection
 
 One Godot C# client projects both DELVE and HOLD. DELVE scenes present embodied
-expeditions; HOLD scenes present workshops, neighborhoods, contracts, news, and
+expeditions; HOLD scenes present workshops, Holds, contracts, news, and
 civic play. The client's shared session owns its CultMesh connection, local
 projections, prediction, controls, animation, and presentation. It does not own
 economic, dungeon-lifecycle, or civic truth.
@@ -42,7 +44,7 @@ Factory and delver interfaces expose different projections of that state. Incomp
 
 ## Civic handoff
 
-Each franchised workshop owns its seal and the intents it submits: vote, petition, amendment, capacity pledge, refusal, or withdrawal. The Delvehold world organ owns the resulting assembly state, jurisdiction derived from the world graph, ratified common commitments, and institutional consequences.
+Each franchised workshop identity owns its seal and the intents it submits while actively attached to a Hold: vote, petition, amendment, capacity pledge, refusal, or withdrawal. The Delvehold world organ owns the resulting assembly state, jurisdiction derived from active Hold membership and realized consequence paths, ratified common commitments, and institutional consequences.
 
 A ballot cannot directly mutate a mine, contract market, or military order. The ratified mandate is the input through which the responsible institutions act, and those actions update the same typed world state seen through both modes.
 

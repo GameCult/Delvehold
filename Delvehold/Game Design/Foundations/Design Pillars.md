@@ -29,4 +29,4 @@ Players inhabit delvers and independent workshop managers. They influence civili
 
 ## Cozy does not mean consequence-free
 
-Warmth, mastery, neighborhood life, and humane rhythms are the foreground of HOLD. They matter because the workshop is embedded in scarcity, ecology, politics, and mutual dependence.
+Warmth, mastery, Hold life, and humane rhythms are the foreground of HOLD. They matter because the workshop is embedded in scarcity, ecology, politics, and mutual dependence.
