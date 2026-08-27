@@ -94,7 +94,7 @@ body {
 
 .delvehold-wordmark-hold {
   color: var(--hold-purple);
-  font-weight: 800;
+  font-weight: 100;
 }
 
 .delvehold-wordmark-slash {
@@ -143,7 +143,7 @@ article > h3 {
 }
 
 body[data-slug="index"] {
-  background: color-mix(in srgb, var(--hold-purple) 9%, #050505);
+  background: #050505;
   timeline-scope: --delvehold-enter-delve, --delvehold-enter-hold;
 
   &::before,
@@ -154,7 +154,6 @@ body[data-slug="index"] {
     inset: -35vmax;
     pointer-events: none;
     clip-path: polygon(120% 0, 100% 0, 100% 100%, 100% 100%);
-    filter: drop-shadow(-2px 0 rgba(255, 255, 255, 0.58));
     animation: delvehold-diagonal-wipe linear both;
     animation-range: entry 0% cover 50%;
   }
@@ -209,14 +208,34 @@ body[data-slug="index"] {
   height: 1px;
   margin-top: -1px;
   pointer-events: none;
+
+  &::after {
+    content: "";
+    position: fixed;
+    z-index: 2;
+    inset: -35vmax;
+    pointer-events: none;
+    background: #fff;
+    clip-path: polygon(120% 0, 120.15% 0, 100.15% 100%, 100% 100%);
+    animation: delvehold-wipe-edge linear both;
+    animation-range: entry 0% cover 50%;
+  }
 }
 
 .delvehold-mode-boundary-delve {
   view-timeline: --delvehold-enter-delve block;
+
+  &::after {
+    animation-timeline: --delvehold-enter-delve;
+  }
 }
 
 .delvehold-mode-boundary-hold {
   view-timeline: --delvehold-enter-hold block;
+
+  &::after {
+    animation-timeline: --delvehold-enter-hold;
+  }
 }
 
 .delvehold-landing {
@@ -347,11 +366,22 @@ body[data-slug="index"] {
   }
 }
 
+@keyframes delvehold-wipe-edge {
+  from {
+    clip-path: polygon(120% 0, 120.15% 0, 100.15% 100%, 100% 100%);
+  }
+
+  to {
+    clip-path: polygon(0 0, 0.15% 0, -19.85% 100%, -20% 100%);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   body[data-slug="index"]::before,
   body[data-slug="index"]::after,
   body[data-slug="index"] .delvehold-wordmark-delve,
-  body[data-slug="index"] .delvehold-wordmark-hold {
+  body[data-slug="index"] .delvehold-wordmark-hold,
+  .delvehold-mode-boundary::after {
     animation: none;
   }
 }
