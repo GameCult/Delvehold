@@ -11,7 +11,7 @@ Guild ledgers recorded only the salvage side of an exchange that also fed and ch
 
 [[The Greathold]] offered the easiest reliable access to deep dungeons anywhere in the known world. Generations of dwarven clearing had opened a route along the living spine of an entire mountain range while guild law, lifts, maps, depots, healers, and markets made repeated expeditions possible.
 
-Adventurers arrived from every major culture. Some used the Greathold as a temporary gate; others founded permanent halls, shrines, companies, and neighbourhoods. Dwarven contract law grew around their expeditions centuries before an industrial manager signed it.
+Adventurers arrived from every major culture. Some used the Greathold as a temporary gate; others founded permanent halls, shrines, companies, and neighbourhoods in the Holds nearest the deep routes. Dwarven contract law grew around their expeditions centuries before an industrial manager signed it.
 
 ## Industrial collapse
 

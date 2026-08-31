@@ -7,11 +7,11 @@ Dwarven praise settles on work that survives its maker: a dry gallery, a true al
 
 ## The Greathold
 
-Most dwarves live along [[The Greathold]], the inhabited chain cleared through the dungeon-spine of their mountain range. Streets reuse ancient galleries. Cisterns fill chambers whose first purpose nobody knows. The Deep World continues beneath the paving and sometimes through it.
+Most dwarves live in the Holds of [[The Greathold]]. Each Hold occupies a Vault, an immense dungeon-made chamber or chamber system with its own climate, ecology, and core. Streets reuse ancient galleries. Cisterns fill chambers whose first purpose nobody knows. Routes cut through the mountain spine from one inhabited Vault to the next. The Deep World continues beneath the paving and sometimes through it.
 
 The Greathold's deep gates made dwarven territory the world's principal adventuring threshold long before industrialization. Clearing chambers, securing routes, recording dungeon behaviour, and contracting foreign delvers were ordinary civic capacities before they became industrial advantages.
 
-Industrialization drains dangerous mines, heats homes, keeps food through winter, and moves millions along lit rails. When a minister says the engines cannot simply stop, every warm district gives the argument weight.
+Industrialization drains dangerous mines, heats homes, keeps food through winter, and moves millions along lit rails. When a Hold's lift office says the engines cannot simply stop, every warm district gives the argument weight.
 
 ## Mastership
 

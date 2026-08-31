@@ -28,7 +28,7 @@ Each independent workshop carries one civic seal. Branches, facilities, employee
 
 The workshop stands behind the franchise. Neighbours can inspect its work, trace its mark, ask for an audit, and bring a complaint. Dwarven political thought makes that answerability the price of binding others through a common decision.
 
-A workshop may open sites in several Holds without breeding extra seals. All bear the same name and history. Their furnaces, stores, workers, open orders, and local obligations stay in the Holds where they stand. One Hold keeps the workshop's civic seal on its rolls. Before the seal enters another moot, the Master withdraws it from the old one; votes already cast, complaints already lodged, and bargains already ratified keep their original force.
+A workshop may open sites in several Holds without breeding extra seals. All bear the same name and history. Their furnaces, stores, workers, open orders, and local obligations stay in the Holds where they stand. One Hold, the workshop's civic home, keeps its seal on the rolls. Before the seal enters another moot, the Master withdraws it from the old one; votes already cast, complaints already lodged, and bargains already ratified keep their original force.
 
 Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal.
 
