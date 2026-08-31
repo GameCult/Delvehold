@@ -13,7 +13,7 @@ Cooperative roles emerge from capabilities and equipment rather than mandatory c
 
 Combat is one form of contested delving alongside traversal, hazards, ecological negotiation, rescue, logistics, and discovery. An encounter states its visible affordances, uncertain stakes, opposition, and possible exits. The dungeon owns creatures, routes, traps, and adaptive pressure; a client cannot declare an outcome by describing it.
 
-Exact action timing, damage mathematics, and control schemes remain prototype decisions. Their acceptance test is behavioral: positioning and cooperation matter; retreat remains possible; equipment interacts with the environment; and the result can be represented as persistent injuries, losses, discoveries, resource changes, and dungeon memory.
+Exact combat timing, damage mathematics, movement controls, and equipment actions remain prototype decisions. [[Rune Casting]] owns the committed spell-construction controls. Their shared acceptance test is behavioral: positioning and cooperation matter; retreat remains possible; equipment interacts with the environment; and the result can be represented as persistent injuries, losses, discoveries, resource changes, and dungeon memory.
 
 ## Expedition record
 

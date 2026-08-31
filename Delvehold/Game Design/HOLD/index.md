@@ -7,5 +7,6 @@ HOLD begins with competent hands and grows toward legible automation, specializa
 
 - [[Workshop Play]]
 - [[Runes and Automation]]
+- [[Enchanting and Wands]]
 - [[Production and Logistics]]
 - [[Game Design/HOLD/Civic Play|Civic play]]
