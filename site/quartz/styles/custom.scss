@@ -258,6 +258,23 @@ body[data-slug="index"] {
   }
 }
 
+.delvehold-discord-cta {
+  align-self: flex-start;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.15rem;
+  border: 1px solid #fff;
+  background: #fff;
+  color: #050505;
+  font-family: var(--headerFont);
+  font-weight: 500;
+  line-height: 1;
+
+  &:hover {
+    background: transparent;
+    color: #fff;
+  }
+}
+
 .delvehold-mode-panel {
   display: flex;
   flex-direction: column;
