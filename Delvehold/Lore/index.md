@@ -9,7 +9,7 @@ What surface cultures call a **dungeon** is a local expression of a much larger 
 
 Dwarven industrialization has discovered how to make magic iterative. [[Runic Engineering|Spell engines]] turn crystallized mana into heat, light, transport, fabrication, and safe underground cities. The same achievement has made civilization dependent upon harvesting the living systems beneath it.
 
-At the centre of that history is [[The Greathold]], the dwarven homeland cleared over generations through the living spine of a mountain-range dungeon. Its deep gates made it the world's great adventuring threshold; its inherited delving infrastructure made dwarven industry possible.
+At the centre of that history is [[The Greathold]], a connected civilization of Holds built inside the great Vaults of a mountain-range dungeon. Each Hold has its own institutions, markets, deep gates, and local customs; inherited routes bind them along the living spine. Those gates made the Greathold the world's great adventuring threshold, and the infrastructure around them made dwarven industry possible.
 
 ## Reference shelves
 

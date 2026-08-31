@@ -17,7 +17,7 @@ A goblin community living inside a dungeon keeps its own purposes. That dungeon 
 
 Elven spiritual thought has old words for such nesting. Industrial property law expects a boundary stone, then finds roots and remembered injuries crossing it.
 
-[[The Greathold]] is the setting's largest inhabited example. Dwarven streets occupy cleared dungeon chambers; civic lifts follow old structures; local cores remain active within the mountain-range system. Settlement changed the world-dungeon without leaving it.
+[[The Greathold]] is the setting's largest inhabited example. Each of its Holds occupies a Vault formed and maintained by a local core. Roads, rails, and civic lifts follow older structures between them, while those local cores remain active within the mountain-range system. Settlement changed the world-dungeon without leaving it.
 
 ## Practical consequence
 

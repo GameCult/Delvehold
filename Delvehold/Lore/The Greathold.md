@@ -1,17 +1,25 @@
 ---
 title: The Greathold
-description: The dwarven homeland cleared through the living spine of a mountain-range dungeon.
+description: The connected dwarven Holds built inside the Vaults of a mountain-range dungeon.
 ---
 
 The Greathold occupies the mountain range's dungeon. Its chambers, galleries, shafts, and older structures have been cleared and inhabited over many dwarven generations.
 
-Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where its districts, subsidiary holds, and frontier galleries possess their own governments and identities.
+Some dungeon cores open immense chambers and establish a climate, soil, water cycle, and community of organisms inside them. Dwarves call such a chamber or chamber system a **Vault**. A **Hold** is the inhabited polity built inside one: homes and workshops, delver halls and markets, public works, institutions, and the local customs that govern their life together. The Greathold is the connected civilization of these Holds along the mountain spine.
 
-Government begins near the matter under dispute. A broken lift belongs first to its stranded districts; if the closure blocks the spine, their settlement must gather seals from farther holds. No permanent sovereign centre can issue a Greathold-wide order alone. The [[Mastership and Citizenship|workshop franchise]] supplies the characteristic civic unit.
+Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where individual Holds and frontier galleries possess their own governments and identities.
+
+One Hold may climb terraces around a warm underground sea; another may hang its homes and foundries across bridges in a vented abyss. Routes through older galleries carry freight, travellers, news, and trouble between them. A failed bridge can isolate a Hold more completely than the surface distance suggests.
+
+Government begins near the matter under dispute. A broken lift belongs first to its stranded district. If the closure severs a route between Holds, the affected moots gather more seals and widen the decision. The Greathold has no permanent sovereign centre. Its wider commitments accumulate outward through the [[Mastership and Citizenship|workshop franchise]].
 
 ## Built by delving
 
-Expansion came piecemeal. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
+Expansion came piecemeal. Opening a Vault required survey expeditions, a safe route, provisioning, and some accommodation with its core and biome. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
+
+New Holds still begin this way. A Vault may have existed for millennia before delvers find it. Surveyors learn its core, route crews connect it to food and air, institutions establish public works, and settlers choose to remain. When workshops accept local obligations, the provisioned frontier enters the route books as a Hold.
+
+A failed Hold leaves roads, claims, sealed doors, and a name in the route books. Anyone who settles it again inherits all four.
 
 Delving predates the adventuring profession. It opened homes and roads, managed dangerous dungeon populations, and carried matter through the dungeon's cycles. A settled district still needed formal expeditions into old drains, closed galleries, and newly restless chambers.
 

@@ -27,6 +27,10 @@ Mining and core-farming concerns operating frontier sites. They carry the greate
 
 Theoretical and technical institutions that make industrial progress possible. Their instruments produce the strongest internal evidence for core cognition, and their engineers conduct the argument over publishing it.
 
+### Hold institutions
+
+A winter shortage reaches the institutions of the affected Hold before it reaches the whole Greathold. Lift offices ration freight. Reserve houses release crystal or keep it sealed. Public kitchens change what they serve while delver halls rewrite the contracts offered at the deep gates. Their mandates and stores were assembled through earlier moots, and a new gathering of seals can redirect, starve, privatize, or dismantle them.
+
 ### Guilds and labour
 
 Traditional smiths lose status to mechanized production. Factory and mine workers organize around safety, hours, crystal exposure, industrial disease, automation, and core-farm hazards. Core-farm safety brings some unions into ecological campaigns; others defend expansion as the source of wages and public power.
