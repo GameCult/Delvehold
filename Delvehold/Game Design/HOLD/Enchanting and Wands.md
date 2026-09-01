@@ -1,17 +1,17 @@
 ---
 title: Enchanting and wands
-description: Binding the shared rune language into tools, materials, and persistent workshop artifacts.
+description: Binding explicit runic graphs into tools, materials, and persistent workshop artifacts.
 ---
 
-HOLD enchanting realizes the shared [[Game Design/Shared World/Runic Language|runic language]] in persistent matter. A complete spell sequence can be inscribed directly onto an item and work, but generic inscription usually spends more mana and material than a design fitted to its host.
+HOLD enchanting authors explicit graphs over shared [[Game Design/Shared World/Runic Semantics|runic semantics]]. A straightforward graph equivalent to a common cast can be inscribed directly onto an item and work, but generic inscription usually spends more mana and material than a design fitted to its host.
 
-A wand is a tool that stores a rune graph and activates it repeatedly. Wand names do not imply quality. Two wands carrying the same graph may differ sharply in efficiency, concentration, capacity, stability, and failure behaviour because their runes, conduits, materials, substrates, fabrication, damage, and repairs differ.
+A wand is a tool that stores an explicit persistent effect graph and activates it repeatedly. It does not store a DELVE casting sequence. Wand names do not imply quality. Two wands carrying semantically equivalent graphs may differ sharply in efficiency, concentration, capacity, stability, and failure behaviour because their enchanting runes, conduits, materials, substrates, fabrication, damage, and repairs differ.
 
 An integrated enchantment makes the artifact part of the spell. Weapon geometry can supply concentration or containment; an existing workpiece can receive an attachment without a `Creation` operation allocating a new entity. Auxiliary branches may gather measured waste, redirect it, or feed later operations. They cannot invent mana that the main graph never produced.
 
 ## Compound substrate graph
 
-Enchanting is authored as an abstract hierarchical graph rather than a sword-shaped etching canvas. The artifact is the root. Components such as blade and hilt own nested clusters containing the runes and conduits physically bound to them. Typed edges connect elements within a component or cross component boundaries.
+Enchanting is authored as an abstract hierarchical graph rather than a sword-shaped etching canvas. The artifact is the root. Components such as blade and hilt own nested clusters containing the enchanting runes and conduits physically bound to them. Every enchanting rune exposes typed inputs and outputs. Edges connect those ports within a component or across component boundaries.
 
 ```text
 sword
@@ -22,7 +22,7 @@ sword
 └─ hilt.storage -> blade.containment
 ```
 
-Material, geometry, conduit construction, condition, and fabrication precision belong to authoritative component, node, and edge state. Renderer coordinates do not. Moving a node in the Sugiyama projection changes presentation only.
+Material, geometry, conduit construction, condition, and fabrication precision belong to authoritative component, node, port, and edge state. Renderer coordinates do not. Moving a node in the Sugiyama projection changes presentation only.
 
 Replacing a blade removes the runes and conduits that belong to that blade. Cross-boundary edges become severed or require an explicit rebinding operation; the hilt cannot silently retarget them to a replacement. Repairs, replacements, and reinscription preserve provenance and activation history.
 
@@ -46,7 +46,7 @@ Visible precious material and massive traces suggest investment and possible cap
 
 ## Testing and diagnosis
 
-The enchanting workbench projects the compound graph with collapsible substrate clusters, explicit cross-component edges, construction order, and observed activation receipts. Accessible component trees, connection tables, material ledgers, relational outlines, and timelines expose the same earned facts.
+The enchanting workbench projects the compound graph with collapsible substrate clusters, explicit ports and cross-component edges, edit provenance, and observed activation receipts. Graph topology owns meaning; edit order does not. Accessible component trees, connection tables, material ledgers, relational outlines, and timelines expose the same earned facts.
 
 Basic inspection shows the design the workshop authored, visible workmanship, known materials, as-built measurements, and observed results. Internal flavor, loss, interference, and branch behaviour require sensory enchantments or detection devices with sufficient range, calibration, and resolution. Measurements retain their instrument, activation interval, uncertainty, and target provenance.
 

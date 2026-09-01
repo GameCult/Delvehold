@@ -21,9 +21,11 @@ Encoding moves the practitioner's work. Instead of repeating the gesture at ever
 
 ## The first rune
 
-An apprentice learns null termination before heat, light, levitation, or any other useful effect. Practice produces broken sequences long before it produces reliable spells. The null rune, a right-to-left stroke, closes the active pattern without the larger mana draw used by effect-producing terminators.
+An apprentice learns the null casting rune before heat, light, levitation, or any other useful effect. Practice produces broken sequences long before it produces reliable spells. Its right-to-left stroke closes the active pattern without the larger mana draw used by effect-producing terminators.
 
-Qualified mages carry null in the same learned repertoire as every other rune. Drawing it badly earns no special mercy. Beginners first learn the movement without releasing mana, then practice live termination under supervision.
+Qualified field mages carry null in the same gesture repertoire as every other casting rune. Drawing it badly earns no special mercy. Beginners first learn the movement without releasing mana, then practice live termination under supervision.
+
+Field casting compresses common arrangements into gestures that can be drawn under pressure. An enchanter exposes the corresponding operations as separate runes with visible inputs, outputs, and connections. Both can produce the same semantic effect beneath their different working structures. A field mage may still need an enchanter to lay out its connections, while an enchanter who can route the graph may not know its gesture.
 
 ## Wands and bindings
 

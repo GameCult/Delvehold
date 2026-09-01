@@ -7,7 +7,7 @@ The shared world is not synchronization between clients. It is typed state owned
 
 - [[World State Model]]
 - [[Simulation Architecture]]
-- [[Runic Language]]
+- [[Runic Semantics]]
 - [[Ghostlight Boundary]]
 - [[Game Design/Shared World/Economy and Contracts|Economy and contracts]]
 - [[Game Design/Shared World/World Graph|Vaults and holds]]
