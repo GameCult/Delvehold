@@ -16,5 +16,6 @@ It becomes dangerous after success makes crystal energy, automated infrastructur
 - [[Core Farming]]
 - [[Deep Mining]]
 - [[Machine-Dungeon]]
+- [[Break Burden]]
 
 Spell engines now warm homes, preserve harvests, drain dangerous mines, and put magic within reach of millions. Those uses share crystal supplies with the extraction that made them possible.
