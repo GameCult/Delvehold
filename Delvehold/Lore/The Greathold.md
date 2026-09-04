@@ -33,6 +33,12 @@ Its central roads, lift shafts, cisterns, ventilation trunks, rail corridors, an
 
 The inherited routes placed dwarven settlements closer to the [[Nested Dungeons|deep strata]] than any other major surface civilization.
 
+### Cistern House Nine
+
+*Room-scale elaboration authored for the Ghostlight fixture `cistern-house-nine-breaker-test`.*
+
+Cistern House Nine serves a terrace district beside one Hold's warm underground sea. A street landing opens into a dry rune gallery above the wet intake chamber; a grated stair and hoist connect the two, while a locked conduit arch carries the municipal crystal feed in from the gallery wall. Three pump engines stand behind brass safety rails with their pressure floats and outlet valves visible from the service floor. Each engine has a removable isolation wedge that physically breaks its mana feed and a slate marked with the null rune. At the morning handover, apprentices seat the wedges and rehearse a live null termination before the workshop Master stamps the inspection plate with the workshop's civic seal and opens district flow. The routine makes failures attributable: anyone on the landing can see which engine is isolated, whose seal admits it to service, and whether water has begun climbing the terrace gauges.
+
 ## The adventurer threshold
 
 Long before spell engines, the Greathold drew adventurers from across the world. Its gates offered reliable access to dungeons older, stranger, and richer than most independent delvers could reach elsewhere.
