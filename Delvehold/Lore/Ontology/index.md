@@ -12,5 +12,6 @@ Delvehold's supernatural categories share one underlying process. Mana lets patt
 - [[Nested Dungeons]]
 - [[World-Spirit]]
 - [[Gods and Religion]]
+- [[The Second Answer]]
 
 The model identifies life and agency; it grants neither wisdom nor innocence. Old planetary minds can be cruel. A living civilization can injure the dungeon that contains it. A persistent symbolic organism still receives worship and exercises divine power.
