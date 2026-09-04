@@ -37,4 +37,16 @@ Deep cores extend across regions and geological systems. They may contain awaken
 
 Industrial regulation calls cognition **late-stage core instability** because recognized personhood would make ordinary farming practices politically impossible. The label appears most often in old, diverse cores with long encounter histories and enough territory to alter their own environment: the farms that have had the greatest chance to remember.
 
+### The Answering Cut
+
+*Authored elaboration for the Ghostlight fixture `numen-answering-cut-v0`.*
+
+At Three-Bell Gate, two lift descents below a warm-sea Hold, an old dwarven rite gives a suspected core room to answer a proposed excavation. The gate workshop stops its cutter and direct pump for one shift. A mine priest hangs stone bells at the intended face, a longer alternate gallery, and a sealed rest alcove; each receives crystal, food, and a copy of the proposed route entered on soft slate. Delvers carry the offerings through the core's own chambers, ring each bell, and withdraw. Goblin listeners remain beside the return gate to record changes in breath, water, fungi, and animal movement that a survey wand may miss.
+
+Three consistent answers across three watches earn an entry in the route book. Opening the intended face accepts the cut. Opening or marking the longer gallery proposes another price. Sealing both invokes rest. That last answer suspends the excavation, releases district reserves, and leaves the workshop owing idle crews and every neighbour whose water or heat depended on the expected crystal. The expense is the rite's substance. A route clerk who changes no schedule enters the watch as failed.
+
+Very old cores sometimes grow an answering organ around the bells. Mineral veins, root-fine metal, fungus, and warm stone copy marks left by generations of miners, then rearrange them while witnesses watch. Priests call the growth a throat; Rune College examiners call it a coupled sensor and still copy every stroke. Both return when the core answers a question nobody asked aloud. Awakening happened in the rock before the route book noticed. Recognition begins when the gate keeps the answer.
+
+A running pump, a blocked alternate, or a company guard inside the withdrawal line voids the rite. Deep Companies have staged all three and filed the resulting collapse as instability. Cores that remember such performances may shatter the bells, flood the return gate, or refuse every marked route for a generation.
+
 See [[Core Farming]] for the industry's answer and [[Dungeon Lifecycle]] for the older relationship it attempts to reproduce.
