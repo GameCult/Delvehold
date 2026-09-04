@@ -35,6 +35,16 @@ Directly inscribing a spell onto a sword can work and drink mana. An enchanter c
 
 Large gold-filled channels remain the dependable answer when price and bulk do not matter. Finer work changes material from rune to rune as the mana acquires fire, containment, motion, or some less familiar history. The colours and precious seams became a mark of mastery quickly enough that apprentices began copying them onto unrelated graphs. Some of those pieces are dangerous. Others are expensive ways to warm a handle.
 
+## Colour slips
+
+*Shop-floor elaboration authored for the Ghostlight fixture `patina-colour-slips-v0`.*
+
+Before filling a mixed-metal graph, many Greathold rune shops cut its doubtful junction once on a thumb-length scrap of the same substrate. The scrap carries the proposed channel materials, a null terminator, and enough mana from a crystal shaving to show heat, staining, pitting, or a clean passage. The worker scratches the job mark into its blank edge and wires the spent **colour slip** to the order. Its proof stops with that seam and that small working.
+
+Pump and rail crews commonly bring an accepted slip back with the object at repair time. At the counter, **same slip** names the substrate, channel sequence, fill, and visible rune together. Work whose coloured seams outrun their purpose is called a **market rainbow**. The phrase can admire a showpiece or accuse its maker of charging for metals the mana never needed.
+
+A fresh slip consumes matching stock, traces of every channel fill, a crystal shaving, and several minutes at the bench. Odd substrates and urgent departures make customers press for an old slip to stand in. If the stone, depth, junction, or fill has changed, the old test answers the old job. Skipping the fresh cut saves little beside a finished array that wastes power, pits its housing, or warms the handle instead of casting through it.
+
 ## Displacement
 
 A municipality that replaces utility wizards with one pumping engine still needs rune technicians, but trains them to service that model instead of mastering the wider craft. The old workshop loses its contract; the engine's owner gains a workforce whose knowledge travels poorly. Sales catalogues list continuous operation beside output and fuel cost. Wages, refusal, and guild membership disappear from the calculation.
