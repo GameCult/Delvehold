@@ -39,6 +39,14 @@ The inherited routes placed dwarven settlements closer to the [[Nested Dungeons|
 
 Cistern House Nine serves a terrace district beside one Hold's warm underground sea. A street landing opens into a dry rune gallery above the wet intake chamber; a grated stair and hoist connect the two, while a locked conduit arch carries the municipal crystal feed in from the gallery wall. Three pump engines stand behind brass safety rails with their pressure floats and outlet valves visible from the service floor. Each engine has a removable isolation wedge that physically breaks its mana feed and a slate marked with the null rune. At the morning handover, apprentices seat the wedges and rehearse a live null termination before the workshop Master stamps the inspection plate with the workshop's civic seal and opens district flow. The routine makes failures attributable: anyone on the landing can see which engine is isolated, whose seal admits it to service, and whether water has begun climbing the terrace gauges.
 
+### One shift of reserve
+
+*Active-pressure elaboration authored for the Ghostlight fixture `ember-cistern-house-nine-v0`.*
+
+The upper terrace header holds one working shift of water at ordinary draw. House Nine's operating covenant assumes that two engines can carry the district while the third stands cold for inspection. That margin has vanished: Engine One's lower bearing sleeve is shedding bronze into the common intake screen, Engine Two is isolated after a null test exposed a feed-side reroute, and Engine Three can carry household draw alone only until the bakery and laundry peaks overlap. Fitting the spare sleeve requires draining the wet chamber and stopping all three engines for half a shift.
+
+Running One grinds metal into every intake. Clearing Two without a clean isolation test admits an undocumented mana path. Driving Three through peak draw can uncover its pump foot and hammer the outlet trunk beneath the street landing; a split trunk would flood the lower service floor and take all three engines out for days. The workshop Master can seal a shutdown or a bounded repair, but only a district moot can ration commercial draw across workshops. The house's insurance covenant covers recorded isolation and repair; it refuses damage incurred under an unstamped emergency override. Nine therefore becomes a district dispute before the header runs dry: one shift in which to spend water, craft time, public trust, or the machinery itself.
+
 ## The adventurer threshold
 
 Long before spell engines, the Greathold drew adventurers from across the world. Its gates offered reliable access to dungeons older, stranger, and richer than most independent delvers could reach elsewhere.
