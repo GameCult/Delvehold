@@ -33,3 +33,5 @@ Regulators call this responsible husbandry. Elven campaigners call it **soul pru
 Farm protocols repeat the same threats until the core stops surprising its handlers. Chamber resets erase whatever survives the lesson, and direct harvesters take the yield without entering the [[Dungeon Lifecycle|delving exchange]]. Once memory begins lowering output, destruction is entered on the maintenance calendar.
 
 Core farming supplies the first great wave of industry. Its output also makes demand rise faster than farms can meet, sending the Deep Companies toward [[Deep Mining]].
+
+Oathcairn's [[Charter Cores]] program keeps selected remembering cores alive and recognizes their consent, turning the cognition suppressed elsewhere into industrial political leverage.

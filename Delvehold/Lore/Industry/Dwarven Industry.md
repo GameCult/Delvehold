@@ -23,6 +23,8 @@ Manufacturers of spell engines, standardized rune arrays, and civic systems. The
 
 Mining and core-farming concerns operating frontier sites. They carry the greatest physical risk and advocate the most aggressive expansion.
 
+Oathcairn's [[Charter Cores]] strategy grants selected dungeon minds protected territory and bargaining rights so their local assent can defend continued extraction.
+
 ### Rune Colleges
 
 Theoretical and technical institutions that make industrial progress possible. Their instruments produce the strongest internal evidence for core cognition, and their engineers conduct the argument over publishing it.

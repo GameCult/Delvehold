@@ -22,3 +22,5 @@ Elven spiritual thought has old words for such nesting. Industrial property law 
 ## Practical consequence
 
 A mine lease may enclose the cutting face while the bore intersects tissue serving a wider system. Repeated disturbance travels through mana currents, and distant dungeons begin showing identical changes without a visible tunnel between them. This pattern emerges during the [[Deep Mining|deep-mining crisis]].
+
+The [[Charter Cores|Near Voice Doctrine]] makes this overlap political by treating the closest awakened core as presumptive speaker for a disputed working face.
