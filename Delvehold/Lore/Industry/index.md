@@ -12,6 +12,7 @@ It becomes dangerous after success makes crystal energy, automated infrastructur
 ## Contents
 
 - [[Runic Engineering]]
+- [[Open Work]]
 - [[Dwarven Industry]]
 - [[Core Farming]]
 - [[Deep Mining]]
