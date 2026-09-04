@@ -14,3 +14,4 @@ These pages describe broad institutions and recurring pressures within each peop
 - [[Orcs]]
 - [[Goblins]]
 - [[Halflings]]
+- [[Hearthfasts]]
