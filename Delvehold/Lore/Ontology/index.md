@@ -8,6 +8,7 @@ Delvehold's supernatural categories share one underlying process. Mana lets patt
 ## Contents
 
 - [[Mana and Pattern]]
+- [[Runic Organs]]
 - [[Dungeon Cores]]
 - [[Nested Dungeons]]
 - [[World-Spirit]]
