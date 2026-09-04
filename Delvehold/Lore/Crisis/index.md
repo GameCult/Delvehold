@@ -10,6 +10,7 @@ The deep crisis begins in scattered mine failures and closes into a feedback loo
 - [[Industrial Escalation]]
 - [[Surface Symptoms]]
 - [[International Crisis]]
+- [[The Silt-Crown Receivership]]
 - [[World Without a Villain]]
 
 Mine failures are investigated separately until the same adaptations appear across borders. By then, deep power is embedded in heating, transport, food, and defence.
