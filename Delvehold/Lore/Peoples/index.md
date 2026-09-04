@@ -9,6 +9,7 @@ These pages describe broad institutions and recurring pressures within each peop
 
 - [[Dwarves]]
   - [[Mastership and Citizenship|Mastership and citizenship]]
+  - [[Mortal Charters|Mortal charters]]
 - [[Elves]]
 - [[Humans]]
 - [[Orcs]]
