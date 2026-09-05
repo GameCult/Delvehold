@@ -3,31 +3,30 @@ title: Adventurers
 description: Delvers as ecological participants, economic actors, and embodied interfaces between dungeon and industry.
 ---
 
-Before industrialization, adventurers formed a dangerous but durable exchange between civilization and dungeon ecology. A party entered accumulated danger and left blood, equipment, mana, and new behaviour behind. Survivors carried out crystals, monster products, artefacts, and temporary control of territory.
+Adventurers enter dungeons to recover crystals, monster products, and artefacts, or to gain temporary control of territory. Before industrialization, these expeditions sustained a dangerous but durable exchange between civilization and dungeon life.
 
-Guild ledgers recorded only the salvage side of an exchange that also fed and changed the dungeon.
+A party faced dangers that had accumulated inside the dungeon. It also left things behind: blood, equipment, mana, and unfamiliar behaviour for the dungeon to encounter. Survivors brought salvage home, while their passage fed and changed the place they had entered. Guild ledgers recorded what came out. They did not account for what the expedition gave the dungeon.
 
 ## The Greathold threshold
 
-[[The Greathold]] offered the easiest reliable access to deep dungeons anywhere in the known world. Generations of dwarven clearing had opened a route along the living spine of an entire mountain range while guild law, lifts, maps, depots, healers, and markets made repeated expeditions possible.
+For adventurers seeking deep dungeons, [[The Greathold]] offered the easiest reliable access anywhere in the known world. Generations of dwarves had cleared routes along the living spine of an entire mountain range. Guild law, lifts, maps, depots, healers, and markets supported repeated expeditions through those routes.
 
-Adventurers arrived from every major culture. Some used the Greathold as a temporary gate; others founded permanent halls, shrines, companies, and neighbourhoods in the Holds nearest the deep routes. Dwarven contract law grew around their expeditions centuries before an industrial manager signed it.
+Adventurers came from every major culture. Some passed through on their way below. Others settled in the Holds nearest the deep routes, establishing permanent halls, shrines, companies, and neighbourhoods. Dwarven contract law developed around their expeditions centuries before industrial managers began signing contracts of their own.
 
 ## Industrial collapse
 
-Core farms and standardized dungeon products undercut independent delving. Guilds declined; professional hunters became security contractors; survivors moved into smuggling, mercenary work, exploration, or corporate employment. A machine could harvest in weeks what generations of adventurers would have taken through bounded encounters.
+Core farms and standardized dungeon products undermined the market for independent delving. Machines could harvest in weeks what generations of adventurers would have taken through encounters that limited how much they could remove.
 
-The machine's efficiency came from bypassing the [[Dungeon Lifecycle|delving exchange]]. No frightened party had to choose a route, retreat from a nursery, or leave half the reserve behind.
+Guilds declined. Professional hunters became security contractors, while those who remained found work in smuggling, mercenary service, exploration, or corporate employment.
+
+That industrial efficiency depended on bypassing the [[Dungeon Lifecycle|delving exchange]]. A living party had to make choices under pressure: which route to take, whether to retreat from a nursery, whether to leave half a reserve behind. Machinery could harvest without a frightened party making any of those decisions.
 
 ## The returned profession
 
-As deep systems adapted, delvers became necessary again. They returned as extraction crews, ecological interpreters, emergency responders, and sometimes deniable agents in a conflict nobody wished to name.
+As deep systems adapted, living delvers became necessary again. They returned to extract materials, interpret dungeon ecology, and respond to emergencies. Some also worked as deniable agents in a conflict nobody wished to name.
 
-Modern delving contracts bind the two faces of dwarven society:
+Modern contracts connect the workshops of HOLD with the expeditions of DELVE. Workshops identify what they need, assemble supplies, and offer terms. Parties accept those terms, then renegotiate them in practice as they encounter the dungeon's response.
 
-- HOLD workshops identify needs, assemble supplies, and offer terms;
-- DELVE parties accept, renegotiate in practice, and meet the dungeon's answer;
-- recovered material returns with its route, place, losses, and signs of ecological disturbance;
-- expedition histories teach both future delvers and the cores that survived them.
+What comes back matters beyond the quantity recovered. Materials return with accounts of the route taken, the place they came from, losses suffered, and signs of ecological disturbance. Future delvers learn from these expedition histories. The dungeon cores that survive the encounters learn from them too.
 
-A drill never abandons its quota to carry an injured rival home. The dungeon's old bargain depends on a party being able to do exactly that.
+The party must retain the ability to change its priorities. It may abandon a quota to carry an injured rival home—something a drill never does. The dungeon's old bargain depends on leaving that choice in living hands.
