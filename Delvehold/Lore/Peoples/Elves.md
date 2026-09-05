@@ -3,16 +3,18 @@ title: Elves
 description: Cultures for whom nested ecological personhood has never been a new discovery.
 ---
 
-Elven traditions treat landscapes as nested societies of spirits. A forest has identity; so do its groves, trees, rivers, animal communities, and seasons. Participation in a larger self does not erase the smaller one.
+In elven traditions, a forest can have an identity of its own, as can each grove and tree within it. Rivers, animal communities, and seasons also belong to these societies of spirits. Each smaller being remains itself while taking part in a larger one.
 
-An ecosystem with personhood fits readily inside these traditions. Many elves recognize it in dungeons long before dwarven researchers build instruments they trust.
+This gives many elves a familiar way to understand dungeons: an entire ecosystem can be a person. Many recognize such personhood in dungeons long before dwarven researchers have built instruments those researchers trust. That recognition belongs to elven traditions; it does not settle the dispute for everyone else.
 
 ## The industrial dispute
 
-Elven law can treat a core farm as the mutilation of a juvenile spirit and a deep bore as surgery on a sleeping god. Dwarven manufacturers hear categories broad enough to outlaw any machinery an elven rival dislikes.
+These beliefs affect what elven law allows industry to do. A court can regard a core farm as mutilating a juvenile spirit, or a deep bore as operating on a sleeping god. Dwarven manufacturers object that such categories could cover almost any machinery an elven rival wants prohibited.
 
-Courts use the cognition case to restrain dwarven expansion. Their injunctions can protect juvenile cores while leaving shorter-lived neighbours bound to older, dangerous spirit compacts. Dwarven negotiators make certain that contradiction appears in every trade hearing.
+Elven courts use the case for dungeon cognition to issue injunctions restraining dwarven expansion. Those orders can protect juvenile cores. They can also leave shorter-lived neighbours bound to older, dangerous spirit compacts. Dwarven negotiators bring this contradiction into every trade hearing.
 
 ## Escalation
 
-Elven seers connect surface mutation, mana storms, and distant dungeon activity into one system. Scientific delegations and trade pressure precede sabotage and intervention. Later, roots break into industrial galleries and carry armed defenders with them.
+Elven seers interpret surface mutation, mana storms, and distant dungeon activity as connected parts of one system. The response begins with scientific delegations and trade pressure, then escalates to sabotage and intervention.
+
+Later, roots break into industrial galleries, carrying armed defenders with them.

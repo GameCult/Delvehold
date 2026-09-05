@@ -3,14 +3,14 @@ title: Halflings
 description: Early beneficiaries of industrial magic whose farms become evidence of the spreading crisis.
 ---
 
-Halfling communities are concentrated in fertile agricultural regions and trading settlements. They benefit early and visibly from dwarven industry: enchanted pumps, refrigeration, preservation runes, improved mills, mechanical harvesters, and cheap light.
+Halfling communities are concentrated in fertile farming regions and trading settlements. They are among the first to see everyday benefits from dwarven industry. Enchanted pumps move water, refrigeration and preservation runes keep produce usable, improved mills process crops, mechanical harvesters help gather them, and cheap light becomes available.
 
-Refrigeration keeps grain through a wet summer. Enchanted pumps replace the old hauling gangs, and local workshops buy work once monopolized by distant mages.
+These changes replace familiar burdens. Refrigeration keeps grain through a wet summer. Pumps take over work previously done by hauling gangs. Local workshops win paid work that once went only to distant mages.
 
 ## The turn
 
-Opposition grows when underground instability reaches soil and weather. Mana contamination brings crop mutation, magical pests, livestock abnormalities, untimely storms, and localized ecological collapse.
+Support for industry begins to turn into opposition when instability underground affects the soil and weather above it. Mana contamination mutates crops, brings magical pests, causes abnormalities in livestock and untimely storms, and can leave local ecosystems collapsed.
 
-Agricultural communities are excellent observers of slow environmental change because livelihood depends on remembering what a field did ten years ago. Their records supply politically awkward evidence that deep extraction produces effects far beyond dwarven borders.
+Farming communities are well placed to notice these changes, including those that develop slowly. Their livelihoods depend on remembering how a field behaved ten years ago and comparing it with what grows there now. Their records provide politically awkward evidence: deep extraction has consequences far beyond dwarven borders.
 
-Radical meetings begin when the pump still works but its irrigated field grows glassy weeds. Campaigns demand a different crystal supply and restitution from the mine; few volunteer to restore the hauling gangs.
+The machinery can remain useful while the land it serves deteriorates. Radical meetings begin when a pump still works but the field it irrigates grows glassy weeds. Campaigners demand a different crystal supply and restitution from the mine. Few volunteer to bring back the hauling gangs.
