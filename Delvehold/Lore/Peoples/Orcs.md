@@ -3,12 +3,16 @@ title: Orcs
 description: Peoples whose territorial obligations preserve practical treaties with dangerous local spirits.
 ---
 
-Orcish societies vary widely, but many organize relationships through ancestry, territory, oath, rhythm, and reciprocal obligation. Communities often maintain old agreements with local dungeon systems that outsiders dismiss as monster worship.
+Many orcish communities keep old agreements with local dungeon systems. These agreements govern practical activities: a clan may wait until a species has finished breeding before hunting it, leave particular remains, or undertake a prescribed expedition when a dungeon bloom occurs. The dungeon is a dangerous neighbour, and either side may punish a breach. Outsiders often dismiss these arrangements as monster worship.
 
-A clan may hunt one species only after its breeding season, leave particular remains, or answer a dungeon bloom with a prescribed expedition. The neighbour is dangerous, the agreement practical, and either side may punish a breach.
+Orcish societies vary widely. In many, ancestry and territory help define whom people have obligations to, while oaths, rhythm, and reciprocal duties help organize those relationships. Agreements with dungeons are part of this wider social life.
 
 ## Broken obligations
 
-Industrial expansion crosses agreements absent from its contracts and maps. When deep disturbance drives a protected species into ancestral hunting land, the clan can no longer keep its side of the treaty. Many hold Greathold institutions responsible for breaking obligations that bound surface peoples whether dwarven surveyors knew the terms or not.
+Industrial contracts and maps leave out agreements that expansion may disrupt. A disturbance underground can drive a protected species into ancestral hunting land, leaving a clan unable to fulfil its side of a treaty.
 
-Responses range from demands for reparations and renewed treaty councils to raids, sabotage, and alliances with awakened cores. Some resistance commits atrocities. Dwarven papers bundle independent clans together as terrorists directed by elven interests, obscuring the separate treaties each says was broken.
+Many orcs hold Greathold institutions responsible for these breaches. They regard the obligations as binding on surface peoples whether or not dwarven surveyors knew their terms. From that position, an institution cannot escape responsibility simply because its records contain no agreement.
+
+Clans respond in different ways. Some demand reparations or renewed treaty councils. Others raid, sabotage, or ally with awakened cores. Some resistance commits atrocities.
+
+Dwarven papers portray independent clans as a single body of terrorists directed by elven interests. That account obscures the separate treaties each clan says were broken.
