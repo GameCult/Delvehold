@@ -5,41 +5,45 @@ description: Mana is the medium through which a sufficiently stable pattern beco
 
 ## Mana
 
-Mana is not merely fuel. It is the medium through which **pattern becomes physical**.
+Mana allows a sufficiently stable pattern to produce a physical effect. That pattern might be a spell's symbols, the organization of a living thing, the arrangement of a building, or a social pattern.
 
-Matter tends toward persistence. Mana tends toward organization. Where mana is sparse, ordinary physical behavior dominates. Where it accumulates, a stable symbolic, biological, architectural, or social pattern can impress itself upon reality.
+Matter tends to persist; mana tends to organize. Where mana is sparse, ordinary physical behavior dominates. Where it accumulates, these patterns can begin to shape reality. Mana therefore does more than supply the energy for magic: it is the medium through which a pattern becomes physical.
 
-A traditional spellcaster performs four operations consciously:
+A traditional spellcaster consciously carries out four steps:
 
-1. gathers mana;
-2. establishes a symbolic structure;
-3. stabilizes the intended transformation;
-4. releases the effect.
+1. Gathers mana.
+2. Establishes a symbolic structure.
+3. Stabilizes the transformation they intend to produce.
+4. Releases the effect.
 
-A rune holds the structure without a conscious mind maintaining it. An arrangement of runes can test conditions, trigger other runes, redirect mana, and repeat. This is the bridge from spellcraft to [[Runic Engineering|machinery]].
+A rune holds that structure without needing a conscious mind to maintain it. Connected runes can test conditions, trigger other runes, redirect mana, and repeat operations. Those capabilities make [[Runic Engineering|machinery]] possible.
 
-## Memory in flow
+## How mana carries a spell
 
-Passage through a rune leaves a consequential pattern in the mana that continues onward. Later runes receive that history along with the flow itself. A branch shares everything that happened before the split, then carries its own changes toward the next junction or terminator.
+Mana changes as it passes through a rune. It carries the resulting pattern onward, so each later rune receives mana shaped by what has already happened to it.
 
-A terminator reads the accumulated pattern as a specification and pulls the mana needed to make that effect physical. Clean construction can still spend itself on something useless. Corrupt construction is more dangerous: a terminator may draw a working quantity of mana for a pattern its caster never intended.
+When the flow branches, both branches inherit the history before the split. Each then carries its own further changes toward the next junction or terminator.
 
-Conduits and their materials participate in the history. Gold carries many patterns with little interference; a more selective material may preserve, alter, contain, or waste a particular flow. The same metal can meet different mana at two places in one working.
+A terminator is the part of the working that reads the accumulated pattern and draws enough mana to make the specified effect physical. A correctly constructed sequence can still produce something useless and consume mana doing it. A corrupted sequence poses a greater danger: its terminator may draw enough mana to carry out an effect the caster never intended.
+
+The conduits carrying mana also affect its pattern. Gold carries many patterns with little interference. More selective materials may preserve, alter, contain, or waste a particular flow. Material choice therefore depends on what has already happened to the mana. The same metal at two points in one working can encounter mana with different histories.
 
 ## Mana crystals
 
-Under sustained magical pressure, mana precipitates into stable crystalline form. Mana crystals serve as:
+Sustained magical pressure causes mana to precipitate into stable crystals. Those crystals have several uses:
 
-- fuel and battery;
-- magical reagent;
-- industrial commodity;
-- strategic reserve;
-- ecological nutrient.
+- They supply magical fuel and act as batteries.
+- They serve as magical reagents.
+- Industry trades them as commodities.
+- They can be stockpiled as strategic reserves.
+- They provide nutrients within magical ecologies.
 
-Industrial ledgers value a crystal as fuel, reagent, commodity, and reserve. In a dungeon it may also feed dormant organisms, hold mana through a lean cycle, or seed growth after damage. Traditional delving removes part of that store. Deep machinery can empty in weeks what the surrounding ecology accumulated over centuries.
+Industrial ledgers account for the first four roles. Inside a dungeon, a crystal may also feed dormant organisms, store mana through a lean cycle, or seed new growth after damage.
+
+Traditional delving removes some of this stored mana. Deep machinery can empty the store in weeks, taking what the surrounding ecology accumulated over centuries.
 
 ## The threshold of life
 
-No measured quantity of mana guarantees awakening. The known cases combine durable organization with memory, feedback from their surroundings, and enough complexity to distinguish self from other.
+A lasting magical pattern is not necessarily alive. No measured quantity of mana guarantees awakening. Known cases combine durable organization, memory, feedback from the surroundings, and enough complexity to distinguish self from other. These features describe the known cases; they do not provide a guaranteed recipe.
 
-A spell usually expires when its caster ceases to maintain the completed pattern. A rune continues it; feedback lets a spell engine alter its response; retained encounters may eventually let a [[Dungeon Cores|mature core]] distinguish itself from an intruder.
+The distinction becomes clearer when comparing what different patterns can sustain. A spell usually expires when its caster stops maintaining the completed pattern. A rune can keep the pattern going without that attention. A spell engine that receives feedback can change its response to its surroundings. A [[Dungeon Cores|mature core]] that retains past encounters may eventually distinguish itself from an intruder.

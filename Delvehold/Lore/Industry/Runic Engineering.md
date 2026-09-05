@@ -3,40 +3,48 @@ title: Runic engineering
 description: How iterative runes turned spellcraft into programmable machinery.
 ---
 
-Traditional dwarven runecraft was conservative, durable, and inseparable from architecture, metallurgy, warding, and sacred craft. Its industrial break came when engineers learned that runes could be **iterative**.
+Runic engineering builds machines that perform magic repeatedly: a pump moves water without a wizard casting at every stroke; a furnace holds its temperature through an interconnected set of runes. The breakthrough was learning to make runes **iterative**. One rune could trigger another, the next could test a condition, and another could redirect mana. Engineers could arrange the sequence to repeat.
 
-A rune could trigger another rune. A second could test a condition. A third could redirect mana. A sequence could repeat. Magic became programmable.
+This grew out of traditional dwarven runecraft, a conservative craft built for durability and inseparable from architecture, metallurgy, warding, and sacred work. Iteration gave that craft a new industrial use: magical operations could be programmed into machinery.
 
 ## Spell engines
 
-A spell engine is an interconnected runic system that repeatedly executes magical operations. Primitive engines pump water or hold a furnace at temperature. Mature systems separate ore, maintain mine pressure, propel locomotives, illuminate districts, coordinate wards, fabricate simple objects, and sustain agricultural enchantments.
+A **spell engine** is an interconnected runic system that repeatedly carries out magical operations. Primitive engines pump water or keep furnaces at temperature. Mature systems separate ore, maintain mine pressure, propel locomotives, illuminate districts, coordinate wards, fabricate simple objects, and sustain agricultural enchantments.
 
-Fuel, machinery, logistics, maintenance, capital, and access to [[Mana and Pattern|mana crystals]] replace trained attention as the limits on scale.
+These machines change what limits the scale of magical work. Expansion no longer depends on having enough trained practitioners to attend to each operation. It depends on fuel, machinery, logistics, maintenance, capital, and access to [[Mana and Pattern|mana crystals]].
 
-## The manual origin
+The practitioner's knowledge remains necessary, but its use changes. Every reliable engine begins with a magical gesture that somebody knows how to perform. A mage gathers mana, shapes a transformation, watches how it fails, and tries again. Engineers encode those operations into runes and connect them into a working system.
 
-Every reliable engine begins as a gesture somebody knows how to perform. A mage gathers mana, shapes a transformation, observes failure, and repeats. Engineers encode those operations into runes, then compose the runes into systems.
+Once the engine can repeat the operation, practitioners need not perform the gesture at every furnace or pump. Their work becomes defining what a successful result looks like, diagnosing failures, and revising the runes when a machine meets a case its original instruction did not cover.
 
-Encoding moves the practitioner's work. Instead of repeating the gesture at every furnace or pump, they define its successful result, diagnose failures, and revise the runes when the machine encounters a case the original lesson missed.
+## Learning to stop
 
-## The first rune
+An apprentice learns to end an active magical pattern before learning to produce heat, light, levitation, or any other useful effect. Early practice produces plenty of broken sequences. The first lesson is how to close them.
 
-An apprentice learns null termination before heat, light, levitation, or any other useful effect. Practice produces broken sequences long before it produces reliable spells. The null rune, a right-to-left stroke, closes the active pattern without the larger mana draw used by effect-producing terminators.
+This is **null termination**. The null rune is a right-to-left stroke that closes the active pattern without the larger mana draw required by terminators that produce an effect.
 
-Qualified mages carry null in the same learned repertoire as every other rune. Drawing it badly earns no special mercy. Beginners first learn the movement without releasing mana, then practice live termination under supervision.
+Null is a learned rune like any other. Qualified mages carry it in their repertoire, but its purpose gives a badly drawn version no special protection against failure. Beginners learn the movement without releasing mana, then practise live termination under supervision.
 
-## Wands and bindings
+## Building wands and bindings
 
-A wand stores a rune graph and casts it when activated. The graph is only the beginning of the object. Channels must be cut, filled, joined, and carried through a substrate that changes how neighbouring flows interfere. A clean copy of a famous spell can still make a poor wand.
+A wand stores a connected arrangement of runes—a **rune graph**—and casts it when activated. Copying the graph is only part of making the wand. Its channels must be cut, filled, and joined, and the material carrying them changes how neighbouring mana flows interfere with one another. A faithful copy of a famous spell can still be a poor wand.
 
-Directly inscribing a spell onto a sword can work and drink mana. An enchanter can instead bind runes to the blade and hilt, use the edge to concentrate an effect, route flow across their joint, and recover waste through smaller branches. Replacing the blade takes its inscriptions with it.
+A sword presents similar choices. Inscribing a spell directly onto it can work, and can consume a great deal of mana. An enchanter can instead bind runes to the blade and hilt, concentrate the effect at the edge, route flow across the joint, and recover waste through smaller branches. Those inscriptions belong to the parts that carry them: replacing the blade removes its inscriptions too.
 
-Large gold-filled channels remain the dependable answer when price and bulk do not matter. Finer work changes material from rune to rune as the mana acquires fire, containment, motion, or some less familiar history. The colours and precious seams became a mark of mastery quickly enough that apprentices began copying them onto unrelated graphs. Some of those pieces are dangerous. Others are expensive ways to warm a handle.
+Large, gold-filled channels are dependable when price and bulk do not matter. As mana moves through the runes, it acquires a history of fire, containment, motion, or something less familiar. Finer work changes materials along that path.
 
-## Displacement
+The resulting colours and precious seams quickly became marks of mastery. Apprentices began copying their appearance onto unrelated rune graphs. Some of those pieces are dangerous. Others are expensive ways to warm a handle.
 
-A municipality that replaces utility wizards with one pumping engine still needs rune technicians, but trains them to service that model instead of mastering the wider craft. The old workshop loses its contract; the engine's owner gains a workforce whose knowledge travels poorly. Sales catalogues list continuous operation beside output and fuel cost. Wages, refusal, and guild membership disappear from the calculation.
+## What happens to the workers
+
+When a municipality replaces its utility wizards with a pumping engine, magical maintenance does not disappear. The engine still needs rune technicians. But they are trained to service that particular model rather than to master the wider craft.
+
+The old workshop loses its contract. The engine's owner gains workers whose knowledge is difficult to use elsewhere. This is part of the industrial change alongside the machinery itself: expertise becomes tied to an owner's equipment.
+
+Sales catalogues present continuous operation as a specification beside output and fuel cost. Wages, workers' ability to refuse, and guild membership disappear from that calculation.
 
 ## The awakening risk
 
-An engine is a persistent magical pattern. Networks of them sense demand, route power, remember failures, and schedule their own maintenance. A [[Dungeon Cores|dungeon core]] reaches agency through ecology; the industrial network may reach it along rails and copper runes.
+A spell engine maintains a magical pattern over time. Connect engines into a network, and they can sense demand, route power, remember failures, and schedule their own maintenance.
+
+Those capacities raise a possibility beyond automation. A [[Dungeon Cores|dungeon core]] reaches agency through its ecology. An industrial network may reach agency through machinery spread along rails and copper runes. Whether it can make that passage remains uncertain.

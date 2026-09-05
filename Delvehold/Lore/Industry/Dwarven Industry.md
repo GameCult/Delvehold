@@ -3,38 +3,46 @@ title: Dwarven industry
 description: The institutions, material benefits, and political dependencies of the runic economy.
 ---
 
-Dwarven civilization is unusually prepared for industrial magic. Mining, metallurgy, precision, infrastructure, recordkeeping, and rune craft already carry cultural prestige. Spell engines connect those traditions into a new economy.
+Millions of people now depend on cheap magical power to keep their mines drained, freight moving, food preserved, and districts warm. Spell engines have made ventilation, drainage, heating, light, and food preservation reliable public services. Rune locomotives replace mine carts, and lifts built for adventurers carry industrial freight. Continuous access to the depths lets dwarven settlements grow, while engineering removes dangers once accepted as part of living underground.
 
-Its decisive advantage is [[The Greathold]]. Centuries of dungeon clearing had left deep routes, expedition archives, liftworks, depots, processing districts, contract law, and a global market for dungeon returns. Industry found the road already open and automated the traffic.
+Dwarven industry grew from crafts and institutions that already commanded respect: mining, metallurgy, precision work, infrastructure, recordkeeping, and rune craft. Spell engines brought these traditions together into a new economy.
 
-Mine carts become rune locomotives. Adventurer lifts become freight arteries. Ventilation, drainage, heating, light, and food preservation become reliable public systems. Deep access becomes continuous, the Greathold grows, and dangers once accepted as the price of life below are engineered away.
+The decisive advantage was [[The Greathold]], the connected dwarven Holds along the mountain spine. Centuries of dungeon clearing had supplied deep routes, expedition archives, liftworks, depots, processing districts, contract law, and a global market for goods brought out of dungeons. Industry inherited both the means to reach the depths and an established trade in what came back. It automated that traffic.
 
-## Major interests
+## Who owns, builds, and works it
 
 ### Great Houses
 
-Old clans own land, mineral rights, archives, and ancient infrastructure. Some convert inherited authority into industrial capital; others fear that factories are dissolving the traditions that made their authority meaningful.
+The old clans enter the industrial economy with land, mineral rights, archives, and ancient infrastructure already in their possession. Some use those holdings and their inherited authority to become industrial investors. Others fear that factories are dissolving the traditions on which their authority rests.
 
 ### Forge Consortiums
 
-Manufacturers of spell engines, standardized rune arrays, and civic systems. Their wealth gives them influence over colleges, regulation, and foreign policy.
+Forge Consortiums manufacture spell engines, standardized rune arrays, and the systems used by towns and districts. Their wealth gives them influence over colleges, regulation, and foreign policy.
 
 ### Deep Companies
 
-Mining and core-farming concerns operating frontier sites. They carry the greatest physical risk and advocate the most aggressive expansion.
+Deep Companies run mining and core-farming operations at frontier sites. They face the greatest physical risk among these interests and push hardest for further expansion.
 
 ### Rune Colleges
 
-Theoretical and technical institutions that make industrial progress possible. Their instruments produce the strongest internal evidence for core cognition, and their engineers conduct the argument over publishing it.
-
-### Hold institutions
-
-A winter shortage reaches the institutions of the affected Hold before it reaches the whole Greathold. Lift offices ration freight. Reserve houses release crystal or keep it sealed. Public kitchens change what they serve while delver halls rewrite the contracts offered at the deep gates. Their mandates and stores were assembled through earlier moots, and a new gathering of seals can redirect, starve, privatize, or dismantle them.
+Rune Colleges provide the theory and technical expertise that make industrial progress possible. Their instruments also produce the strongest evidence within the industry for core cognition—the possibility that dungeon cores can think. Their engineers argue over whether to publish that evidence. The question remains disputed.
 
 ### Guilds and labour
 
-Traditional smiths lose status to mechanized production. Factory and mine workers organize around safety, hours, crystal exposure, industrial disease, automation, and core-farm hazards. Core-farm safety brings some unions into ecological campaigns; others defend expansion as the source of wages and public power.
+Mechanized production reduces the standing of traditional smiths. Factory and mine workers organize over safety, working hours, crystal exposure, industrial disease, automation, and the hazards of core farms.
 
-## Dependency
+Those hazards divide labour's response to expansion. Core-farm safety draws some unions into ecological campaigns. Others defend expansion because it provides wages and power for public systems.
 
-Millions now rely on cheap magical power. The same crystal contracts supply mine drainage, freight rail, food stores, and district heat. A core-farm closure reaches all four schedules before the consortium loses a quarter's profit.
+## How a Hold handles a shortage
+
+A winter shortage first becomes a problem for the institutions of the affected Hold, before it becomes a matter for the whole Greathold. Residents encounter it through decisions about freight, reserves, meals, and work.
+
+Lift offices ration freight. Reserve houses decide whether to release crystal or keep it sealed. Public kitchens change what they serve. At the deep gates, delver halls rewrite the contracts they offer.
+
+These institutions received their mandates and stores through earlier moots: gatherings where the Hold's commitments were decided. Those arrangements can be changed. A new gathering of seals can redirect an institution, deprive it of resources, privatize it, or dismantle it. The offices managing a shortage therefore depend on decisions that can also change who controls the response and what resources remain available.
+
+## Dependence on core farms
+
+The same crystal contracts supply mine drainage, freight rail, food stores, and district heat. These services depend on a shared supply even though people encounter them as separate parts of daily life.
+
+Closing a core farm disrupts all four schedules before the consortium loses a quarter's profit. By then, the people relying on drainage, deliveries, preserved food, and warmth are already dealing with the closure.
