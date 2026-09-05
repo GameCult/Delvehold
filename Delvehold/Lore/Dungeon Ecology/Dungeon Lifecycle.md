@@ -3,34 +3,34 @@ title: Dungeon lifecycle
 description: Why dungeons need bounded intrusion, and why industrial machinery must still read as delving.
 ---
 
-Dungeons need to be delved.
+A dungeon needs intruders who enter its chambers, face its defences, and take things away. This contest is part of its lifecycle. Delvers use up stored reserves and bring in matter, mana, and unfamiliar behaviour that help the dungeon develop.
 
-The phrase is frequently mistaken for adventurer superstition or a retrospective justification for theft. It describes a genuine lifecycle process. A core that only accumulates becomes brittle: matter pools without circulating, defensive organisms over-specialize, stored mana loses useful gradients, and the core receives no novel encounter data against which to develop.
+“Dungeons need to be delved” is often dismissed as adventurer superstition or an excuse for theft. The underlying process is real, whether or not the participants understand it. That does not make it safe: delvers and dungeon creatures can die in the exchange.
 
-## The delving exchange
+## What a delve exchanges
 
-A traditional delve gives the dungeon:
+Delvers leave more than damage behind. They bring organic matter, release mana, and introduce weapons, tools, and foreign magical patterns. Their choices give the core new behavioural information. By testing traps, chambers, and creatures, they put pressure on the dungeon to change.
 
-- organic matter and released mana;
-- weapons, tools, and foreign magical patterns;
-- behavioural information;
-- selective pressure on traps, chambers, and creatures;
-- a bounded expenditure that turns stored reserves back into active ecology.
+Defending against them also costs the dungeon reserves. When that expenditure stays bounded, it puts stored resources back into use within the ecology. Successful delvers carry away crystals, monster products, and artefacts, and reduce dangerous population excesses.
 
-Successful delvers remove crystals, monster products, artefacts, and dangerous population excess. Their intrusion spends old reserves, carries new patterns inside, and forces the core to change. Death is possible on both sides, whether or not either understands the exchange.
+A core that only accumulates loses these benefits. Matter pools instead of circulating. Defensive organisms become too specialized, stored mana loses useful gradients, and the core has no novel encounters against which to develop. Its growing reserves can leave it brittle.
 
-## Bounded contest
+## Why the dungeon must be able to resist
 
-The core encounters a traditional delve through its own chambers. Intruders cross a threshold, trigger defences, choose under pressure, and withdraw or are absorbed. The core can raise the danger, divert them, hide a reserve, and remember what worked.
+In a traditional delve, intruders must cross a threshold and pass through the core’s chambers. They trigger defences, make choices under pressure, and eventually withdraw or are absorbed. Along the way, the core can increase the danger, divert them, conceal a reserve, and remember which responses worked.
 
-A bore crosses no chamber before it reaches the reserve. Mana then leaves through a pipe beyond the defenders' reach, while the containment rig pins the response in place. Nothing in that sequence allows the core to divert the intruder or raise the price.
+Those options make the contest bounded: the dungeon can affect what the intruders reach and what reaching it costs.
 
-## Industrial delving
+A bore bypasses the chambers and reaches the reserve directly. Mana flows out through a pipe the defenders cannot reach, while a containment rig holds the dungeon’s response in place. The core has no opportunity to divert the intrusion or make continued extraction more costly.
 
-DELVE/HOLD machinery can equip, transport, measure, and process. The taking itself still sends living agents through contested space, where the dungeon can hide the resource, raise a defence, or make the price too high.
+## What machinery can do
 
-A staged skirmish wrapped around a drainage pipe fools only a young core, and only briefly. The party must face real resistance and retain the power to refuse or retreat.
+In DELVE/HOLD, machinery can equip and transport delvers, measure what they encounter, and process what they recover. Taking resources still requires living agents to enter contested space. The dungeon must be able to hide the resource, defend it, or make the cost of reaching it too high.
 
-## Failure modes
+The resistance must be real, and the party must retain the power to refuse or retreat. Staging a skirmish around a drainage pipe fools only a young core, and only briefly.
 
-Without delving, stored matter and specialized defences can stagnate until the dungeon blooms or forces an encounter outward. Unbounded extraction produces [[Ecological Responses|immune responses]] instead. At depth, either disruption can propagate into [[Nested Dungeons|larger systems]].
+## When the exchange fails
+
+Without delving, stored matter and specialized defences can stagnate until the dungeon blooms or forces an encounter outward. Unbounded extraction causes a different failure: it provokes [[Ecological Responses|immune responses]].
+
+At depth, either disruption can spread into [[Nested Dungeons|larger systems]].

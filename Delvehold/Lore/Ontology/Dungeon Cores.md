@@ -3,38 +3,44 @@ title: Dungeon cores
 description: The drives, development, and uncertain personhood of self-maintaining magical ecologies.
 ---
 
-A dungeon core is a stable concentration of mana that maintains a pattern of self-directed environmental change. The stone or crystal called “the core” is an important organ, not necessarily the whole creature.
+A dungeon core is a stable concentration of mana that changes its environment and sustains those changes through activity of its own. Its chambers, organisms, and defences can develop together into a self-maintaining ecology. The stone or crystal people call “the core” is an important organ; it is not necessarily the whole creature.
 
-## Common drives
+## What young cores do
 
-Young cores consistently attempt to accumulate mana and useful matter, secure territory, build defensible structures, cultivate organisms, remove acute threats, and expand when resources permit.
+Young cores gather mana and useful matter, secure territory, and build structures they can defend. They cultivate organisms, remove immediate threats, and expand when resources allow.
 
-Surface cultures usually call this aggression. At first it is closer to metabolism and immune response. That does not make a young dungeon safe; a hornet nest is innocent of malice and remains a poor place to put one's hand.
+Surface cultures usually understand this behaviour as aggression. In a young core, it is closer to feeding and defending a body against harm. That distinction offers little protection to anyone entering the dungeon. A hornet nest needs no malice to make putting a hand inside it a bad decision.
 
-## Development
+## How cores develop
+
+The differences between stages concern how much a core can regulate, what it remembers, and how it responds to its surroundings.
 
 ### Nascent
 
-Reflexive and compact. Nascent cores form simple chambers, fungi, vermin, slimes, elemental effects, minor undead, and direct traps. They are common near civilization and easy to exploit.
+A nascent core is compact and acts reflexively. It forms simple chambers and direct traps, along with fungi, vermin, slimes, elemental effects, and minor undead. Cores at this stage are common near civilization and easy to exploit.
 
 ### Established
 
-An established core regulates several coupled ecologies. It distinguishes recurring classes of intruder and adapts layouts, creatures, and resource placement accordingly.
+An established core regulates several ecologies that affect one another. It can distinguish recurring kinds of intruder and adjust its layout, creatures, and placement of resources in response.
 
 ### Mature
 
-Persistent memory begins to look like planning. A mature core may keep one species alive through a famine, place treasure where it will alter an adventuring route, or build a false pattern for surveyors to discover.
+A mature core retains memories, and its use of them begins to resemble planning. It may preserve one species through a famine or place treasure where it will change the route adventurers take. It may also construct a misleading pattern for surveyors to discover.
 
 ### Awakened
 
-An awakened core distinguishes itself from its surroundings, although its boundary may include a whole dungeon or exclude parts mortals assume belong to it. Such a core can arrange chambers as speech, admit chosen visitors, hunt neighbours, or shelter them for reasons of its own.
+An awakened core distinguishes itself from its surroundings. Its sense of where it ends may encompass an entire dungeon, or leave out parts that mortals assume belong to it.
+
+It can arrange chambers as a form of speech and choose which visitors to admit. It may hunt its neighbours or shelter them for reasons of its own.
 
 ### Deep
 
-Deep cores extend across regions and geological systems. They may contain awakened sub-cores without experiencing them as entirely separate. Their responses operate across seconds, generations, and tectonic time.
+A deep core extends across regions and geological systems. It may contain awakened sub-cores without experiencing them as wholly separate beings. Its responses can unfold over seconds, generations, and tectonic time.
 
-## Personhood and industry
+## What industry calls cognition
 
-Industrial regulation calls cognition **late-stage core instability** because recognized personhood would make ordinary farming practices politically impossible. The label appears most often in old, diverse cores with long encounter histories and enough territory to alter their own environment: the farms that have had the greatest chance to remember.
+Industrial regulation uses the term **late-stage core instability** for cognition. Recognizing cores as persons would make ordinary farming practices politically impossible, so the regulatory category treats cognition as something going wrong with a farmed core.
 
-See [[Core Farming]] for the industry's answer and [[Dungeon Lifecycle]] for the older relationship it attempts to reproduce.
+The label is applied most often to old cores with diverse ecologies, long histories of encounters, and enough territory to change their own environment. These are the farms whose cores have had the greatest opportunity to remember. Calling their behaviour instability does not settle the question of personhood.
+
+[[Core Farming]] describes how industry handles these cores. [[Dungeon Lifecycle]] explains the older relationship between dungeons and delvers that farming attempts to reproduce.
