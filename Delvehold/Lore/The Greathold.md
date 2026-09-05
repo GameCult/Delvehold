@@ -3,52 +3,60 @@ title: The Greathold
 description: The connected dwarven Holds built inside the Vaults of a mountain-range dungeon.
 ---
 
-The Greathold occupies the mountain range's dungeon. Its chambers, galleries, shafts, and older structures have been cleared and inhabited over many dwarven generations.
+The Greathold is a civilization built inside the dungeon of a mountain range. Over many dwarven generations, delvers have cleared its chambers, galleries, shafts, and older structures for people to inhabit. Most dwarves now live somewhere along this connected chain of settlements.
 
-Some dungeon cores open immense chambers and establish a climate, soil, water cycle, and community of organisms inside them. Dwarves call such a chamber or chamber system a **Vault**. A **Hold** is the inhabited polity built inside one: homes and workshops, delver halls and markets, public works, institutions, and the local customs that govern their life together. The Greathold is the connected civilization of these Holds along the mountain spine.
+The largest settlements occupy **Vaults**: immense chambers or chamber systems where a dungeon core has established a climate, soil, a water cycle, and a community of organisms. Some cores create places of this scale. A **Hold** is the society built inside one, with homes, workshops, delver halls, markets, public works, institutions, and customs for living together.
 
-Most dwarves live somewhere along this immense civic spine. “The Greathold” names the connected whole even where individual Holds and frontier galleries possess their own governments and identities.
+Together, the Holds form the Greathold. Individual Holds and frontier galleries retain their own governments and identities within it. Their surroundings differ sharply: one Hold may rise in terraces around a warm underground sea, while another suspends homes and foundries on bridges across a vented abyss. Older galleries connect them, carrying freight, travellers, news, and trouble. Surface distance says little about how easily neighbours can reach each other. A failed bridge can leave a Hold isolated.
 
-One Hold may climb terraces around a warm underground sea; another may hang its homes and foundries across bridges in a vented abyss. Routes through older galleries carry freight, travellers, news, and trouble between them. A failed bridge can isolate a Hold more completely than the surface distance suggests.
+## Who decides
 
-Government begins near the matter under dispute. A broken lift belongs first to its stranded district. If the closure severs a route between Holds, the affected moots gather more seals and widen the decision. The Greathold has no permanent sovereign centre. Its wider commitments accumulate outward through the [[Mastership and Citizenship|workshop franchise]].
+The Greathold has no permanent sovereign centre. Decisions begin with the people closest to the matter under dispute and widen when the consequences reach others.
 
-## Built by delving
+A stranded district deals first with its broken lift. If that lift also carries a route between Holds, its closure becomes a matter for all the affected communities. Their moots—the assemblies where decisions are made—gather more civic seals as participation expands. Commitments that bind the wider Greathold are built outward through this [[Mastership and Citizenship|workshop franchise]].
 
-Expansion came piecemeal. Opening a Vault required survey expeditions, a safe route, provisioning, and some accommodation with its core and biome. A chamber cleared for settlement still needed its roof shored, its drains defended, and its sealed walls watched for new breeding. Later generations inherited the maintenance with the room.
+## Making a Hold
 
-New Holds still begin this way. A Vault may have existed for millennia before delvers find it. Surveyors learn its core, route crews connect it to food and air, institutions establish public works, and settlers choose to remain. When workshops accept local obligations, the provisioned frontier enters the route books as a Hold.
+Every Hold began with the work of reaching a Vault and making it possible to stay. Expansion proceeded piecemeal: survey expeditions went ahead, crews secured a route, supplies followed, and settlement required some accommodation with the local core and biome.
 
-A failed Hold leaves roads, claims, sealed doors, and a name in the route books. Anyone who settles it again inherits all four.
+Clearing a chamber did not finish the job. Its roof still needed shoring, its drains needed defending, and its sealed walls had to be watched for new breeding. Each generation inherited that maintenance along with the space.
 
-Delving predates the adventuring profession. It opened homes and roads, managed dangerous dungeon populations, and carried matter through the dungeon's cycles. A settled district still needed formal expeditions into old drains, closed galleries, and newly restless chambers.
+New Holds still take shape through this process. A Vault may be millennia old when delvers first find it. Surveyors learn about its core; route crews connect it to food and air; institutions establish public works. Settlers choose to remain. Once workshops accept the local obligations, the provisioned frontier is entered in the route books as a Hold.
 
-Before cutting a new face, miners listened. Exhausted galleries were sealed; the dead were entered in the route book; reopening began with an expedition and an offering. Property offices and engineering colleges inherited these customs as procedure, often after their purpose had been forgotten.
+Failure does not erase a settlement. Its roads, claims, sealed doors, and name remain. Anyone who settles there again inherits all four.
 
-## The spine of the range
+Delving was already necessary long before it became an adventuring profession. It opened homes and roads, controlled dangerous dungeon populations, and moved matter through the dungeon’s cycles. Even settled districts continued to send formal expeditions into old drains, closed galleries, and chambers that had grown restless.
 
-The Greathold follows structures dwarves call the **spine**, a sequence of unusually stable, mana-rich axes through the inhabited mountain range. Roads and buildings follow it, but so do mana flows and the behaviour of local cores.
+The work also left customs. Miners listened before cutting a new face. Exhausted galleries were sealed, and the dead were recorded in the route book. Reopening a gallery began with an expedition and an offering. Property offices and engineering colleges later inherited these practices as procedures, often after their purpose had been forgotten.
 
-Its central roads, lift shafts, cisterns, ventilation trunks, rail corridors, and deep gates occupy or parallel ancient dungeon structures. Local cores branch from the spine like organs or ganglia. Far below, those branches join systems whose extent is measured in regions rather than settlements.
+## The routes beneath the settlements
 
-The inherited routes placed dwarven settlements closer to the [[Nested Dungeons|deep strata]] than any other major surface civilization.
+Dwarves call the structures along which the Greathold developed the **spine**. These are unusually stable, mana-rich axes running through the inhabited mountain range. Roads and buildings follow them, as do mana flows and patterns in the behaviour of local cores.
 
-## The adventurer threshold
+Much of the infrastructure uses paths the dungeon already provided. Central roads, lift shafts, cisterns, ventilation trunks, rail corridors, and deep gates occupy or run alongside ancient structures. Local cores branch from the spine like organs or ganglia. Far below the Holds, those branches connect to systems large enough to be measured in regions rather than settlements.
 
-Long before spell engines, the Greathold drew adventurers from across the world. Its gates offered reliable access to dungeons older, stranger, and richer than most independent delvers could reach elsewhere.
+By inheriting these routes, dwarven settlements gained closer access to the [[Nested Dungeons|deep strata]] than any other major surface civilization.
 
-Foreign guilds established halls and shrines near the deep gates. Markets developed around maps, salvage, monster products, translation, healing, equipment, and expedition finance. Dwarven contract law learned to price uncertain returns because the Greathold had been coordinating dangerous descents for centuries.
+## A way into the depths
 
-The resulting culture was never purely dwarven. Human companies, elven naturalists, orcish treaty-keepers, goblin guides, halfling provisioners, pilgrims, scholars, mercenaries, and professional optimists all left institutions and neighbourhoods along the spine.
+Long before spell engines, adventurers came from across the world to use the Greathold’s deep gates. These offered reliable access to dungeons older, stranger, and richer than most independent delvers could reach elsewhere.
 
-## Industrial advantage
+Foreign guilds built halls and shrines near the gates. Expeditions needed maps, translation, healing, equipment, and finance; they returned with salvage and monster products. Markets grew around all of it. Centuries of coordinating dangerous descents taught dwarven contract law how to price ventures whose returns were uncertain.
 
-Industrialization inherited the world's busiest road into the Deep World.
+The communities that grew along these routes were never purely dwarven. Human companies, elven naturalists, orcish treaty-keepers, goblin guides, halfling provisioners, pilgrims, scholars, mercenaries, and professional optimists all left institutions and neighbourhoods along the spine.
 
-The Greathold already possessed surveyed routes, load-bearing galleries, lifts, depots, workshops, guild law, expedition archives, a specialist labour force, and an international market for dungeon products. Rune power converted that mature delving infrastructure into industrial logistics with frightening ease.
+## From expeditions to industry
 
-The first factories processed adventurer returns, and the first automated lifts served the deep gates. Expedition outfitters became extraction companies. Their new machinery looked like safer dwarven practice until pipes and bores reached reserves no living party had contested. At that scale the [[Dungeon Lifecycle|delving bargain]] failed.
+When industrialization reached the Greathold, the world’s busiest road into the Deep World was already in use.
 
-## An organ with inhabitants
+Surveyed routes, load-bearing galleries, lifts, depots, and workshops were ready to serve it. Guild law and expedition archives supported a specialist labour force and an international market for dungeon products. Rune power made it frighteningly easy to turn this established delving infrastructure into an industrial transport and supply system.
 
-The dwarves made streets through a regional dungeon organism and became part of its life. Their galleries redirect its flows; local cores alter inhabited districts in return. Industry now carries signals, memory, and automatic responses across that old entanglement. The [[Machine-Dungeon|machine-dungeon]] question is whether those connections allow the Greathold to recognize itself.
+The first factories processed what adventurers brought back. The first automated lifts served the deep gates. Businesses that had equipped expeditions became extraction companies.
+
+At first, their machinery looked like a safer continuation of dwarven practice. Then pipes and bores reached reserves that no living party had contested. Extraction on that scale broke the [[Dungeon Lifecycle|delving bargain]].
+
+## The inhabited organism
+
+The dungeon beneath these settlements is a regional organism. By building streets through it, dwarves became part of its life. Their galleries redirect its flows, while local cores alter inhabited districts in return.
+
+Industry now carries signals, memory, and automatic responses through this long-established connection between settlement and dungeon. That raises the [[Machine-Dungeon|machine-dungeon]] question: could these connections allow the Greathold to recognize itself? The connections exist; whether they can support that awareness remains unresolved.

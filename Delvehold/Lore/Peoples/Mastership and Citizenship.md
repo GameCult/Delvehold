@@ -3,52 +3,58 @@ title: Mastership and citizenship
 description: The workshop franchise, apprenticeship passage, and civic adulthood of the Greathold.
 ---
 
-In the Greathold, age alone brings neither civic adulthood nor a vote. A **Master** has established a useful practice, answered for it before neighbours, and founded a workshop capable of carrying a civic seal.
+In the Greathold, the right to vote comes through running an independent workshop. Its owner must first become a **Master**: someone who has demonstrated a useful practice and answered for their work before neighbours. Once the workshop registers a **civic seal**, its Master can use that seal to vote. Reaching a certain age does not, by itself, make someone a civic adult.
 
-The institution is dwarven; the franchise is open. Birth grants no seal. An elf, goblin, human, halfling, or orc who completes the passage and founds a workshop is as Greatholdish in law as any dwarf.
+This institution is dwarven, but people of any ancestry can enter it. Birth grants no seal. An elf, goblin, human, halfling, or orc who completes the passage and founds a workshop is as Greatholdish in law as any dwarf.
 
-## The passage to Mastership
+## Becoming a Master
 
-The expected life passage has six stages:
+The expected passage from childhood to civic adulthood has six stages:
 
-1. **Childhood.** The commons support the child without political obligation.
-2. **Apprenticeship.** The apprentice studies and works under one or several Masters.
-3. **Journeywork.** The developing craftsperson travels between workshops, gathers techniques, and produces work with increasing independence.
-4. **Masterwork.** The candidate demonstrates a durable contribution before a local body of Masters.
-5. **Foundation.** The new Master establishes an independent practice and marks its work under its own name.
-6. **Sealing.** The workshop registers its civic seal and its Master enters the franchise.
+1. **Childhood.** The commons support children, who have no political obligations.
+2. **Apprenticeship.** An apprentice learns and works under one or several Masters.
+3. **Journeywork.** The developing craftsperson moves between workshops, learns different techniques, and takes increasing responsibility for their own work.
+4. **Masterwork.** A local body of Masters examines the candidate's work. The candidate must demonstrate a durable contribution.
+5. **Foundation.** The new Master establishes an independent practice and begins marking its work with its own name.
+6. **Sealing.** The workshop registers its civic seal, giving its Master the right to vote.
 
-A workshop need not be a factory. Forges, kitchens, clinics, archives, rune laboratories, architectural practices, schools, and other independently maintained useful institutions can qualify. The disputed boundary of useful practice is one of the Greathold's oldest recurring arguments.
+“Workshop” covers more than places that manufacture goods. A forge, kitchen, clinic, archive, rune laboratory, architectural practice, or school can qualify, as can other independently maintained useful institutions. What counts as useful practice remains one of the Greathold's oldest recurring arguments.
 
-The commons owe an apprentice food, instruction, tools, examination, appeal, and a real chance to establish an independent practice. Houses have often tried to reserve examinations, guild access, and public contracts for their own children. Greathold law calls that corruption; powerful Houses call it continuity.
+The commons owe apprentices the means to complete this passage: food, instruction, tools, examination, a right of appeal, and a real chance to establish an independent practice. Access is not always as open as the law requires. Houses have often tried to reserve examinations, guild access, and public contracts for their own children. Greathold law calls that corruption; powerful Houses call it continuity.
 
-## The workshop franchise
+## What the civic seal carries
 
-Each independent workshop carries one civic seal. Branches, facilities, employees, and accumulated wealth do not multiply it. A consortium cannot multiply its vote by counting production lines.
+Each independent workshop has one civic seal. More wealth, employees, branches, or facilities do not bring more seals. A consortium cannot count each production line as another vote.
 
-The workshop stands behind the franchise. Neighbours can inspect its work, trace its mark, ask for an audit, and bring a complaint. Dwarven political thought makes that answerability the price of binding others through a common decision.
+The workshop's work must remain open to scrutiny. Neighbours can inspect it, trace its mark, request an audit, and bring a complaint. In dwarven political thought, this is what entitles a Master to take part in decisions that bind other people: the Master must also answer to those people for the practice behind the seal.
 
-A workshop may open sites in several Holds without breeding extra seals. All bear the same name and history. Their furnaces, stores, workers, open orders, and local obligations stay in the Holds where they stand. One Hold, the workshop's civic home, keeps its seal on the rolls. Before the seal enters another moot, the Master withdraws it from the old one; votes already cast, complaints already lodged, and bargains already ratified keep their original force.
+People without a seal still have ways to act politically. Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal themselves.
 
-Apprentices, journeyworkers, unrecognized foreign residents, and most itinerant delvers may petition, organize, refuse work, and influence Masters. They cannot apply a civic seal.
+## Workshops in more than one Hold
 
-## A distributed civic body
+A workshop can operate in several Holds, but all its sites share one name, one history, and one seal. Its furnaces, stores, workers, open orders, and local obligations remain in the Holds where they stand.
 
-Jurisdiction expands with the dispute. A gate circle handles passage until a closure cuts off neighbouring districts; those districts then bring their workshops and hearths into the moot. Greathold-wide commitments gather seals outward through the same process.
+Only one Hold records the seal on its civic rolls. This is the workshop's **civic home**. To bring the seal into another Hold's moot, or decision-making assembly, the Master must first withdraw it from the old one. Moving the seal does not undo earlier business: votes already cast, complaints already lodged, and bargains already ratified retain their original force.
 
-Many Masters attend only when a proposal reaches their workshop. Others spend years publishing arguments and gathering seals across the spine. No office can compel constant participation, and absences shape which moots actually decide.
+This leaves a recurring question for workshops with several sites: how much say should they have in the Holds where they work but do not keep their seal?
+
+## Who joins a decision
+
+The people involved in a decision expand as its consequences spread. A gate circle can handle passage through its gate. If closing that gate cuts off neighbouring districts, those districts bring their workshops and hearths into the moot. Commitments affecting the whole Greathold gather seals through the same process, reaching outward as more communities become involved.
+
+Participation varies. Many Masters attend only when a proposal affects their workshop. Others spend years publishing arguments and gathering seals across the mountain spine. No office can require Masters to participate constantly. Who stays away therefore helps determine which moots actually make decisions.
 
 See [[Game Design/HOLD/Civic Play|Civic play]] for the player-facing form of this political structure.
 
 ## Fault lines
 
-The franchise gives workshop owners political standing and withholds the seal from everyone else. Its live disputes include:
+Workshop owners hold the seals; everyone else must exercise influence without them. Disputes over who can become a Master, and what a workshop owes its neighbours, remain active:
 
-- whether a delving company or ecological practice can qualify as a workshop;
-- whether industrial automation is destroying ordinary paths to Mastership;
-- whether foreign credentials are being examined or merely excluded;
-- whether apprentices are being taught or retained as cheap labour;
-- when a dormant workshop may resume the franchise or change its civic home;
-- how much voice a workshop operating sites outside its civic home should have in their host Holds;
-- whether a sapient spell engine could produce a Masterwork;
-- whether a dungeon core could.
+- Can a delving company or an ecological practice qualify as a workshop?
+- Is industrial automation destroying the ordinary paths to Mastership?
+- Are foreign credentials receiving a fair examination, or being excluded?
+- Are apprentices being taught, or kept as cheap labour?
+- When may a dormant workshop resume voting or change its civic home?
+- How much voice should a workshop have in the Holds that host its sites outside its civic home?
+- Could a sapient spell engine produce a Masterwork?
+- Could a dungeon core?
