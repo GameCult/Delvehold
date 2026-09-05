@@ -3,25 +3,29 @@ title: Industrial escalation
 description: The optimization loop that converts successful production into deeper ecological conflict.
 ---
 
-Industrial society answers scarcity through efficiency and expansion. In ordinary circumstances this produces abundance. In the Deep World it also increases the scale and precision of injury.
+Industrial society uses more efficient machinery and expanded production to meet shortages. Under ordinary conditions, this creates abundance. In the Deep World, it also lets industry reach deeper and injure dungeon ecosystems on a larger scale and with greater precision.
 
-The loop is simple:
+Each successful improvement makes further expansion possible. A pump makes a deeper seam workable. Its output pays for rail, and the rail makes the next seam profitable. But deeper mining also provokes stronger ecological responses. Defending the workings and replacing damaged infrastructure then consumes more of the resources industry went underground to obtain.
 
-1. automation increases mana demand;
-2. demand makes deeper mining profitable;
-3. deep disturbance produces stronger ecological responses;
-4. responses require defences and replacement infrastructure;
-5. defence consumes more industrial output and mana;
-6. the larger system requires still deeper supply.
+The cycle feeds itself:
 
-A pump makes a deeper seam workable. The new output pays for rail, and rail makes the next seam profitable.
+1. Automation raises mana demand.
+2. Higher demand makes deeper mining profitable.
+3. Disturbance at greater depths provokes stronger ecological responses.
+4. Those responses create a need for defences and replacement infrastructure.
+5. Building and running those defences consumes more industrial output and mana.
+6. Supplying the enlarged system requires mining still deeper.
 
-## Institutional reinforcement
+## How institutions keep the cycle moving
 
-A failed ward produces an order for a stronger one. The order drains crystal stock; procurement opens another site; guards follow when creatures strike its supply line. By the time the affected moots compare the reports, contracts are signed and crews are below.
+When a ward fails, someone orders a stronger one. Filling that order drains the available crystal stock, so procurement opens another extraction site. When creatures strike the site's supply line, guards follow.
 
-Surveys are falsified and findings buried. Honest reports still begin from the premise that the pumps must remain on.
+These decisions accumulate faster than the affected moots can assess them together. By the time the moots compare reports, contracts have been signed and crews are already underground.
 
-## The transition
+Some surveys are falsified, and some findings are buried. Even honest reports start from the assumption that the pumps must stay on. That leaves continued operation as the starting point for deciding how to respond to the damage.
 
-At first the loop can plausibly be managed through safer sites and better contracts. Later, industrial civilization and dungeon ecology adapt directly to one another. [[Machine-Dungeon|The Greathold's network]] changes its casings and patrols; the [[World-Spirit|world]] answers with new burrowers before the machinery's loan is repaid.
+## When managing sites is no longer enough
+
+Early in the cycle, safer sites and better contracts can plausibly keep the problem manageable. Later, industrial civilization and dungeon ecology begin adapting directly to each other.
+
+[[Machine-Dungeon|The Greathold's network]] changes its casings and patrols in response to the danger. The [[World-Spirit|world]] answers with new burrowers before the loan on the machinery has been repaid. Industry is still paying for one adaptation when it has to respond to the next.
