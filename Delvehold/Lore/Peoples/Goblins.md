@@ -3,16 +3,18 @@ title: Goblins
 description: Liminal dungeon communities with practical knowledge industrial engineering repeatedly underestimates.
 ---
 
-Goblins commonly inhabit active dungeons without being wholly controlled by them. Their communities consume waste, move material, cultivate fungi, manage dangerous parasites, repair passages, and redistribute magical objects. These relationships can be exploitative, negotiated, symbiotic, or several at once.
+Goblins commonly live in active dungeons, where they maintain communities without coming wholly under the dungeon's control. They consume waste, move material, cultivate fungi, manage dangerous parasites, repair passages, and redistribute magical objects. Their relationship with a dungeon varies: it may involve exploitation, negotiation, mutual benefit, or several of these at once.
 
-Scholars compare goblins to a dungeon's microbial ecology. Goblins generally consider the comparison insulting, especially when delivered by someone who has never survived a moult season.
+Scholars compare goblins to a dungeon's microbial ecology. Goblins generally find this insulting, especially when the scholar making the comparison has never survived a moult season.
 
-## Displacement
+## Knowing a dungeon
 
-Core farms erase or enclose goblin habitat. Deep Companies treat occupied chambers as infestations or unauthorized settlements. Displacement initially attracts little geopolitical concern because goblin testimony is not admitted to the institutions making extraction policy.
+Generations of underground life give goblin communities exceptional practical knowledge. They understand core moods and mana cycles, know safe routes and monster migration patterns, and recognize structural warning signs. They can also read architectural intent: what a dungeon's arrangement is trying to do. Goblin observers often notice that a dungeon is changing long before a runic survey produces a report.
 
-## Practical intelligence
+## Displacement and sabotage
 
-Generations underground produce exceptional knowledge of core moods, safe routes, mana cycles, monster migration, structural warning signs, and architectural intent. Goblin observers often know a dungeon is changing long before a runic survey produces a report.
+Core farms destroy goblin habitat or enclose it within their operations. Deep Companies classify occupied goblin chambers as infestations or unauthorized settlements. Goblins cannot get their testimony admitted to the institutions that decide extraction policy, and their displacement initially attracts little geopolitical concern.
 
-That knowledge makes later sabotage precise. Some networks feed information to dungeon defenders, redirect monsters through industrial sites, or teach cores how standardized machinery fails. Company reports describe the result as coordinated monster attack and omit the goblin logistics that selected the targets.
+The same knowledge that helps goblins survive underground makes later sabotage precise. Some goblin networks supply information to dungeon defenders. Some redirect monsters through industrial sites or teach cores how standardized machinery fails.
+
+Company reports describe the resulting damage as coordinated monster attack. They leave out the goblin logistics that determined which targets would be hit.
