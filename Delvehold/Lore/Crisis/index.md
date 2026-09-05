@@ -3,7 +3,9 @@ title: The deep crisis
 description: Industrial extraction becomes ecological response, political conflict, and ontological recognition.
 ---
 
-The deep crisis begins in scattered mine failures and closes into a feedback loop: energy demand drives expansion, dungeons adapt, public defence consumes more power, and foreign intervention hardens every side.
+The deep crisis is a worsening conflict between industrial energy extraction and dungeon ecology. It first appears as scattered mine failures, investigated separately until the same dungeon adaptations appear across borders. By then, heating, transport, food, and defence depend on deep power.
+
+That dependence keeps the crisis growing. Energy demand drives mining expansion, dungeons adapt to the disturbance, and defending the public consumes more power. Meeting that demand requires further expansion. As the damage spreads, foreign powers intervene, hardening positions on every side.
 
 ## Contents
 
@@ -11,5 +13,3 @@ The deep crisis begins in scattered mine failures and closes into a feedback loo
 - [[Surface Symptoms]]
 - [[International Crisis]]
 - [[World Without a Villain]]
-
-Mine failures are investigated separately until the same adaptations appear across borders. By then, deep power is embedded in heating, transport, food, and defence.
