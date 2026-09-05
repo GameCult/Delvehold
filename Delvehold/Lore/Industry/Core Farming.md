@@ -3,33 +3,37 @@ title: Core farming
 description: The controlled cultivation of juvenile dungeons and the deliberate prevention of awakening.
 ---
 
-Core farming begins when dwarven researchers learn to induce juvenile cores to produce useful matter inside controlled territory.
+A core farm raises juvenile dungeons to produce materials for harvest. The practice begins when dwarven researchers learn to induce young cores to make useful matter within a controlled territory.
 
-A farm supplies mana, stone, organic material, calibrated hazards, and room to form simple ecologies. Engineers harvest crystals, rare ores, alchemical compounds, monster tissues, enchantment substrates, and artefacts. The dungeon becomes livestock.
+Farmers supply mana, stone, organic material, calibrated hazards, and enough space for simple ecologies to develop. Engineers harvest crystals, rare ores, alchemical compounds, monster tissues, enchantment substrates, and artefacts. The dungeon is treated as livestock: fed, bred for useful traits, and managed to keep its output predictable.
 
-## Industrial breeds
+## Breeding for production
 
-Farmers select for cores that are fast-growing, predictable, spatially compact, highly productive, minimally aggressive, and slow to develop complex cognition. Strains specialize in crystals, biological products, elemental output, or unusual ores.
+Farmers select cores that grow quickly, occupy little space, produce high yields, and show little aggression. They also favour predictable behaviour and slow development of complex cognition. Specialized strains produce crystals, biological products, elemental output, or unusual ores.
 
-The youngest lines respond no more subtly than livestock. Breeders still cull any strain that remembers a handler, changes its yield after punishment, or grows difficult to divide. The farm register calls those traits poor husbandry.
+The youngest lines respond no more subtly than livestock. Even so, breeders cull any strain that remembers a handler, changes its yield after punishment, or becomes difficult to divide. In the farm register, these are signs of poor husbandry.
 
-## Late-stage instability
+## What happens as a core grows older
 
-Older cores hide output, rearrange chambers, redirect creatures, sabotage equipment, manipulate workers, or attempt escape. Incident forms provide boxes for instability, contamination, and worker error. There is no box for refusal.
+Older cores become harder to control. They hide output, rearrange chambers, redirect creatures, sabotage equipment, manipulate workers, or attempt escape.
 
-Management methods include:
+Farm incident forms classify these events as instability, contamination, or worker error. They provide no category for refusal. That distinction matters to how the farm records the event; the forms do not settle what the core is experiencing.
 
-- chamber resets and ecological simplification;
-- periodic memory disruption;
-- core splitting;
-- behavioural conditioning;
-- mana deprivation;
-- destruction before maturity.
+Management uses several methods to retain control:
 
-Regulators call this responsible husbandry. Elven campaigners call it **soul pruning**.
+- resetting chambers and simplifying their ecologies;
+- periodically disrupting memory;
+- splitting cores;
+- conditioning behaviour;
+- depriving cores of mana;
+- destroying cores before they mature.
 
-## The lifecycle problem
+Regulators describe these practices as responsible husbandry. Elven campaigners call them **soul pruning**.
 
-Farm protocols repeat the same threats until the core stops surprising its handlers. Chamber resets erase whatever survives the lesson, and direct harvesters take the yield without entering the [[Dungeon Lifecycle|delving exchange]]. Once memory begins lowering output, destruction is entered on the maintenance calendar.
+## Harvesting without the exchange
 
-Core farming supplies the first great wave of industry. Its output also makes demand rise faster than farms can meet, sending the Deep Companies toward [[Deep Mining]].
+A dungeon normally develops through the [[Dungeon Lifecycle|delving exchange]]: living intruders enter its chambers, encounter its defences, and take resources under conditions the dungeon can contest. Their intrusion brings matter, mana, unfamiliar tools and magical patterns, and new behavioural information. It also forces the dungeon to spend reserves and adapt.
+
+Farm protocols restrict that exchange. They repeat the same threats until the core stops surprising its handlers, then reset chambers to erase whatever survives the lesson. Direct harvesters take the yield without entering the delving exchange at all. Once memory begins to reduce output, the farm schedules the core’s destruction as maintenance.
+
+Core farming supplies the first great wave of industry. That supply supports demand which then grows faster than the farms can meet it, sending the Deep Companies toward [[Deep Mining]].

@@ -3,24 +3,30 @@ title: Deep mining
 description: Industrial excavation into connected dungeon systems larger than any local core.
 ---
 
-Core farming expands mana supply. Spell engines expand demand faster.
+Deep mining extends industrial excavation below ordinary dungeon strata in pursuit of richer crystal deposits. Core farming increases the mana supply, but spell engines increase demand faster.
 
-The Greathold makes the next step appear deceptively incremental. Its oldest gates already descend along the spine of the mountain-range dungeon, and generations of adventurers have returned evidence of richer systems below. Deep Companies begin by extending known routes, replacing expedition logistics with continuous industrial throughput.
+The Greathold gives the Deep Companies routes to follow. Its oldest gates already descend along the spine of the mountain-range dungeon, and generations of adventurers have brought back evidence of richer systems below. Companies begin by extending those known routes. Where expeditions once carried people and supplies in and brought their findings out, companies establish a continuous flow of workers, equipment, and extracted material. From there, going deeper can look like more of the same work.
 
-Deep Companies follow richer crystal pressures below ordinary dungeon strata and discover structures no local core could plausibly have built: geometric tunnels hundreds of miles long, chambers that regenerate after destruction, species appearing simultaneously in distant workings, and survey patterns resembling nerve impulses.
+Following richer crystal pressures, the miners encounter structures no local core could plausibly have built. Geometric tunnels run for hundreds of miles. Destroyed chambers regenerate. The same species appear simultaneously in distant workings. Survey patterns resemble nerve impulses.
 
-The mines have entered [[Nested Dungeons|larger organisms]].
+The mines have entered [[Nested Dungeons|larger organisms]]: connected dungeon systems in which local cores participate. That is what exists beneath the workings; it is not an explanation the industrial institutions have accepted.
 
 ## The engineering interpretation
 
-Industrial institutions treat each discovery as a harder version of a familiar problem. Surveyors redraw the unknown geometry. Regrown stone sends the cutters back with heavier heads; coordinated fauna brings guards; a retreating vein shortens the extraction schedule. The budget turns every discovery into another purchase order.
+Surveyors and engineers respond with the tools and procedures they already know. Unknown geometry requires new maps. Regrown stone requires heavier cutter heads. Coordinated fauna requires guards. When a vein retreats, crews get a shorter extraction schedule.
+
+Each discovery becomes a harder engineering problem, with another purchase order attached. Industry can keep responding this way without accepting that the workings extend through a larger organism.
 
 ## Distributed injury
 
-At depth, a bore may sever a conduit serving another valley, drain a reserve held for a distant bloom, or pulse its rune sequence through an entire mountain range. An assessor standing beside the drill sees only the nearest wound.
+A drill can damage parts of that organism far beyond the mine. A bore may sever a conduit serving another valley or drain a reserve held for a distant bloom. Its rune sequence may pulse through an entire mountain range. An assessor beside the drill can see only the nearest wound.
 
-The first coordinated [[Ecological Responses|responses]] appear across mines hundreds of kilometres apart. Cave systems seal in the same week. Deposits retreat ahead of scheduled crews. Creatures pass homes untouched to reach substations built from the same plans.
+The first coordinated [[Ecological Responses|responses]] occur at mines hundreds of kilometres apart. Cave systems seal during the same week. Deposits retreat ahead of scheduled crews. Creatures pass homes without touching them to reach substations built from the same plans.
+
+These distant events make the limits of a local assessment harder to ignore. What happens at one cutting face cannot be understood solely by inspecting that mine.
 
 ## Political lock-in
 
-By the time the pattern survives official doubt, shallow crystal can no longer run the installed machinery. A closure order cuts power from pumps, trains, furnaces, and weapons before it stops the drill.
+By the time the coordinated pattern has withstood official doubt, industry depends on the deeper supply. Shallow crystal can no longer run the machinery already installed.
+
+Closing the mines therefore cuts power to pumps, trains, furnaces, and weapons before it stops the drill. The decision reaches everyone relying on those systems, even while the nature of what the mines have entered remains disputed.
