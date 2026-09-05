@@ -3,13 +3,19 @@ title: Lore
 description: A reference to the Deep World, its peoples, and the industrial crisis unfolding between them.
 ---
 
-The world is not built upon dungeons. The world is made of them.
+In DELVE/HOLD, dungeons are living magical systems, and together they make up the world itself. What surface cultures call a **dungeon** is a local part of that larger ecology: matter and mana organized around a [[Dungeon Cores|core]], with instincts and memory of its own.
 
-What surface cultures call a **dungeon** is a local expression of a much larger magical ecology: matter, mana, instinct, and memory organized around a [[Dungeon Cores|core]]. A young core behaves like an organ. An old core remembers. An ancient one may become a person, a polity, a god, or something for which those categories are parochial guesses.
+A young core functions like an organ. As it ages, it develops memory. An ancient core may become a person, a polity, a god, or something those categories cannot adequately describe.
 
-Dwarven industrialization has discovered how to make magic iterative. [[Runic Engineering|Spell engines]] turn crystallized mana into heat, light, transport, fabrication, and safe underground cities. The same achievement has made civilization dependent upon harvesting the living systems beneath it.
+This is the setting's underlying reality, not common knowledge among its inhabitants. Whether dungeons are sentient remains a contentious fringe academic debate. The possibility that industrial systems might awaken is more marginal still.
 
-At the centre of that history is [[The Greathold]], a connected civilization of Holds built inside the great Vaults of a mountain-range dungeon. Each Hold has its own institutions, markets, deep gates, and local customs; inherited routes bind them along the living spine. Those gates made the Greathold the world's great adventuring threshold, and the infrastructure around them made dwarven industry possible.
+## Dungeons and industry
+
+Dwarven engineers learned to make magical operations repeat and build on one another. Their [[Runic Engineering|spell engines]] use crystallized mana to provide heat, light, transport, fabrication, and safe underground cities. These benefits have made civilization dependent on harvesting the living systems beneath it.
+
+[[The Greathold]] sits at the centre of this history. It is a connected civilization built inside the great **Vaults**, immense chambers and chamber systems within a mountain-range dungeon. Each inhabited **Hold** has its own institutions, markets, deep gates, and local customs. Inherited routes connect the Holds along the dungeon's living spine.
+
+Long before industrialization, those gates made the Greathold the world's great point of access for adventurers entering the depths. The routes and infrastructure built around that access later made dwarven industry possible.
 
 ## Reference shelves
 
@@ -23,10 +29,16 @@ At the centre of that history is [[The Greathold]], a connected civilization of 
 
 > Sufficiently persistent magical organization becomes alive.
 
-A spell is a temporary pattern. A rune is a persistent spell. A spell engine is a system of persistent patterns. A core is a self-maintaining pattern. Gods, ecosystems, and civilizations are larger patterns sustained through different media. With enough mana, continuity, complexity, and feedback, any of them can cross into agency.
+A spell briefly organizes magic into a pattern. A rune keeps a spell's pattern in place. A spell engine combines persistent patterns into a working system, while a core maintains its own pattern.
 
-The distinctions between machine, organism, spirit, dungeon, god, and civilization remain useful. They were never absolute.
+Gods, ecosystems, and civilizations also consist of larger patterns, sustained through different media. Any of these can develop agency—the capacity to act for itself—given enough mana, continuity, complexity, and feedback.
+
+The categories still help describe what something is and how it behaves. A machine, organism, spirit, dungeon, god, and civilization have meaningful differences, but the boundaries between them have never been absolute.
 
 ## What the world knows
 
-No equivalent reference exists inside the world. A mine report describing adaptive geomantic feedback may reach an elven archive as evidence of injury and an orcish council as evidence of a broken treaty. Goblin guides may have stopped using the tunnel weeks before the report was written because it was “in a mood.” They share an event without sharing its explanation.
+The people of this world have no reference that brings these explanations together. They can encounter the same event and understand it in very different ways.
+
+A mine report might describe “adaptive geomantic feedback”: a technical account of changes in the mine's magical geology. An elven archive may receive that report as evidence of injury. An orcish council may read it as evidence that a treaty has been broken. Goblin guides may already have avoided the tunnel for weeks before anyone wrote the report, saying it was “in a mood.”
+
+The event is shared. Its explanation is not.
