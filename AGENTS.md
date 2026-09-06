@@ -36,3 +36,11 @@
 - Lore canon lives in claims, relationships, chronology, links, and ownership. Existing sentences are replaceable projections; preserve canon through a fact audit, not by protecting wording.
 - Accept prose only after full-page reading for voice, rhythm, specificity, continuity, and trust in the reader. Pattern counts can locate pressure but cannot demonstrate quality.
 - Commit `15863a7` is rejected prose evidence. Its sentence-local substitutions reduced surface markers while preserving viewpoint chorus, repeated frames, explanatory cadence, and authorial distance. Do not use its replacement passages as positive examples.
+
+## Reader calibration
+
+- Calibration drifts upward across passes and never downward, because writing above a reader reads as respect and writing below them reads as condescension. Each pass inherits the last one's ceiling. Assume drift is happening rather than waiting for a reader to report it.
+- Prose is legible to precisely the reader it was tuned for, which is whoever wrote it. Rereading cannot detect over-calibration; only a read without authorial context can. Perform the full-page read as someone arriving cold, with no knowledge of the pass that produced the page.
+- Completeness is not legibility. A breach compresses rather than omits: an argument folded into a named term is fully present and expandable only by someone who already holds it. Ask whether context is stated or merely named.
+- Restatement after an abstraction is error correction, not padding. Cutting it feels like tightening and removes the reader's recovery path.
+- The failure is silent. A newcomer understands every sentence while nothing accumulates, and names that feel weighty to us stay inert for them. That produces no complaint, so absence of complaint is not evidence.
