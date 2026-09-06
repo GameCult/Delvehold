@@ -13,7 +13,7 @@ The game is for players who enjoy cooperative PvE, expressive preparation, autom
 
 ## Product shape
 
-- One Godot C# client projects both embodied dungeon expeditions and workshop, neighborhood, contract, news, and civic play.
+- One Godot C# client projects both embodied dungeon expeditions and workshop, Hold, contract, news, and civic play.
 - One central C# world host owns the canonical Delvehold simulation. Changing modes changes presentation and available interaction, not world authority.
 - CultMesh carries typed state and capabilities from their owning world organs.
 - One canonical world history survives player absence. There are no seasonal wipes used to repair inflation or erase consequence.

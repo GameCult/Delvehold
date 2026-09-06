@@ -10,7 +10,7 @@ DELVE/HOLD is one persistent game presented through two modes. This section is t
 - **[[Game Design/Foundations/index|Foundations]]** — overview, pillars, roles, joined loop, progression, and the first playable proof.
 - **[[Game Design/DELVE/index|DELVE]]** — expeditions, living dungeon generation, encounters, extraction, preparation, and recovery.
 - **[[Game Design/HOLD/index|HOLD]]** — workshop practice, runes, automation, production, logistics, and civic stewardship.
-- **[[Game Design/Shared World/index|Shared world]]** — canonical state, simulation ownership, Ghostlight, economy, contracts, graph, signals, time, and persistence.
+- **[[Game Design/Shared World/index|Shared world]]** — canonical state, simulation ownership, Ghostlight, economy, contracts, Vaults, Holds, signals, time, and persistence.
 - **[[Game Design/Narrative and Validation/index|Narrative and validation]]** — revelation, crisis progression, and acceptance criteria.
 
 ## Design status

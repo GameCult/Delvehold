@@ -11,13 +11,23 @@ A HOLD player can store, craft, automate, commission, deliberate, vote, and publ
 
 ## Economic transmission
 
-Geopolitical change propagates through ordinary work before it resolves into a named historical event. If a civilization stops importing dwarven machinery as the [[International Crisis|international crisis]] approaches, workshop managers first encounter a price shock. Lost export demand changes margins and inventories. Buyers, suppliers, and neighbouring workshops then redirect capacity toward other markets, substitutes, stockpiles, transport, weapons, and strategic dungeon materials.
+Geopolitical change propagates through ordinary work before it resolves into a named historical event. If a civilization stops importing dwarven machinery as the [[International Crisis|international crisis]] approaches, workshop managers first encounter a price shock. Lost export demand changes margins and inventories. Buyers, suppliers, active workshops, and institutions then redirect capacity toward other markets, substitutes, stockpiles, transport, weapons, and strategic dungeon materials.
 
 The same disturbance reaches DELVE as altered contract volume, equipment shortages, replacement costs, route closures, hazard pay, requisitions, and growing demand for particular extractions. Both player workshops and [[Game Design/Shared World/Economy and Contracts|world institutions]] transmit that demand. One world event therefore crosses the game through a shared chain:
 
 > diplomatic rupture → trade shock → workshop response → contract market → delver experience
 
 Ghostlight owns the foreign decision and external event. Delvehold owns the resulting quantitative trade, capacity, contract, and expedition consequences after admitting the typed response. The game client invents no parallel explanation, and neither simulation rewrites the other's decision.
+
+## Policy reaches the shelves
+
+Institutional policy propagates through the same material chain:
+
+> ratified policy → institutional plan → orders, services, reserves, and contracts → material execution → local supply, demand, shortages, and prices
+
+Every institutional action or failure names its institution and governing policy version. Unmet mandates, rationing, cancelled services or contracts, depleted reserves, failed imports, insolvency, aid, recapitalization, policy reversal, and restored throughput become visible through notices and through the underlying inventories, queues, routes, and receipts.
+
+Policy may impose an administered purchase or sale price, tax, subsidy, or ration. Those terms affect transactions but cannot overwrite the observed evidence of scarcity. A cheap public price attached to an empty shelf is not proof that the good remains cheap or available.
 
 ## The news feed
 
@@ -40,7 +50,7 @@ The feed also carries assembly notices, proposals, public testimony, audits, and
 
 ## Markets stay in the background
 
-Prices and inventories remain causal world signals, not the foreground identity of HOLD. The client does not expect players to trade abstract positions, read financial charts, or optimize a fantasy stock market.
+Prices and inventories remain causal world signals, not the foreground identity of HOLD. They are observed per Hold from local stock, demand, production, institutions, and route-mediated imports rather than published as one Greathold price. The client does not expect players to trade abstract positions, read financial charts, or optimize a fantasy stock market.
 
 A stockpile can still become valuable, impossible to replace, obsolete after a standards change, attractive to requisition, or expensive to keep while an expected crisis fails to arrive. Hoarding therefore has speculative consequences without being presented as a required speculation minigame.
 
@@ -50,6 +60,8 @@ Players who enjoy reading markets may act on those signals. Most players can tre
 
 News provides interpretation; the economy provides evidence. Neither is complete alone.
 
-Players should receive warning signals before major consequences, but those signals should preserve uncertainty. A price shock might indicate war, sanctions, a failed route, political theatre, ecological disruption, or an attempt to corner a market. Players create social knowledge by comparing reports with prices, contracts, expedition testimony, and conditions in neighbouring workshop shards.
+Players should receive warning signals before major consequences, but those signals should preserve uncertainty. A price shock might indicate war, sanctions, a failed route, political theatre, ecological disruption, or an attempt to corner a market. Players create social knowledge by comparing reports with prices, contracts, expedition testimony, and conditions in their Hold or among known partners.
+
+Dormant workshops vanish from live Hold discovery, market listings, ordinary news routing, and forecasts in every Hold where they maintain sites. Direct collaborators retain their identity-level shared history and the provenance of the sites through which they dealt; both become available again when the workshop identity reactivates.
 
 The living world is therefore not delivered as exposition. It is inferred through work, then argued about between players.

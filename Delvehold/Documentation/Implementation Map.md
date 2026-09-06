@@ -33,4 +33,4 @@ The seed state names one workshop, one commons, one dungeon core, one contract, 
 
 `scripts/verify-runtime.ps1` builds the three projects, starts the host, connects the headless Godot client, rejects an idempotency collision and an invalid projection, restarts the host against the same CultCache, and replays the original enter intent. The smoke compares the complete accepted receipt summary, including its original effective time, across both accepted calls, requires the CultCache state file to remain present, and rejects known canonical-write APIs in client source.
 
-Dungeon generation, CultMath randomness, CultGeometry isosurface extraction, gameplay mutation, and the Ghostlight boundary remain subsequent cuts.
+Vault and Hold state, workshop identity and presence, institutions, dungeon generation, CultMath randomness, CultGeometry isosurface extraction, gameplay mutation, and the Ghostlight boundary remain subsequent cuts.

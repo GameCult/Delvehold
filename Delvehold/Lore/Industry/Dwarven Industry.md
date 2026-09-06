@@ -27,6 +27,10 @@ Deep Companies run mining and core-farming operations at frontier sites. They fa
 
 Rune Colleges provide the theory and technical expertise that make industrial progress possible. Their instruments also produce the strongest evidence within the industry for core cognition—the possibility that dungeon cores can think. Their engineers argue over whether to publish that evidence. The question remains disputed.
 
+### Hold institutions
+
+A winter shortage reaches the institutions of the affected Hold before it reaches the whole Greathold. Lift offices ration freight. Reserve houses release crystal or keep it sealed. Public kitchens change what they serve while delver halls rewrite the contracts offered at the deep gates. Their mandates and stores were assembled through earlier moots, and a new gathering of seals can redirect, starve, privatize, or dismantle them.
+
 ### Guilds and labour
 
 Mechanized production reduces the standing of traditional smiths. Factory and mine workers organize over safety, working hours, crystal exposure, industrial disease, automation, and the hazards of core farms.

@@ -11,12 +11,16 @@ An expedition can return below quota with maps, evidence, injury, damaged equipm
 
 Consequences remain attached to their owners. Equipment left below can become dungeon matter or a salvage target. Debt remains an obligation with a creditor. Injury belongs to a person. Shortage changes facilities and contracts rather than subtracting an abstract happiness score.
 
+Institutional failure also creates future play without summoning a reset. Players may substitute production, organize mutual aid, release surviving reserves, salvage, import through receipted freight, commission an emergency delve, form another association, restructure an institution, reverse policy, migrate, or deliberately abandon and rebuild. Goods or contracts return only after an owner commits the required material action.
+
 ## Time commitments
 
 - A narrow expedition or workshop visit should produce useful progress in a short session.
 - Deeper expeditions and complex production chains support longer commitments by choice.
-- HOLD automation continues bounded work while absent without making constant attendance optimal.
+- HOLD automation in every workshop site continues only until its admitted work completes, its inputs run out, or the workshop-wide 36-hour presence lease expires.
 - Civic windows are generous, asynchronous, and optional.
 - Catch-up summarizes what happened; it does not secretly puppet a player.
 
 The world advances without requiring every player to be present. No absent player's uncommitted plan becomes an action.
+
+An authenticated foreground session renews workshop presence across its eligible sites; background jobs and client heartbeats do not. Lease expiry checkpoints every site once and removes the workshop from live Hold simulation without decay, forfeiture, relocation, or relationship loss. Catch-up reports the bounded active interval and dormancy receipt instead of replaying production through the dormant period.

@@ -9,7 +9,7 @@ The design is proven by visible paths, not by the existence of schemas.
 
 - A workshop decision changes a later expedition through canonical state.
 - An expedition outcome changes workshop, contract, civic, or dungeon decisions after reload.
-- Either mode remains playable when the other population is absent.
+- The seeded world gives either mode a viable entry path while the other player population is absent; later local policy or material failure may remove goods, services, or contracts without erasing recovery, civic action, or exit.
 - Failure returns material consequence and future play rather than an empty reset.
 
 ## World authority
@@ -28,6 +28,37 @@ The design is proven by visible paths, not by the existence of schemas.
 - Private beliefs do not become public news or canonical fact automatically.
 - Catch-up is bounded, names the interval it summarizes, and never puppets an absent player.
 - The visible news, price, contract, expedition, and workshop changes can be traced to typed events and receipts at the layer where players experience them.
+
+## Holds and workshop presence
+
+- A Vault opens through committed survey, route, provisioning, and settlement state inside the Greathold rather than through server selection.
+- Only active workshop sites contribute demand, production, discovery, notification, or infrastructure reservation in their Holds; only the singular civic home supplies ordinary future civic routing.
+- At 36-hour lease expiry, automation checkpoints once across every site, unaccepted listings and reservations disappear, accepted obligations settle exactly once under their site-local terms, and the workshop produces no continuing live load.
+- Dormancy preserves workshop identity, sites, local facilities and custody, history, relationships, seal identity, debts, completed acts, and already-cast votes.
+- Reactivating the workshop replays no dormant production, duplicates no facility or inventory, and moves no committed material between sites without explicit route and custody receipts.
+- A workshop may change its civic home or establish another site without gaining another seal; host-Hold policy governs every site regardless of the workshop's civic home.
+- A site cannot close while silently owning facilities, inventory, reservations, staff commitments, accepted orders, or contracts; every item settles or receives an explicit terminal receipt.
+- Quiet Holds persist, remain recoverable, and are never merged or wiped to repair population balance.
+
+## Institutional policy and economic failure
+
+- A seeded Hold's founding distribution policy produces ordinary procurement, reserves, services, and at least one expedition contract from real institutional assets.
+- Every institutional plan and result names its institution, governing policy version, relevant budget and material inputs, admitted actions, and shortfalls.
+- Lawfully cutting a budget, liquidating reserves, prohibiting a necessary import, redirecting infrastructure, or imposing unsatisfiable rationing can reduce or end local supply, services, demand, and contract volume.
+- An impossible service guarantee produces an attributable shortfall, cancellation, default, rationing decision, or insolvency event; no baseline generator injects replacement goods, money, capacity, or contracts.
+- Administered prices and access terms remain distinct from observed scarcity and realized trade.
+- Recovery requires an owned act such as production, funding, aid, reserve release, restructuring, policy change, or receipted freight. It never occurs because a forecast, interface, or reconciliation loop prefers the previous equilibrium.
+- Economic failure preserves truthful records, custody, contracts, civic inspection and participation, communication, and meaningful exit. It does not preserve local comfort or normal expedition availability.
+
+## Equipment and preparation
+
+- Each player has exactly five saved loadout slots; saving overwrites only the selected slot and creates no item movement, reservation, purchase, or service.
+- Equipped slots and carried inventory enforce their visible constraints, while private Hold gear storage has no player-facing capacity limit.
+- Restore fills only currently accessible saved gear and exposes every unavailable entry with actions to clear, source, replace, repair, or refit it. It never performs those actions silently.
+- Unique and provenance-sensitive gear resolves by identity; ordinary consumables may resolve by kind and quantity. Damaged owned gear remains visible as present and repairable rather than disappearing as missing.
+- Contract-offered gear is selectable only while custody terms permit and is never auto-equipped or written into a saved slot.
+- Departure atomically validates the visible equipped and carried state and records exactly that state without another confirmation screen.
+- Saved loadouts and Hold-addressed private gear storage survive dormancy and civic-home changes without creating live pressure or moving remote, lost, escrowed, dispatched, installed, institution-held, or returned-loan items.
 
 ## Procedural dungeon proof
 

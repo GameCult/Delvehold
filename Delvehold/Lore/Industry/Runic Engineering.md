@@ -25,6 +25,8 @@ This is **null termination**. The null rune is a right-to-left stroke that close
 
 Null is a learned rune like any other. Qualified mages carry it in their repertoire, but its purpose gives a badly drawn version no special protection against failure. Beginners learn the movement without releasing mana, then practise live termination under supervision.
 
+Casting and enchanting express the same operations in different structures. A field mage works under pressure, so common arrangements are compressed into single gestures that can be drawn quickly. An enchanter has room to lay the same operations out as separate runes, with their inputs, outputs, and connections visible. The two can produce the same effect by different means. A mage who knows the gesture may still need an enchanter to lay out its connections, and an enchanter who can route the graph may never have learned to draw it.
+
 ## Building wands and bindings
 
 A wand stores a connected arrangement of runes—a **rune graph**—and casts it when activated. Copying the graph is only part of making the wand. Its channels must be cut, filled, and joined, and the material carrying them changes how neighbouring mana flows interfere with one another. A faithful copy of a famous spell can still be a poor wand.

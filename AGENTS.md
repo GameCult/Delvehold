@@ -15,7 +15,9 @@
 - The Godot client and world host communicate through typed CultMesh commands, projections, capabilities, and receipts. Client-local prediction and presentation cannot commit shared truth.
 - Authoritative dungeon generation runs in the world host using GameCult.Math (CultMath), including `CultMath.Random`. CultGeometry (`GameCult.Geometry`) owns reusable isosurface extraction and neutral mesh artifacts; Godot only adapts committed results into engine objects.
 - Commands cross authority boundaries as typed intents and produce typed receipts.
-- Workshop shards are nodes in a persistent neighborhood graph. Shared edges require explicit ownership, capacity, provenance, and consent.
+- The Greathold contains Vault-anchored Holds joined by routes. A workshop has one durable identity, one civic home and seal, and zero or more Hold-local workshop sites. One workshop-wide 36-hour presence lease governs dormancy across every site; dormant workshops create no local pressure. Contracts, route transfers, and other typed relationships preserve ownership, capacity, provenance, and consent without redefining locality.
+- Each Hold begins with a resourced founding distribution policy, not a permanent economic floor. Ratified policy governs institutional mandates, budgets, procurement, reserves, access, rationing, trade, infrastructure, safety, and service obligations. Institutions plan individual actions from policy and actual material state; impossible mandates produce attributable failure, never invisible replenishment.
+- DELVE equipment authority lives in the visible gear slots and limited carried inventory. Each player has unlimited private Hold gear storage and exactly five saved loadouts; saves own no items, restore performs no silent acquisition or service, and departure automatically receipts the visible equipped and carried state.
 - Dungeon delving is part of a core's lifecycle. Industrial systems must remain legible to dungeon instinct as bounded, contested delving rather than direct tissue damage.
 - Greathold canon is owned by `Delvehold/Lore/The Greathold.md`: it is a multigenerationally cleared extension of the world-dungeon along the dwarven mountain spine. Its inherited deep routes and institutions created the global adventurer economy and enabled later industrial exploitation; industry did not discover dwarven deep access.
 
@@ -26,6 +28,7 @@
 - The masthead owns global section routes. Desktop and mobile within-section navigation are projections of the same Quartz content tree and active-section filters; do not maintain separate route lists.
 - Shared Quartz machinery remains owned by `GameCult/GameCult-Quartz`; do not vendor it here.
 - Generated output under `quartz-site/public/` is disposable and must not become source truth.
+- Game design, technical documentation, and lore are public project surfaces. Keep their canonical Markdown reachable through the corresponding masthead section and its projected content tree.
 
 ## Lore prose
 
@@ -33,3 +36,11 @@
 - Lore canon lives in claims, relationships, chronology, links, and ownership. Existing sentences are replaceable projections; preserve canon through a fact audit, not by protecting wording.
 - Accept prose only after full-page reading for voice, rhythm, specificity, continuity, and trust in the reader. Pattern counts can locate pressure but cannot demonstrate quality.
 - Commit `15863a7` is rejected prose evidence. Its sentence-local substitutions reduced surface markers while preserving viewpoint chorus, repeated frames, explanatory cadence, and authorial distance. Do not use its replacement passages as positive examples.
+
+## Reader calibration
+
+- Calibration drifts upward across passes and never downward, because writing above a reader reads as respect and writing below them reads as condescension. Each pass inherits the last one's ceiling. Assume drift is happening rather than waiting for a reader to report it.
+- Prose is legible to precisely the reader it was tuned for, which is whoever wrote it. Rereading cannot detect over-calibration; only a read without authorial context can. Perform the full-page read as someone arriving cold, with no knowledge of the pass that produced the page.
+- Completeness is not legibility. A breach compresses rather than omits: an argument folded into a named term is fully present and expandable only by someone who already holds it. Ask whether context is stated or merely named.
+- Restatement after an abstraction is error correction, not padding. Cutting it feels like tightening and removes the reader's recovery path.
+- The failure is silent. A newcomer understands every sentence while nothing accumulates, and names that feel weighty to us stay inert for them. That produces no complaint, so absence of complaint is not evidence.
