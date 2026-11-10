@@ -17,6 +17,9 @@ concurrency:
 
 jobs:
   deploy:
+    # The shared workflow publishes through GitHub Pages actions, which fail on
+    # the forge's runner (capacity 1). Run it on the GitHub mirror only.
+    if: github.server_url == 'https://github.com'
     uses: GameCult/GameCult-Quartz/.github/workflows/quartz-pages.yml@main
     with:
       content-dir: Delvehold
